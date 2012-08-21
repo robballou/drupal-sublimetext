@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[drupal_add_css(${1:data}${2:, ${3:options}});]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>drupal_add_css</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
