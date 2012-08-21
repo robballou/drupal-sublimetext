@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[module_invoke_all(${2:'${1:hook}'}${3:, ${4:\$${5:arg}}});]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>module_invoke_all</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

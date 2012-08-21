@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[db_query(${1:'${2:SELECT * FROM table}'});]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_query</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
