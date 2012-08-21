@@ -1,6 +1,8 @@
 {
 	"scope": "source.php",
 	"completions": [
+		"EntityFieldQuery",
+
 		"DRUPAL_CACHE_CUSTOM",
 		"DRUPAL_CACHE_GLOBAL",
 		"DRUPAL_CACHE_PER_PAGE",
