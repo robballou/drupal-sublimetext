@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_show</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_show(${1:node}${2:, ${3:message}})]]></content>
+</snippet>

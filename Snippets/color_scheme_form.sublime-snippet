@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>color_scheme_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[color_scheme_form(${1:complete_form}, ${2:form_state}, ${3:theme})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_form_system_performance_settings_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_form_system_performance_settings_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

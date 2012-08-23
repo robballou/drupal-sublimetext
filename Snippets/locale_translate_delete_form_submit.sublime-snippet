@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_translate_delete_form_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_translate_delete_form_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

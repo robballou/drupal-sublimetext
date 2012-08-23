@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_preprocess_comment</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_preprocess_comment(${1:variables})]]></content>
+</snippet>

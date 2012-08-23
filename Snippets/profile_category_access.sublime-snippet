@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_category_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_category_access(${1:account}, ${2:category})]]></content>
+</snippet>

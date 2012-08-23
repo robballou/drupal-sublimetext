@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>poll_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[poll_delete(${1:node})]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_attach_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_attach_submit().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_attach_submit(\$entity_type, \$entity, \$form, &\$form_state) {
+	$0
+}]]></content>
+</snippet>

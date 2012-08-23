@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.page_delivery_callback_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_page_delivery_callback_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_page_delivery_callback_alter(&\$callback) {
+	$0
+}]]></content>
+</snippet>

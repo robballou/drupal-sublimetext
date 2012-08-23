@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_attach_create_bundle</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_attach_create_bundle(${1:entity_type}, ${2:bundle})]]></content>
+</snippet>

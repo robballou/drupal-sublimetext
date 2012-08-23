@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_vocabulary_static_reset</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_vocabulary_static_reset(${1:, ${2:ids}})]]></content>
+</snippet>

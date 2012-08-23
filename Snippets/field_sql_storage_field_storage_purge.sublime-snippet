@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_sql_storage_field_storage_purge</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_sql_storage_field_storage_purge(${1:entity_type}, ${2:entity}, ${3:field}, ${4:instance})]]></content>
+</snippet>

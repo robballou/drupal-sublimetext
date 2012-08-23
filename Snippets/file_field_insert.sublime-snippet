@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_field_insert</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_field_insert(${1:entity_type}, ${2:entity}, ${3:field}, ${4:instance}, ${5:langcode}, ${6:items})]]></content>
+</snippet>

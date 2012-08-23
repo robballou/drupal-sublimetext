@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_create_field</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_create_field().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_create_field(\$field) {
+	$0
+}]]></content>
+</snippet>

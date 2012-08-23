@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_effect_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_effect_load(${1:ieid}, ${2:style_name}${3:, ${4:include}})]]></content>
+</snippet>

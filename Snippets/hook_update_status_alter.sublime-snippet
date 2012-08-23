@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.update_status_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_update_status_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_update_status_alter(&\$projects) {
+	$0
+}]]></content>
+</snippet>

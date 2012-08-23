@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_admin_display_prepare_blocks</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_admin_display_prepare_blocks(${1:theme})]]></content>
+</snippet>

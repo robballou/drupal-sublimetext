@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_info_formatter_types</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_info_formatter_types(${1:, ${2:formatter_type}})]]></content>
+</snippet>

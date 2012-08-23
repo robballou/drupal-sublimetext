@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dblog_event</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dblog_event(${1:id})]]></content>
+</snippet>

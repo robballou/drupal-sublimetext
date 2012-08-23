@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_field_display_node_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_field_display_node_alter(${1:display}, ${2:context})]]></content>
+</snippet>

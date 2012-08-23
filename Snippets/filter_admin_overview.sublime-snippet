@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_admin_overview</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_admin_overview(${1:form})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>translation_node_overview</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[translation_node_overview(${1:node})]]></content>
+</snippet>

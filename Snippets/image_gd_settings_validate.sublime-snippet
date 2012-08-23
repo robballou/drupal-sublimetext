@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_gd_settings_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_gd_settings_validate(${1:form}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_delete(${1:cid})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_system_modules_incompatible</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_system_modules_incompatible(${1:variables})]]></content>
+</snippet>

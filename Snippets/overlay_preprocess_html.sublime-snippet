@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_preprocess_html</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_preprocess_html(${1:variables})]]></content>
+</snippet>

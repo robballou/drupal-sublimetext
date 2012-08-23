@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_ui_get_destinations</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_ui_get_destinations(${1:destinations})]]></content>
+</snippet>

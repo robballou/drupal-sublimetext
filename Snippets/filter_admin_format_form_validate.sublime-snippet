@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_admin_format_form_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_admin_format_form_validate(${1:form}, ${2:form_state})]]></content>
+</snippet>

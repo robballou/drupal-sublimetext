@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_validate_current_pass</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_validate_current_pass(${1:form}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_mass_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_mass_update(${1:nodes}, ${2:updates})]]></content>
+</snippet>

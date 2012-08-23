@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_user_login</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_user_login(${1:edit}, ${2:account})]]></content>
+</snippet>

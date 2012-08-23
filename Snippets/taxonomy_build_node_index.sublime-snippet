@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_build_node_index</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_build_node_index(${1:node})]]></content>
+</snippet>

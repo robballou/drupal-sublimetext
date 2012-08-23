@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_field_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_field_form(${1:form}, ${2:form_state}${3:, ${4:arg}})]]></content>
+</snippet>

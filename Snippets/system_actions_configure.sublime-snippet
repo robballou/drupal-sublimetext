@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_actions_configure</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_actions_configure(${1:form}, ${2:form_state}${3:, ${4:action}})]]></content>
+</snippet>

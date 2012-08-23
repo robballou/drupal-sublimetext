@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.block_view_MODULE_DELTA_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_block_view_MODULE_DELTA_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_block_view_MODULE_DELTA_alter(&\$data, \$block) {
+	$0
+}]]></content>
+</snippet>

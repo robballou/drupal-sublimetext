@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_admin</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_admin(${1:, ${2:type}})]]></content>
+</snippet>

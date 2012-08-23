@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_field_language_fallback</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_field_language_fallback(${1:display_language}, ${2:entity}, ${3:langcode})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>contact_site_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[contact_site_form(${1:form}, ${2:form_state})]]></content>
+</snippet>

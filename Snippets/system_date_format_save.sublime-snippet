@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_date_format_save</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_date_format_save(${1:date_format}${2:, ${3:dfid}})]]></content>
+</snippet>

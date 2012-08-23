@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_system_info_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_system_info_alter(${1:info}, ${2:file}, ${3:type})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_view_field</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_view_field(${1:account}, ${2:field})]]></content>
+</snippet>

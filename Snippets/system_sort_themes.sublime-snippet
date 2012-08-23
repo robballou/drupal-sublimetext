@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_sort_themes</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_sort_themes(${1:a}, ${2:b})]]></content>
+</snippet>

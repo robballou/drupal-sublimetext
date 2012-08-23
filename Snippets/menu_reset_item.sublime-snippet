@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_reset_item</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_reset_item(${1:link})]]></content>
+</snippet>

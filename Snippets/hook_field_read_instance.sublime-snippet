@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_read_instance</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_read_instance().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_read_instance(\$instance) {
+	$0
+}]]></content>
+</snippet>

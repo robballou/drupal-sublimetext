@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_set_mode</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_set_mode(${1:, ${2:mode}})]]></content>
+</snippet>

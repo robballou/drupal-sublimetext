@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_get_file_references</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_get_file_references(${1:file}${2:, ${3:field}${4:, ${5:age}${6:, ${7:field_type}}}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_dashboard_disabled_blocks</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_dashboard_disabled_blocks(${1:variables})]]></content>
+</snippet>

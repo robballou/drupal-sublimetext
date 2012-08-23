@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_menu_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_menu_alter(${1:items})]]></content>
+</snippet>

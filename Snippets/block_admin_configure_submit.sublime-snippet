@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_admin_configure_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_admin_configure_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

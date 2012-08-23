@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_ui_inactive_instances</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_ui_inactive_instances(${1:entity_type}${2:, ${3:bundle_name}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_field_attach_view_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_field_attach_view_alter(${1:output}, ${2:context})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_page_delivery_callback_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_page_delivery_callback_alter(${1:callback})]]></content>
+</snippet>

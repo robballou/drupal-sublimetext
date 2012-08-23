@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_process_overlay</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_process_overlay(${1:variables})]]></content>
+</snippet>

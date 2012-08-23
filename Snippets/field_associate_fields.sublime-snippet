@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_associate_fields</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_associate_fields(${1:module})]]></content>
+</snippet>

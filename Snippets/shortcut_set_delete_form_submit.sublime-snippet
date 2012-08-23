@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_set_delete_form_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_set_delete_form_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

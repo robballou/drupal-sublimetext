@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_preprocess_book_navigation</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_preprocess_book_navigation(${1:variables})]]></content>
+</snippet>

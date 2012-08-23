@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_system_themes_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_system_themes_page(${1:variables})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_node_recent_content</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_node_recent_content(${1:variables})]]></content>
+</snippet>

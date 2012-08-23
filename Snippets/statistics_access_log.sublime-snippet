@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>statistics_access_log</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[statistics_access_log(${1:aid})]]></content>
+</snippet>

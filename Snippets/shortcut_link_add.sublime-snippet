@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_link_add</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_link_add(${1:form}, ${2:form_state}, ${3:shortcut_set})]]></content>
+</snippet>

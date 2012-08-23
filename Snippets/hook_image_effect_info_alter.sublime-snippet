@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.image_effect_info_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_image_effect_info_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_image_effect_info_alter(&\$effects) {
+	$0
+}]]></content>
+</snippet>

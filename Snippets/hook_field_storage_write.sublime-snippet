@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_storage_write</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_storage_write().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_storage_write(\$entity_type, \$entity, \$op, \$fields) {
+	$0
+}]]></content>
+</snippet>

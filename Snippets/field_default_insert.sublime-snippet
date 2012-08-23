@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_default_insert</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_default_insert(${1:entity_type}, ${2:entity}, ${3:field}, ${4:instance}, ${5:langcode}, ${6:items})]]></content>
+</snippet>

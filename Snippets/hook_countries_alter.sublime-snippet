@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.countries_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_countries_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_countries_alter(&\$countries) {
+	$0
+}]]></content>
+</snippet>

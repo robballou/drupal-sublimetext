@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.verify_update_archive</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_verify_update_archive().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_verify_update_archive(\$project, \$archive_file, \$directory) {
+	$0
+}]]></content>
+</snippet>

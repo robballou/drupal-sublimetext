@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_load(${1:cid}${2:, ${3:reset}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>simpletest_generate_file</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[simpletest_generate_file(${1:filename}, ${2:width}, ${3:lines}${4:, ${5:type}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_modules_installed</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_modules_installed(${1:modules})]]></content>
+</snippet>

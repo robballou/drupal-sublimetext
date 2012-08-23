@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_list_format</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_list_format(${1:format_id})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_view_multiple</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_view_multiple(${1:nodes}${2:, ${3:view_mode}${4:, ${5:weight}${6:, ${7:langcode}}}})]]></content>
+</snippet>

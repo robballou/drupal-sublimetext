@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_get_plural</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_get_plural(${1:count}${2:, ${3:langcode}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_file_upload_help</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_file_upload_help(${1:variables})]]></content>
+</snippet>

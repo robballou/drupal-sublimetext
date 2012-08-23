@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_field_delete_revision</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_field_delete_revision(${1:entity_type}, ${2:entity}, ${3:field}, ${4:instance}, ${5:langcode}, ${6:items})]]></content>
+</snippet>

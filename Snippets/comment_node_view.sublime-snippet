@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_node_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_node_view(${1:node}, ${2:view_mode})]]></content>
+</snippet>

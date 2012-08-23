@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_process</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_process(${1:variables}, ${2:hook})]]></content>
+</snippet>

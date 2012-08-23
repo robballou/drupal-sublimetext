@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_update().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_update(\$entity_type, \$entity, \$field, \$instance, \$langcode, &\$items) {
+	$0
+}]]></content>
+</snippet>

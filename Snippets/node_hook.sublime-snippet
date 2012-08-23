@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_hook</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_hook(${1:node}, ${2:hook})]]></content>
+</snippet>

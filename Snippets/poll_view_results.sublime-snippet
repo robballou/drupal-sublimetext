@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>poll_view_results</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[poll_view_results(${1:node}, ${2:view_mode}${3:, ${4:block}})]]></content>
+</snippet>

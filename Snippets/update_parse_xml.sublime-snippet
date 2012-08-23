@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_parse_xml</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_parse_xml(${1:raw_xml})]]></content>
+</snippet>

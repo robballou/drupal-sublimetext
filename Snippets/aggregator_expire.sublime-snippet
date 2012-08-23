@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_expire</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_expire(${1:feed})]]></content>
+</snippet>

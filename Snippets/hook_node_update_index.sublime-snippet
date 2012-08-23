@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.node_update_index</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_node_update_index().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_node_update_index(\$node) {
+	$0
+}]]></content>
+</snippet>

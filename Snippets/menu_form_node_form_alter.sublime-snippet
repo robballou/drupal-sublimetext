@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_form_node_form_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_form_node_form_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

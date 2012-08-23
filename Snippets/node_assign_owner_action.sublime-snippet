@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_assign_owner_action</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_assign_owner_action(${1:node}, ${2:context})]]></content>
+</snippet>

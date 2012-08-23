@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_touch_node</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_touch_node(${1:nid})]]></content>
+</snippet>

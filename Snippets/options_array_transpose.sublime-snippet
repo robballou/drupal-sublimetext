@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>options_array_transpose</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[options_array_transpose(${1:array})]]></content>
+</snippet>

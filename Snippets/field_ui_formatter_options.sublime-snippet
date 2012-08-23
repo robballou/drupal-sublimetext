@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_ui_formatter_options</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_ui_formatter_options(${1:, ${2:field_type}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_vocabulary_machine_name_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_vocabulary_machine_name_load(${1:name})]]></content>
+</snippet>

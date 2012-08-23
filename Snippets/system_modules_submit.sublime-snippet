@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_modules_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_modules_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_type_update_nodes</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_type_update_nodes(${1:old_type}, ${2:type})]]></content>
+</snippet>

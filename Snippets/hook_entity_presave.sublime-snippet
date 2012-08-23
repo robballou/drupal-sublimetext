@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.entity_presave</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_entity_presave().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_entity_presave(\$entity, \$type) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_implode_tags</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_implode_tags(${1:tags}${2:, ${3:vid}})]]></content>
+</snippet>

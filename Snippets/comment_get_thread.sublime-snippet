@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_get_thread</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_get_thread(${1:node}, ${2:mode}, ${3:comments_per_page})]]></content>
+</snippet>

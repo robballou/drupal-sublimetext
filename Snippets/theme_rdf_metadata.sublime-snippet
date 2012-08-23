@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_rdf_metadata</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_rdf_metadata(${1:variables})]]></content>
+</snippet>

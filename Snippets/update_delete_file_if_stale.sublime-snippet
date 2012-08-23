@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_delete_file_if_stale</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_delete_file_if_stale(${1:path})]]></content>
+</snippet>

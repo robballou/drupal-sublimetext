@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.openid_response</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_openid_response().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_openid_response(\$response, \$account) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_prev</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_prev(${1:book_link})]]></content>
+</snippet>

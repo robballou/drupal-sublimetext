@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_is_empty</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_is_empty().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_is_empty(\$item, \$field) {
+	$0
+}]]></content>
+</snippet>

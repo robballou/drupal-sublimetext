@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_sql_storage_field_update_forbid</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_sql_storage_field_update_forbid(${1:field}, ${2:prior_field}, ${3:has_data})]]></content>
+</snippet>

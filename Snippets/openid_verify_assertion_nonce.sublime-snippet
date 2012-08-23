@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_verify_assertion_nonce</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_verify_assertion_nonce(${1:service}, ${2:response})]]></content>
+</snippet>

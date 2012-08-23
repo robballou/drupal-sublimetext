@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_access(${1:string}${2:, ${3:account}})]]></content>
+</snippet>

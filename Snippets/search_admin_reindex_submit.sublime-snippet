@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_admin_reindex_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_admin_reindex_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_user_operations_unblock</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_user_operations_unblock(${1:accounts})]]></content>
+</snippet>

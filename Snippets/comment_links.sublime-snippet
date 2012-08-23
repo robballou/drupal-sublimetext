@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_links</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_links(${1:comment}, ${2:node})]]></content>
+</snippet>

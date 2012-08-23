@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_page_title</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_page_title(${1:account})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_access(${1:format}${2:, ${3:account}})]]></content>
+</snippet>

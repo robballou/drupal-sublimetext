@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_expand_cjk</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_expand_cjk(${1:matches})]]></content>
+</snippet>

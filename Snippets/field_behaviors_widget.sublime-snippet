@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_behaviors_widget</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_behaviors_widget(${1:op}, ${2:instance})]]></content>
+</snippet>

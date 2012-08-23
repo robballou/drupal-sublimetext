@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>simpletest_log_read</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[simpletest_log_read(${1:test_id}, ${2:prefix}, ${3:test_class}${4:, ${5:during_test}})]]></content>
+</snippet>

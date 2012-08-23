@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_help</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_help(${1:path}, ${2:arg})]]></content>
+</snippet>

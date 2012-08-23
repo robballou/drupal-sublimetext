@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_js_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_js_alter(${1:javascript})]]></content>
+</snippet>

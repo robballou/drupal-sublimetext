@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_preprocess_user_picture</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_preprocess_user_picture(${1:variables})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>poll_field_attach_prepare_translation_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[poll_field_attach_prepare_translation_alter(${1:entity}, ${2:context})]]></content>
+</snippet>

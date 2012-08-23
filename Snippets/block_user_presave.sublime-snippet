@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_user_presave</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_user_presave(${1:edit}, ${2:account}, ${3:category})]]></content>
+</snippet>

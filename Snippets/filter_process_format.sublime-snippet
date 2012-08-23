@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_process_format</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_process_format(${1:element})]]></content>
+</snippet>

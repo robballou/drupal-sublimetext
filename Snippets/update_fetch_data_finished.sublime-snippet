@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_fetch_data_finished</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_fetch_data_finished(${1:success}, ${2:results})]]></content>
+</snippet>

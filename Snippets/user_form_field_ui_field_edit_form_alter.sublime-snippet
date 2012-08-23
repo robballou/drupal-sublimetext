@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_form_field_ui_field_edit_form_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_form_field_ui_field_edit_form_alter(${1:form}, ${2:form_state}, ${3:form_id})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_formats</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_formats(${1:, ${2:account}})]]></content>
+</snippet>

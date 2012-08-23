@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>number_field_instance_settings_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[number_field_instance_settings_form(${1:field}, ${2:instance})]]></content>
+</snippet>

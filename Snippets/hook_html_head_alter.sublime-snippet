@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.html_head_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_html_head_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_html_head_alter(&\$head_elements) {
+	$0
+}]]></content>
+</snippet>

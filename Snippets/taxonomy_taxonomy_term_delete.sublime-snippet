@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_taxonomy_term_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_taxonomy_term_delete(${1:term})]]></content>
+</snippet>

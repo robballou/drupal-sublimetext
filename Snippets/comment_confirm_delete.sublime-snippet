@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_confirm_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_confirm_delete(${1:form}, ${2:form_state}, ${3:comment})]]></content>
+</snippet>

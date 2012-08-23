@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_link_add_inline</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_link_add_inline(${1:shortcut_set})]]></content>
+</snippet>

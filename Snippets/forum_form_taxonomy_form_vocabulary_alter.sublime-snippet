@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_form_taxonomy_form_vocabulary_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_form_taxonomy_form_vocabulary_alter(${1:form}, ${2:form_state}, ${3:form_id})]]></content>
+</snippet>

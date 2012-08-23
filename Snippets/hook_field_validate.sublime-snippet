@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_validate().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_validate(\$entity_type, \$entity, \$field, \$instance, \$langcode, \$items, &\$errors) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_uid_optional_to_arg</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_uid_optional_to_arg(${1:arg})]]></content>
+</snippet>

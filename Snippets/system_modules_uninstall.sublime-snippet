@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_modules_uninstall</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_modules_uninstall(${1:form}${2:, ${3:form_state}})]]></content>
+</snippet>

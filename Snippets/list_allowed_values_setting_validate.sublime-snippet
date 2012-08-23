@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>list_allowed_values_setting_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[list_allowed_values_setting_validate(${1:element}, ${2:form_state})]]></content>
+</snippet>

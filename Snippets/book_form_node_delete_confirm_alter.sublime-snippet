@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_form_node_delete_confirm_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_form_node_delete_confirm_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

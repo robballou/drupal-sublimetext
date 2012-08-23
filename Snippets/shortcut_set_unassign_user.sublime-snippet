@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_set_unassign_user</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_set_unassign_user(${1:account})]]></content>
+</snippet>

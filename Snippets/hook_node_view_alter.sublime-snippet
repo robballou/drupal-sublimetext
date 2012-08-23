@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.node_view_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_node_view_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_node_view_alter(&\$build) {
+	$0
+}]]></content>
+</snippet>

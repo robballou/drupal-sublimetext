@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_node_prepare</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_node_prepare(${1:node})]]></content>
+</snippet>

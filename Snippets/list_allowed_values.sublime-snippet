@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>list_allowed_values</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[list_allowed_values(${1:field}${2:, ${3:instance}${4:, ${5:entity_type}${6:, ${7:entity}}}})]]></content>
+</snippet>

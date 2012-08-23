@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.preprocess_HOOK</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_preprocess_HOOK().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_HOOK(&\$variables) {
+	$0
+}]]></content>
+</snippet>

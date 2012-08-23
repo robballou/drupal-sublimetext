@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_redirect_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_redirect_form(${1:form}, ${2:form_state}, ${3:url}, ${4:message})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_preprocess_comment_wrapper</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_preprocess_comment_wrapper(${1:variables})]]></content>
+</snippet>

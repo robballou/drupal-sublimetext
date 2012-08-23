@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_discovery</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_discovery(${1:claimed_id})]]></content>
+</snippet>

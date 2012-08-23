@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_style_transform_dimensions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_style_transform_dimensions(${1:style_name}, ${2:rray &$dimensions})]]></content>
+</snippet>

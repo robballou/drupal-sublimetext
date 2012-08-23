@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_ui_table_pre_render</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_ui_table_pre_render(${1:elements})]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.system_themes_page_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_system_themes_page_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_system_themes_page_alter(&\$theme_groups) {
+	$0
+}]]></content>
+</snippet>

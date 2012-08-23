@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_system_file_system_settings_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_system_file_system_settings_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

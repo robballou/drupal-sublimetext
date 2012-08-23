@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_custom_block_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_custom_block_delete(${1:form}, ${2:form_state}, ${3:module}, ${4:delta})]]></content>
+</snippet>

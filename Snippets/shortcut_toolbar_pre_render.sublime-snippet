@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_toolbar_pre_render</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_toolbar_pre_render(${1:toolbar})]]></content>
+</snippet>

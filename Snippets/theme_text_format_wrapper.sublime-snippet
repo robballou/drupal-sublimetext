@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_text_format_wrapper</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_text_format_wrapper(${1:variables})]]></content>
+</snippet>

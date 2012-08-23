@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_term_confirm_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_term_confirm_delete(${1:form}, ${2:form_state}, ${3:tid})]]></content>
+</snippet>

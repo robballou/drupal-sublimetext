@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_unpublish_by_keyword_action</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_unpublish_by_keyword_action(${1:comment}, ${2:context})]]></content>
+</snippet>

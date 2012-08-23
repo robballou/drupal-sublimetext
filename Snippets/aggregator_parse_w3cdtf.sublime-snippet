@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_parse_w3cdtf</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_parse_w3cdtf(${1:date_str})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_multilingual_node_type</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_multilingual_node_type(${1:type_name})]]></content>
+</snippet>

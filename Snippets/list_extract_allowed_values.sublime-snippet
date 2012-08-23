@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>list_extract_allowed_values</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[list_extract_allowed_values(${1:string}, ${2:field_type}, ${3:generate_keys})]]></content>
+</snippet>

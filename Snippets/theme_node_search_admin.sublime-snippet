@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_node_search_admin</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_node_search_admin(${1:variables})]]></content>
+</snippet>

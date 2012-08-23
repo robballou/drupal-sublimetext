@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_attach_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_attach_form(${1:entity_type}, ${2:entity}, ${3:form}, ${4:form_state}${5:, ${6:langcode}})]]></content>
+</snippet>

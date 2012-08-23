@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_ui_display_overview_multistep_js</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_ui_display_overview_multistep_js(${1:form}, ${2:form_state})]]></content>
+</snippet>

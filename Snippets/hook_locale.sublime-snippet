@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.locale</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_locale().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_locale(\$op = 'groups') {
+	$0
+}]]></content>
+</snippet>

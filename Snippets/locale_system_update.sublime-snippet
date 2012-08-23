@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_system_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_system_update(${1:components})]]></content>
+</snippet>

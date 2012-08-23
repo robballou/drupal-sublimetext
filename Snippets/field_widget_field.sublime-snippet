@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_widget_field</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_widget_field(${1:element}, ${2:form_state})]]></content>
+</snippet>

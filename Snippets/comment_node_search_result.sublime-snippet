@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_node_search_result</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_node_search_result(${1:node})]]></content>
+</snippet>

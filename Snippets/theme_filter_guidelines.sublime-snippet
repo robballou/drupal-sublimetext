@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_filter_guidelines</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_filter_guidelines(${1:variables})]]></content>
+</snippet>

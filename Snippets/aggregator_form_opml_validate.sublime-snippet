@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_form_opml_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_form_opml_validate(${1:form}, ${2:form_state})]]></content>
+</snippet>

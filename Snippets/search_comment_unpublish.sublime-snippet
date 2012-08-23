@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_comment_unpublish</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_comment_unpublish(${1:comment})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>translation_path_get_translations</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[translation_path_get_translations(${1:path})]]></content>
+</snippet>

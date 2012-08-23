@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_get_flat_menu</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_get_flat_menu(${1:book_link})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>simpletest_registry_files_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[simpletest_registry_files_alter(${1:files}, ${2:modules})]]></content>
+</snippet>

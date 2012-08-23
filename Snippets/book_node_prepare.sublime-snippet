@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_node_prepare</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_node_prepare(${1:node})]]></content>
+</snippet>

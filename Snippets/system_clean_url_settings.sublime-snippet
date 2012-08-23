@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_clean_url_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_clean_url_settings(${1:form}, ${2:form_state})]]></content>
+</snippet>

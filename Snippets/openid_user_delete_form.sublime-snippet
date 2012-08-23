@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_user_delete_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_user_delete_form(${1:form}, ${2:form_state}, ${3:account}${4:, ${5:aid}})]]></content>
+</snippet>

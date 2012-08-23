@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_create_fetch_task</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_create_fetch_task(${1:project})]]></content>
+</snippet>

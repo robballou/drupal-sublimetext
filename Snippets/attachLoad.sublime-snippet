@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>attachLoad</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[attachLoad(${1:queried_users}${2:, ${3:revision_id}})]]></content>
+</snippet>

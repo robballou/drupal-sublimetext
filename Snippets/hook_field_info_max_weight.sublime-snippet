@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_info_max_weight</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_info_max_weight().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_info_max_weight(\$entity_type, \$bundle, \$context) {
+	$0
+}]]></content>
+</snippet>

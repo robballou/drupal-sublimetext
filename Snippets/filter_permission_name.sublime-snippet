@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_permission_name</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_permission_name(${1:format})]]></content>
+</snippet>

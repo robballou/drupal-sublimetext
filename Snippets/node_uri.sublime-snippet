@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_uri</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_uri(${1:node})]]></content>
+</snippet>

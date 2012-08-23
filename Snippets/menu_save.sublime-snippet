@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_save</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_save(${1:menu})]]></content>
+</snippet>

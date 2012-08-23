@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_dom_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_dom_load(${1:text})]]></content>
+</snippet>

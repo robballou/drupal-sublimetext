@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_module_invoke</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_module_invoke(${1:type}, ${2:edit}, ${3:account}${4:, ${5:category}})]]></content>
+</snippet>

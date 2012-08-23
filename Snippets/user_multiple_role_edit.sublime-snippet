@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_multiple_role_edit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_multiple_role_edit(${1:accounts}, ${2:operation}, ${3:rid})]]></content>
+</snippet>

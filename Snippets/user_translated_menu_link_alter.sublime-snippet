@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_translated_menu_link_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_translated_menu_link_alter(${1:link})]]></content>
+</snippet>

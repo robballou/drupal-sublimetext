@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_region_list</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_region_list(${1:theme_key}${2:, ${3:show}})]]></content>
+</snippet>

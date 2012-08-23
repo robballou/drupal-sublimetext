@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_user_add_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_user_add_validate(${1:form}, ${2:form_state})]]></content>
+</snippet>

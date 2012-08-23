@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_block_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_block_view(${1:, ${2:delta}})]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_storage_details_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_storage_details_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_storage_details_alter(&\$details, \$field) {
+	$0
+}]]></content>
+</snippet>

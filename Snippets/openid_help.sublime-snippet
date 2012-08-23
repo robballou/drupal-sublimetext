@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_help</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_help(${1:path}, ${2:arg})]]></content>
+</snippet>

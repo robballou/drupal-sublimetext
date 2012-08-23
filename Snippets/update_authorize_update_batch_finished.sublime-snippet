@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_authorize_update_batch_finished</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_authorize_update_batch_finished(${1:success}, ${2:results})]]></content>
+</snippet>

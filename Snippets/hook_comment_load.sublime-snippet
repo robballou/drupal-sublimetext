@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.comment_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_comment_load().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_comment_load(\$comments) {
+	$0
+}]]></content>
+</snippet>

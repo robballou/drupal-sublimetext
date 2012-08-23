@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_vocabulary_confirm_reset_alphabetical</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_vocabulary_confirm_reset_alphabetical(${1:form}, ${2:form_state}, ${3:vid})]]></content>
+</snippet>

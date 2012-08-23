@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_user_timezone</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_user_timezone(${1:form}, ${2:form_state})]]></content>
+</snippet>

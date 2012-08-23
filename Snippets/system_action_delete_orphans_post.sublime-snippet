@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_action_delete_orphans_post</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_action_delete_orphans_post(${1:orphaned})]]></content>
+</snippet>

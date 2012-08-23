@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_new_page_count</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_new_page_count(${1:num_comments}, ${2:new_replies}, ${3:node})]]></content>
+</snippet>

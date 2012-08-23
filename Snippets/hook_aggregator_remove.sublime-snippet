@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.aggregator_remove</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_aggregator_remove().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_aggregator_remove(\$feed) {
+	$0
+}]]></content>
+</snippet>

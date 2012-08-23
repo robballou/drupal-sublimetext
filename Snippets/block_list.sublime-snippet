@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_list</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_list(${1:region})]]></content>
+</snippet>

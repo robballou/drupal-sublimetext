@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_category_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_category_load(${1:uid}, ${2:map}, ${3:index})]]></content>
+</snippet>

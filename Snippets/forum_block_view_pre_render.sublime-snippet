@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_block_view_pre_render</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_block_view_pre_render(${1:elements})]]></content>
+</snippet>

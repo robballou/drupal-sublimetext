@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_batch_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_batch_alter(${1:batch})]]></content>
+</snippet>

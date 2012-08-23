@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_load(${1:module}, ${2:delta})]]></content>
+</snippet>

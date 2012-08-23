@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_get_recent</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_get_recent(${1:, ${2:number}})]]></content>
+</snippet>

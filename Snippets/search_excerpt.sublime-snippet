@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_excerpt</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_excerpt(${1:keys}, ${2:text})]]></content>
+</snippet>

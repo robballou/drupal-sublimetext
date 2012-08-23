@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_confirm_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_confirm_delete(${1:form}, ${2:form_state}, ${3:tid})]]></content>
+</snippet>

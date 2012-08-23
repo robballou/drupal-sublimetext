@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.entity_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_entity_load().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_entity_load(\$entities, \$type) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>color_get_palette</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[color_get_palette(${1:theme}${2:, ${3:default}})]]></content>
+</snippet>

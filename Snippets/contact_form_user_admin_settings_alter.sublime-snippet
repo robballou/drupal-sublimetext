@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>contact_form_user_admin_settings_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[contact_form_user_admin_settings_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_translate_delete_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_translate_delete_page(${1:lid})]]></content>
+</snippet>

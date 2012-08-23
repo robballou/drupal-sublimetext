@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.taxonomy_vocabulary_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_taxonomy_vocabulary_update().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_taxonomy_vocabulary_update(\$vocabulary) {
+	$0
+}]]></content>
+</snippet>

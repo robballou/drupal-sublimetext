@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>options_array_flatten</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[options_array_flatten(${1:array})]]></content>
+</snippet>

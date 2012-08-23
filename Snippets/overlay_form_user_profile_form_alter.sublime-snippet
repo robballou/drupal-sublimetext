@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_form_user_profile_form_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_form_user_profile_form_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

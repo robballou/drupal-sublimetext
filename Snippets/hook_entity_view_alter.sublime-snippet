@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.entity_view_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_entity_view_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_entity_view_alter(&\$build, \$type) {
+	$0
+}]]></content>
+</snippet>

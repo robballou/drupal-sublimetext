@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_project_cache</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_project_cache(${1:cid})]]></content>
+</snippet>

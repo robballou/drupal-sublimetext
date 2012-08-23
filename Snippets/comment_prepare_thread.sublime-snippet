@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_prepare_thread</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_prepare_thread(${1:comments})]]></content>
+</snippet>

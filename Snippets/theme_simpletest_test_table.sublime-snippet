@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_simpletest_test_table</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_simpletest_test_table(${1:variables})]]></content>
+</snippet>

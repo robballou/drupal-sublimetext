@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_autocomplete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_autocomplete(${1:, ${2:string}})]]></content>
+</snippet>

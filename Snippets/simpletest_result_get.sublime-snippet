@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>simpletest_result_get</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[simpletest_result_get(${1:test_id})]]></content>
+</snippet>

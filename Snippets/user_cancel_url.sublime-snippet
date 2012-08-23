@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_cancel_url</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_cancel_url(${1:account})]]></content>
+</snippet>

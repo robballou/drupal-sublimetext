@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_ui_field_overview_form_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_ui_field_overview_form_validate(${1:form}, ${2:form_state})]]></content>
+</snippet>

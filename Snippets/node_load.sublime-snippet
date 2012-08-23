@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[node_load(${1:nid}${2:, ${3:vid}${4:, ${5:reset}}});]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>node_load</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
+<content><![CDATA[node_load(${1:, ${2:nid}${3:, ${4:vid}${5:, ${6:reset}}}})]]></content>
 </snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_simplify</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_simplify(${1:text})]]></content>
+</snippet>

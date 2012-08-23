@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_mail</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_mail(${1:key}, ${2:message}, ${3:params})]]></content>
+</snippet>

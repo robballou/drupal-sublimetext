@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_preprocess_block</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_preprocess_block(${1:variables})]]></content>
+</snippet>

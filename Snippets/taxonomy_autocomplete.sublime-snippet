@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_autocomplete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_autocomplete(${1:field_name}${2:, ${3:tags_typed}})]]></content>
+</snippet>

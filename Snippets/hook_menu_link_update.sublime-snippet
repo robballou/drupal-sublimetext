@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.menu_link_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_menu_link_update().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_menu_link_update(\$link) {
+	$0
+}]]></content>
+</snippet>

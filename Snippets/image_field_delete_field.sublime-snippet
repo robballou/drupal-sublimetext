@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_field_delete_field</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_field_delete_field(${1:field})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>toolbar_preprocess_html</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[toolbar_preprocess_html(${1:vars})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>blog_feed_user</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[blog_feed_user(${1:account})]]></content>
+</snippet>

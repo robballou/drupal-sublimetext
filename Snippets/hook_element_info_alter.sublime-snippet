@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.element_info_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_element_info_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_element_info_alter(&\$type) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>blog_menu_local_tasks_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[blog_menu_local_tasks_alter(${1:data}, ${2:router_item}, ${3:root_path})]]></content>
+</snippet>

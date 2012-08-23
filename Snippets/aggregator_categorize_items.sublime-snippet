@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_categorize_items</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_categorize_items(${1:items}${2:, ${3:feed_source}})]]></content>
+</snippet>

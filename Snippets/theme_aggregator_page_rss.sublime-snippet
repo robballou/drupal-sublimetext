@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_aggregator_page_rss</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_aggregator_page_rss(${1:variables})]]></content>
+</snippet>

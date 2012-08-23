@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_help</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_help(${1:path}, ${2:arg})]]></content>
+</snippet>

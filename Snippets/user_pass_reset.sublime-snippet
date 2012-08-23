@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_pass_reset</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_pass_reset(${1:form}, ${2:form_state}, ${3:uid}, ${4:timestamp}, ${5:hashed_pass}${6:, ${7:action}})]]></content>
+</snippet>

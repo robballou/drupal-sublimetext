@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_admin_overview</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_admin_overview(${1:form})]]></content>
+</snippet>

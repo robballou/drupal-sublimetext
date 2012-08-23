@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_cookie_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_cookie_delete(${1:cookie_name})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_filter_admin_format_filter_order</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_filter_admin_format_filter_order(${1:variables})]]></content>
+</snippet>

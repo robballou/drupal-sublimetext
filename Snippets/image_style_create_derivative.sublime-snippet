@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_style_create_derivative</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_style_create_derivative(${1:style}, ${2:source}, ${3:destination})]]></content>
+</snippet>

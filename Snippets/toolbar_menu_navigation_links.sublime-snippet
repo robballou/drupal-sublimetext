@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>toolbar_menu_navigation_links</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[toolbar_menu_navigation_links(${1:tree})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_menu_site_status_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_menu_site_status_alter(${1:menu_site_status}, ${2:path})]]></content>
+</snippet>

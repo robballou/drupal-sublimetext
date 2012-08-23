@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_admin_display_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_admin_display_form(${1:form}, ${2:form_state}, ${3:blocks}, ${4:theme}${5:, ${6:block_regions}})]]></content>
+</snippet>

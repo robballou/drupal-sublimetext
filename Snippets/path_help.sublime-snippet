@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>path_help</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[path_help(${1:path}, ${2:arg})]]></content>
+</snippet>

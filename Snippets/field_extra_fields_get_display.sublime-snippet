@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_extra_fields_get_display</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_extra_fields_get_display(${1:entity_type}, ${2:bundle}, ${3:view_mode})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_purge_field</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_purge_field(${1:field})]]></content>
+</snippet>

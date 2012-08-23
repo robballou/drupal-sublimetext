@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>list_field_widget_info_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[list_field_widget_info_alter(${1:info})]]></content>
+</snippet>

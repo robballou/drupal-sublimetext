@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_icon_path</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_icon_path(${1:file}${2:, ${3:icon_directory}})]]></content>
+</snippet>

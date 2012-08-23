@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_formatter_prepare_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_formatter_prepare_view().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_formatter_prepare_view(\$entity_type, \$entities, \$field, \$instances, \$langcode, &\$items, \$displays) {
+	$0
+}]]></content>
+</snippet>

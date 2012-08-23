@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_calculate_project_update_status</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_calculate_project_update_status(${1:project}, ${2:project_data}, ${3:available})]]></content>
+</snippet>

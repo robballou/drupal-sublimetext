@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_element_start</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_element_start(${1:parser}, ${2:name}, ${3:attributes})]]></content>
+</snippet>

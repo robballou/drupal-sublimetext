@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_update_manager_update_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_update_manager_update_form(${1:variables})]]></content>
+</snippet>

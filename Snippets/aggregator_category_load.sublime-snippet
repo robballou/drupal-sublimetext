@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_category_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_category_load(${1:cid})]]></content>
+</snippet>

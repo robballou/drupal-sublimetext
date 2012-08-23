@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_revision_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_revision_delete(${1:revision_id})]]></content>
+</snippet>

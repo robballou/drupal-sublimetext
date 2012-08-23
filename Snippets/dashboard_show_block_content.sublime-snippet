@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dashboard_show_block_content</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dashboard_show_block_content(${1:module}, ${2:delta})]]></content>
+</snippet>

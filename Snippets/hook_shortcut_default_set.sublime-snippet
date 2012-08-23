@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.shortcut_default_set</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_shortcut_default_set().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_shortcut_default_set(\$account) {
+	$0
+}]]></content>
+</snippet>

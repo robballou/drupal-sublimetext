@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_form_node_type_form_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_form_node_type_form_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

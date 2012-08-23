@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_retrieve_file</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_retrieve_file(${1:url}${2:, ${3:destination}${4:, ${5:managed}${6:, ${7:replace}}}})]]></content>
+</snippet>

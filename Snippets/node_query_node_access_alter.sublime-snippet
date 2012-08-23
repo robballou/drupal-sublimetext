@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_query_node_access_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_query_node_access_alter(${1:ueryAlterableInterface $query})]]></content>
+</snippet>

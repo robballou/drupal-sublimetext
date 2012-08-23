@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_admin_add_link</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_admin_add_link(${1:shortcut_link}, ${2:shortcut_set}${3:, ${4:limit}})]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.requirements</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_requirements().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_requirements(\$phase) {
+	$0
+}]]></content>
+</snippet>

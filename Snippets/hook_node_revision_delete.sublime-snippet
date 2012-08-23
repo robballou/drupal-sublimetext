@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.node_revision_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_node_revision_delete().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_node_revision_delete(\$node) {
+	$0
+}]]></content>
+</snippet>

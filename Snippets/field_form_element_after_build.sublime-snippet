@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_form_element_after_build</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_form_element_after_build(${1:element}, ${2:form_state})]]></content>
+</snippet>

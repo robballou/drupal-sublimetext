@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_admin_edit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_admin_edit(${1:form}, ${2:form_state}, ${3:node})]]></content>
+</snippet>

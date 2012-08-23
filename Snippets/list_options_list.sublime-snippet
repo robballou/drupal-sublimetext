@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>list_options_list</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[list_options_list(${1:field}, ${2:instance}, ${3:entity_type}, ${4:entity})]]></content>
+</snippet>

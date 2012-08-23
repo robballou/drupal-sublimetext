@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_extract_ax_values</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_extract_ax_values(${1:values}, ${2:uris})]]></content>
+</snippet>

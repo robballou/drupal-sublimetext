@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_field_update_instance</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_field_update_instance(${1:instance}, ${2:prior_instance})]]></content>
+</snippet>

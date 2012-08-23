@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_remove_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_remove_form(${1:form}, ${2:form_state}, ${3:node})]]></content>
+</snippet>

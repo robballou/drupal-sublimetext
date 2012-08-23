@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_term_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_term_load(${1:tid})]]></content>
+</snippet>

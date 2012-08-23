@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_edit_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_edit_access(${1:account})]]></content>
+</snippet>

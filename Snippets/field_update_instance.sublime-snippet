@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_update_instance</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_update_instance(${1:instance})]]></content>
+</snippet>

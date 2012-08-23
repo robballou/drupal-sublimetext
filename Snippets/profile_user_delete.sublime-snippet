@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_user_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_user_delete(${1:account})]]></content>
+</snippet>

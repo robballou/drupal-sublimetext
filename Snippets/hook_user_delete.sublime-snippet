@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.user_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_user_delete().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_user_delete(\$account) {
+	$0
+}]]></content>
+</snippet>

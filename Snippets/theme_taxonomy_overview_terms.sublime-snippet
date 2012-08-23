@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_taxonomy_overview_terms</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_taxonomy_overview_terms(${1:variables})]]></content>
+</snippet>

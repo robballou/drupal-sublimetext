@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_allowed_values</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_allowed_values(${1:field})]]></content>
+</snippet>

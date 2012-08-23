@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_ui_menu_title</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_ui_menu_title(${1:instance})]]></content>
+</snippet>

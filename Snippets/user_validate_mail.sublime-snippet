@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_validate_mail</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_validate_mail(${1:mail})]]></content>
+</snippet>

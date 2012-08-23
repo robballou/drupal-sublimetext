@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>translation_remove_from_set</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[translation_remove_from_set(${1:node})]]></content>
+</snippet>

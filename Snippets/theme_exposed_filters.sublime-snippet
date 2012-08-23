@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_exposed_filters</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_exposed_filters(${1:variables})]]></content>
+</snippet>

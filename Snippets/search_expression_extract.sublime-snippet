@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_expression_extract</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_expression_extract(${1:expression}, ${2:option})]]></content>
+</snippet>

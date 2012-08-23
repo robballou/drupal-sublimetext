@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_timezone</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_timezone(${1:, ${2:abbreviation}${3:, ${4:offset}${5:, ${6:is_daylight_saving_time}}}})]]></content>
+</snippet>

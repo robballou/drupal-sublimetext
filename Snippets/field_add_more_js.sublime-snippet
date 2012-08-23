@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_add_more_js</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_add_more_js(${1:form}, ${2:form_state})]]></content>
+</snippet>

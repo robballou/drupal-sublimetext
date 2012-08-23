@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_last_viewed</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_last_viewed(${1:nid})]]></content>
+</snippet>

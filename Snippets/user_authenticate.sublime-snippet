@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_authenticate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_authenticate(${1:name}, ${2:password})]]></content>
+</snippet>

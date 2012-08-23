@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_purge_batch</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_purge_batch(${1:batch_size})]]></content>
+</snippet>

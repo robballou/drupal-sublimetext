@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_delete_date_format_type_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_delete_date_format_type_form(${1:form}, ${2:form_state}, ${3:format_type})]]></content>
+</snippet>

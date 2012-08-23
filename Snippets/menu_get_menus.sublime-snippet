@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_get_menus</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_get_menus(${1:, ${2:all}})]]></content>
+</snippet>

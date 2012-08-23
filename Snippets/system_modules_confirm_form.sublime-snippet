@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_modules_confirm_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_modules_confirm_form(${1:modules}, ${2:storage})]]></content>
+</snippet>

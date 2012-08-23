@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_admin_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_admin_form(${1:form}, ${2:form_state})]]></content>
+</snippet>

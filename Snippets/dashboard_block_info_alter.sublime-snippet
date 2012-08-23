@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dashboard_block_info_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dashboard_block_info_alter(${1:blocks}, ${2:theme}, ${3:code_blocks})]]></content>
+</snippet>

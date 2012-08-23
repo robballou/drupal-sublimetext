@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_preprocess_taxonomy_term</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_preprocess_taxonomy_term(${1:variables})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_access_needs_rebuild</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_access_needs_rebuild(${1:, ${2:rebuild}})]]></content>
+</snippet>

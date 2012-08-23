@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_update_bid</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_update_bid(${1:book_link})]]></content>
+</snippet>

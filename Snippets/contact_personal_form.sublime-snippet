@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>contact_personal_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[contact_personal_form(${1:form}, ${2:form_state}, ${3:recipient})]]></content>
+</snippet>

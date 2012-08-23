@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_get_date_format</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_get_date_format(${1:dfid})]]></content>
+</snippet>

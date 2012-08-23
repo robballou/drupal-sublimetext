@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.path_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_path_delete().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_path_delete(\$path) {
+	$0
+}]]></content>
+</snippet>

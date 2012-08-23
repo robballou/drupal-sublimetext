@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_style_url</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_style_url(${1:style_name}, ${2:path})]]></content>
+</snippet>

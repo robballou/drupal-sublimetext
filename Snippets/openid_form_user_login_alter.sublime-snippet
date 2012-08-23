@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_form_user_login_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_form_user_login_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

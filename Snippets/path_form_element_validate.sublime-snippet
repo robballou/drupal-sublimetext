@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>path_form_element_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[path_form_element_validate(${1:element}, ${2:form_state}, ${3:complete_form})]]></content>
+</snippet>

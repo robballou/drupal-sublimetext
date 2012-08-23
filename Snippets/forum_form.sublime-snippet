@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_form(${1:node}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_type_reset</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_type_reset(${1:type})]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.file_copy</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_file_copy().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_file_copy(\$file, \$source) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_admin_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_admin_settings(${1:form})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_admin_permissions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_admin_permissions(${1:form}, ${2:form_state}${3:, ${4:rid}})]]></content>
+</snippet>

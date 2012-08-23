@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_ip_blocking_delete_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_ip_blocking_delete_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

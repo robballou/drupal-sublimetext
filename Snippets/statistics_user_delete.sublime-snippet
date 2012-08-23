@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>statistics_user_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[statistics_user_delete(${1:account})]]></content>
+</snippet>

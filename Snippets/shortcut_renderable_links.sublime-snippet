@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_renderable_links</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_renderable_links(${1:, ${2:shortcut_set}})]]></content>
+</snippet>

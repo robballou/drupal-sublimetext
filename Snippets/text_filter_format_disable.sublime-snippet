@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>text_filter_format_disable</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[text_filter_format_disable(${1:format})]]></content>
+</snippet>

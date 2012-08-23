@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_link_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_link_load(${1:mlid})]]></content>
+</snippet>

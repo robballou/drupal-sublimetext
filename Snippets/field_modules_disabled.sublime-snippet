@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_modules_disabled</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_modules_disabled(${1:modules})]]></content>
+</snippet>

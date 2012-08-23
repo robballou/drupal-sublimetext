@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_cancel</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_cancel(${1:edit}, ${2:uid}, ${3:method})]]></content>
+</snippet>

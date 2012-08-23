@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_index</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_index(${1:sid}, ${2:module}, ${3:text})]]></content>
+</snippet>

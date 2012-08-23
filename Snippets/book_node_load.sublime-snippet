@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_node_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_node_load(${1:nodes}, ${2:types})]]></content>
+</snippet>

@@ -1,14 +1,10 @@
 <snippet>
-	<content><![CDATA[
-/**
+	<tabTrigger>h.menu_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
  * Implements hook_menu_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_${1:menu_alter}(&\$items) {
+function ${TM_FILENAME/(.*)\..*/$1/}_menu_alter(&\$items) {
 	$0
-}
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>h.menu_alter</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.php</scope>
+}]]></content>
 </snippet>

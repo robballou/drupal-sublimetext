@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_rdfa_attributes</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_rdfa_attributes(${1:mapping}${2:, ${3:data}})]]></content>
+</snippet>

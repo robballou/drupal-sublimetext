@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_manager_batch_project_get</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_manager_batch_project_get(${1:project}, ${2:url}, ${3:context})]]></content>
+</snippet>

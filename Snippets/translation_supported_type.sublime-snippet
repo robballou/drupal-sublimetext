@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>translation_supported_type</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[translation_supported_type(${1:type})]]></content>
+</snippet>

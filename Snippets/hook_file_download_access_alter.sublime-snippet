@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.file_download_access_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_file_download_access_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_file_download_access_alter(&\$grants, \$file_item, \$entity_type, \$entity) {
+	$0
+}]]></content>
+</snippet>

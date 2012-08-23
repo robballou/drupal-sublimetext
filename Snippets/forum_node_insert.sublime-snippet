@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_node_insert</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_node_insert(${1:node})]]></content>
+</snippet>

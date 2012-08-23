@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_valid_language</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_valid_language(${1:langcode}${2:, ${3:default}})]]></content>
+</snippet>

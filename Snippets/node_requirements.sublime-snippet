@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_requirements</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_requirements(${1:phase})]]></content>
+</snippet>

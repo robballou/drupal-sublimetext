@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_permalink</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_permalink(${1:cid})]]></content>
+</snippet>

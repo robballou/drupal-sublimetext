@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.form_system_theme_settings_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_form_system_theme_settings_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_form_system_theme_settings_alter(&\$form, &\$form_state) {
+	$0
+}]]></content>
+</snippet>

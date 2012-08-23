@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_invoke</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_invoke(${1:node}, ${2:hook}${3:, ${4:a2}${5:, ${6:a3}${7:, ${8:a4}}}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_vocabulary_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_vocabulary_load(${1:vid})]]></content>
+</snippet>

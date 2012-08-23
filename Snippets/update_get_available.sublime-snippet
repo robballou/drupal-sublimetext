@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_get_available</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_get_available(${1:, ${2:refresh}})]]></content>
+</snippet>

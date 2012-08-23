@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_update_status_label</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_update_status_label(${1:variables})]]></content>
+</snippet>

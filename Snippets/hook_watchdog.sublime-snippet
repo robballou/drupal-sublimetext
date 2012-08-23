@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.watchdog</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_watchdog().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_watchdog(array \$log_entry) {
+	$0
+}]]></content>
+</snippet>

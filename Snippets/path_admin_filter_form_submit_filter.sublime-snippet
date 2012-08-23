@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>path_admin_filter_form_submit_filter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[path_admin_filter_form_submit_filter(${1:form}, ${2:form_state})]]></content>
+</snippet>

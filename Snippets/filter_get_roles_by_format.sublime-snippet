@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_get_roles_by_format</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_get_roles_by_format(${1:format})]]></content>
+</snippet>

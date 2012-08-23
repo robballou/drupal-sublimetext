@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dashboard_form_block_add_block_form_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dashboard_form_block_add_block_form_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

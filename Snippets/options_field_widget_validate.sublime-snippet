@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>options_field_widget_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[options_field_widget_validate(${1:element}, ${2:form_state})]]></content>
+</snippet>

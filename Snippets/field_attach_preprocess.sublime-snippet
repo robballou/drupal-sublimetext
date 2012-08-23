@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_attach_preprocess</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_attach_preprocess(${1:entity_type}, ${2:entity}, ${3:element}, ${4:variables})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>statistics_node_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[statistics_node_view(${1:node}, ${2:view_mode})]]></content>
+</snippet>

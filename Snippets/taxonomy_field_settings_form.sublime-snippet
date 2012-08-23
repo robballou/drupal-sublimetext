@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_field_settings_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_field_settings_form(${1:field}, ${2:instance}, ${3:has_data})]]></content>
+</snippet>

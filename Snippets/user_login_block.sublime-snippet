@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_login_block</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_login_block(${1:form})]]></content>
+</snippet>

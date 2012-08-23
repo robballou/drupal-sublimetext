@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>text_field_is_empty</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[text_field_is_empty(${1:item}, ${2:field})]]></content>
+</snippet>

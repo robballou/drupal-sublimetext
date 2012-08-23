@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>text_field_formatter_settings_summary</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[text_field_formatter_settings_summary(${1:field}, ${2:instance}, ${3:view_mode})]]></content>
+</snippet>

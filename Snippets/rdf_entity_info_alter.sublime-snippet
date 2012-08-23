@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_entity_info_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_entity_info_alter(${1:entity_info})]]></content>
+</snippet>

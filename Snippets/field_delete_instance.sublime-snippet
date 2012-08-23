@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_delete_instance</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_delete_instance(${1:instance}${2:, ${3:field_cleanup}})]]></content>
+</snippet>

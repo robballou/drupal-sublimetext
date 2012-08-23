@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_sql_storage_field_storage_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_sql_storage_field_storage_load(${1:entity_type}, ${2:entities}, ${3:age}, ${4:fields}, ${5:options})]]></content>
+</snippet>

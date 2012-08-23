@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_admin_role</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_admin_role(${1:form}, ${2:form_state}, ${3:role})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_authorize_batch_copy_project</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_authorize_batch_copy_project(${1:project}, ${2:updater_name}, ${3:local_url}, ${4:filetransfer}, ${5:context})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_block_configure</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_block_configure(${1:, ${2:delta}})]]></content>
+</snippet>

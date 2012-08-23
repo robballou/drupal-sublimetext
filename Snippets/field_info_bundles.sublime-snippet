@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_info_bundles</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_info_bundles(${1:, ${2:entity_type}})]]></content>
+</snippet>

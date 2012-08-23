@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_dblog_message</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_dblog_message(${1:variables})]]></content>
+</snippet>

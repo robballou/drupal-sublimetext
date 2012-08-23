@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_comment_publish</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_comment_publish(${1:comment})]]></content>
+</snippet>

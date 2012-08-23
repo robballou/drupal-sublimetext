@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_association</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_association(${1:op_endpoint})]]></content>
+</snippet>

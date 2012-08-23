@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_system_modules_fieldset</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_system_modules_fieldset(${1:variables})]]></content>
+</snippet>

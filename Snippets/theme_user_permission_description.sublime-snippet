@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_user_permission_description</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_user_permission_description(${1:variables})]]></content>
+</snippet>

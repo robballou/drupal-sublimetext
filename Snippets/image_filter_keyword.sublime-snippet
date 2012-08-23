@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_filter_keyword</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_filter_keyword(${1:value}, ${2:current_pixels}, ${3:new_pixels})]]></content>
+</snippet>

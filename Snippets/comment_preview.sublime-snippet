@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_preview</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_preview(${1:comment})]]></content>
+</snippet>

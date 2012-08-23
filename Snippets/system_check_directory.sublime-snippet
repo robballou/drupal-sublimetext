@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_check_directory</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_check_directory(${1:form_element})]]></content>
+</snippet>

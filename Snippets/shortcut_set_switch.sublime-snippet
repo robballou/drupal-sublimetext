@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_set_switch</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_set_switch(${1:form}, ${2:form_state}${3:, ${4:account}})]]></content>
+</snippet>

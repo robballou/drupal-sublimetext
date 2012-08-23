@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_filter_xss</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_filter_xss(${1:string})]]></content>
+</snippet>

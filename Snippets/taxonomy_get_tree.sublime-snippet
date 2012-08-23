@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_get_tree</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_get_tree(${1:vid}${2:, ${3:parent}${4:, ${5:max_depth}${6:, ${7:load_entities}}}})]]></content>
+</snippet>

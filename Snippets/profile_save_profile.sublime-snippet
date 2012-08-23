@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_save_profile</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_save_profile(${1:edit}, ${2:account}, ${3:category}${4:, ${5:register}})]]></content>
+</snippet>

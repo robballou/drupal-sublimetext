@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.image_style_save</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_image_style_save().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_image_style_save(\$style) {
+	$0
+}]]></content>
+</snippet>

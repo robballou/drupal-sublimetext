@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_index_split</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_index_split(${1:text})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_filter_xss</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_filter_xss(${1:value})]]></content>
+</snippet>

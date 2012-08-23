@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_get_display_ordinal</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_get_display_ordinal(${1:cid}, ${2:node_type})]]></content>
+</snippet>

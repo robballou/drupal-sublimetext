@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_settings(${1:form})]]></content>
+</snippet>

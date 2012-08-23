@@ -1,14 +1,10 @@
 <snippet>
-	<content><![CDATA[
-/**
+	<tabTrigger>h.block_configure</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
  * Implements hook_block_configure().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_${1:block_configure}(\$delta = '') {
+function ${TM_FILENAME/(.*)\..*/$1/}_block_configure(\$delta = '') {
 	$0
-}
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>h.block_configure</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.php</scope>
+}]]></content>
 </snippet>

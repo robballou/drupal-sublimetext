@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.comment_unpublish</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_comment_unpublish().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_comment_unpublish(\$comment) {
+	$0
+}]]></content>
+</snippet>

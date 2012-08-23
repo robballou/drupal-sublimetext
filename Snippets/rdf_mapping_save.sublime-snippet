@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_mapping_save</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_mapping_save(${1:mapping})]]></content>
+</snippet>

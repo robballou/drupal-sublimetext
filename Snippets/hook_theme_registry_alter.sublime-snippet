@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.theme_registry_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_theme_registry_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_theme_registry_alter(&\$theme_registry) {
+	$0
+}]]></content>
+</snippet>

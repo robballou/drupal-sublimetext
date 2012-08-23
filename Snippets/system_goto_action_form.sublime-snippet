@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_goto_action_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_goto_action_form(${1:context})]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_attach_create_bundle</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_attach_create_bundle().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_attach_create_bundle(\$entity_type, \$bundle) {
+	$0
+}]]></content>
+</snippet>

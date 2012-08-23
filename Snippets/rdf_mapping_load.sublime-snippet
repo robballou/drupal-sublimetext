@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_mapping_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_mapping_load(${1:type}${2:, ${3:bundle}})]]></content>
+</snippet>

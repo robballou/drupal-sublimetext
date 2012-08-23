@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_entity_info_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_entity_info_alter(${1:info})]]></content>
+</snippet>

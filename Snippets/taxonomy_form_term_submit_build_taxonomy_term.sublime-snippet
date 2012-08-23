@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_form_term_submit_build_taxonomy_term</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_form_term_submit_build_taxonomy_term(${1:form}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_languages_edit_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_languages_edit_form(${1:form}, ${2:form_state}, ${3:langcode})]]></content>
+</snippet>

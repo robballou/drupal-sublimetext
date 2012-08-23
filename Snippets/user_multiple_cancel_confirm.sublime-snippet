@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_multiple_cancel_confirm</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_multiple_cancel_confirm(${1:form}, ${2:form_state})]]></content>
+</snippet>

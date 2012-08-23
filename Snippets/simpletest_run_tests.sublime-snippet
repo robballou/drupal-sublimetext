@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>simpletest_run_tests</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[simpletest_run_tests(${1:test_list}${2:, ${3:reporter}})]]></content>
+</snippet>

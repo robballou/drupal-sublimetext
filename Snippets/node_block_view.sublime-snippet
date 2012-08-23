@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_block_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_block_view(${1:, ${2:delta}})]]></content>
+</snippet>

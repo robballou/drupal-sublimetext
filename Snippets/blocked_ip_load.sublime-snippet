@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>blocked_ip_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[blocked_ip_load(${1:iid})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_get_topics</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_get_topics(${1:tid}, ${2:sortby}, ${3:forum_per_page})]]></content>
+</snippet>

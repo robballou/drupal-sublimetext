@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_export_traverse</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_export_traverse(${1:tree}, ${2:visit_func})]]></content>
+</snippet>

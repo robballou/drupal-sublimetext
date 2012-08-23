@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_manager_file_get</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_manager_file_get(${1:url})]]></content>
+</snippet>

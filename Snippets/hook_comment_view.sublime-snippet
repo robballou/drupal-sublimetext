@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.comment_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_comment_view().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_comment_view(\$comment, \$view_mode, \$langcode) {
+	$0
+}]]></content>
+</snippet>

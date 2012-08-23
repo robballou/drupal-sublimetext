@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_entity_query_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_entity_query_alter(${1:query})]]></content>
+</snippet>

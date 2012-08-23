@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_type_page_title</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_type_page_title(${1:type})]]></content>
+</snippet>

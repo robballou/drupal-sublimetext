@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>number_field_formatter_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[number_field_formatter_view(${1:entity_type}, ${2:entity}, ${3:field}, ${4:instance}, ${5:langcode}, ${6:items}, ${7:display})]]></content>
+</snippet>

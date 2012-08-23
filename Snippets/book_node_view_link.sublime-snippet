@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_node_view_link</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_node_view_link(${1:node}, ${2:view_mode})]]></content>
+</snippet>

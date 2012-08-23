@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.module_implements_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_module_implements_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_module_implements_alter(&\$implementations, \$hook) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_display_empty_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_display_empty_page(${1:, ${2:value}})]]></content>
+</snippet>

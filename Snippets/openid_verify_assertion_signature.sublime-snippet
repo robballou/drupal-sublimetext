@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_verify_assertion_signature</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_verify_assertion_signature(${1:service}, ${2:association}, ${3:response})]]></content>
+</snippet>

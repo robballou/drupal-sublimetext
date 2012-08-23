@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_admin_format_title</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_admin_format_title(${1:format})]]></content>
+</snippet>

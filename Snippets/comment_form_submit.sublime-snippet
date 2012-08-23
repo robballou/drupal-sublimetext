@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_form_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_form_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

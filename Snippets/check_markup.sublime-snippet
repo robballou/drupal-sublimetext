@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>check_markup</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[check_markup(${1:text}${2:, ${3:format_id}${4:, ${5:langcode}${6:, ${7:cache}}}})]]></content>
+</snippet>

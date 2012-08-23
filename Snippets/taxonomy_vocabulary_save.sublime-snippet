@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_vocabulary_save</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_vocabulary_save(${1:vocabulary})]]></content>
+</snippet>

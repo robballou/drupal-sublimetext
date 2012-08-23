@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>list_field_update_field</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[list_field_update_field(${1:field}, ${2:prior_field}, ${3:has_data})]]></content>
+</snippet>

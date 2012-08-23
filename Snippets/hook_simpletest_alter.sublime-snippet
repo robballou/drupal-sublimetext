@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.simpletest_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_simpletest_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_simpletest_alter(&\$groups) {
+	$0
+}]]></content>
+</snippet>

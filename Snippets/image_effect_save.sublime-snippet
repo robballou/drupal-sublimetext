@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_effect_save</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_effect_save(${1:effect})]]></content>
+</snippet>

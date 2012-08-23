@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>path_taxonomy_term_insert</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[path_taxonomy_term_insert(${1:term})]]></content>
+</snippet>

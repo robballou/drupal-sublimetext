@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_uri</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_uri(${1:forum})]]></content>
+</snippet>

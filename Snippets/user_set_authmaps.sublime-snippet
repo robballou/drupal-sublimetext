@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_set_authmaps</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_set_authmaps(${1:account}, ${2:authmaps})]]></content>
+</snippet>

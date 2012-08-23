@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_uri</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_uri(${1:user})]]></content>
+</snippet>

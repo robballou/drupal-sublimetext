@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_access_acquire_grants</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_access_acquire_grants(${1:node}${2:, ${3:delete}})]]></content>
+</snippet>

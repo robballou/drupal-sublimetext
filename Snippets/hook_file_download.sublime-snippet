@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.file_download</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_file_download().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_file_download(\$uri) {
+	$0
+}]]></content>
+</snippet>

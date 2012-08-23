@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_image_resize_summary</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_image_resize_summary(${1:variables})]]></content>
+</snippet>

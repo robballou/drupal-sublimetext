@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_node_export</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_node_export(${1:node}${2:, ${3:children}})]]></content>
+</snippet>

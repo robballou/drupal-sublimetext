@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_style_name_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_style_name_validate(${1:element}, ${2:form_state})]]></content>
+</snippet>

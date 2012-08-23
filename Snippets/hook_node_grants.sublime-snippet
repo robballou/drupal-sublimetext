@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.node_grants</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_node_grants().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_node_grants(\$account, \$op) {
+	$0
+}]]></content>
+</snippet>

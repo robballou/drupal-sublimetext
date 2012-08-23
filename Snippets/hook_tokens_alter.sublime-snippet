@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.tokens_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_tokens_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_tokens_alter(array &\$replacements, array \$context) {
+	$0
+}]]></content>
+</snippet>

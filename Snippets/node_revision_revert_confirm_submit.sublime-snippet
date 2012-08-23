@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_revision_revert_confirm_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_revision_revert_confirm_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_block_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_block_view(${1:, ${2:delta}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_revision_list</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_revision_list(${1:node})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_comment_post_forbidden</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_comment_post_forbidden(${1:variables})]]></content>
+</snippet>

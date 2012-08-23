@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_access_rebuild</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_access_rebuild(${1:, ${2:batch_mode}})]]></content>
+</snippet>

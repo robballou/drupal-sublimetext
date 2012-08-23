@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_mail_tokens</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_mail_tokens(${1:replacements}, ${2:data}, ${3:options})]]></content>
+</snippet>

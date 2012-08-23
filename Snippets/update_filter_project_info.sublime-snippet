@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_filter_project_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_filter_project_info(${1:info})]]></content>
+</snippet>

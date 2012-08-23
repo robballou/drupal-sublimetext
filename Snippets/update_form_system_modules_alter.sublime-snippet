@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_form_system_modules_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_form_system_modules_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

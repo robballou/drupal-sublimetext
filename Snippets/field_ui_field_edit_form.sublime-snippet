@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_ui_field_edit_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_ui_field_edit_form(${1:form}, ${2:form_state}, ${3:instance})]]></content>
+</snippet>

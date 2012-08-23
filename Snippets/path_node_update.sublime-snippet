@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>path_node_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[path_node_update(${1:node})]]></content>
+</snippet>

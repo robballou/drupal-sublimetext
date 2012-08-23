@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>contact_category_delete_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[contact_category_delete_form(${1:form}, ${2:form_state}, ${3:rray $contact})]]></content>
+</snippet>

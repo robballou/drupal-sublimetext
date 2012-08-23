@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_page_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_page_alter(${1:page})]]></content>
+</snippet>

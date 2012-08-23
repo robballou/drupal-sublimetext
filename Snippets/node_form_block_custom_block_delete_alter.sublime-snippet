@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_form_block_custom_block_delete_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_form_block_custom_block_delete_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

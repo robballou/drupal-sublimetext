@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_verify_update_archive</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_verify_update_archive(${1:project}, ${2:archive_file}, ${3:directory})]]></content>
+</snippet>

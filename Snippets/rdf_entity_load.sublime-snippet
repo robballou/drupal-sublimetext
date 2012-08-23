@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_entity_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_entity_load(${1:entities}, ${2:type})]]></content>
+</snippet>

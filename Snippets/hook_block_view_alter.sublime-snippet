@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.block_view_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_block_view_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_block_view_alter(&\$data, \$block) {
+	$0
+}]]></content>
+</snippet>

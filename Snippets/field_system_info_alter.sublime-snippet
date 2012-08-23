@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_system_info_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_system_info_alter(${1:info}, ${2:file}, ${3:type})]]></content>
+</snippet>

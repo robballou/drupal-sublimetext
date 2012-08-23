@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_data</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_data(${1:keys}, ${2:module}${3:, ${4:conditions}})]]></content>
+</snippet>

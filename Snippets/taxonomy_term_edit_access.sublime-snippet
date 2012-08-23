@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_term_edit_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_term_edit_access(${1:term})]]></content>
+</snippet>

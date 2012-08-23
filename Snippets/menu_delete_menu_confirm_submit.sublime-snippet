@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_delete_menu_confirm_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_delete_menu_confirm_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

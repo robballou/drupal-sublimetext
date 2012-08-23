@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_attach_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_attach_validate().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_attach_validate(\$entity_type, \$entity, &\$errors) {
+	$0
+}]]></content>
+</snippet>

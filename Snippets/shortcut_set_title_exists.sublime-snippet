@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_set_title_exists</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_set_title_exists(${1:title})]]></content>
+</snippet>

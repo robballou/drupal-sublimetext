@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.entity_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_entity_update().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_entity_update(\$entity, \$type) {
+	$0
+}]]></content>
+</snippet>

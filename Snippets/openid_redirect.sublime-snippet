@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_redirect</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_redirect(${1:url}, ${2:message})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_term_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_term_view(${1:term}${2:, ${3:view_mode}${4:, ${5:langcode}}})]]></content>
+</snippet>

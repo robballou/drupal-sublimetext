@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_preprocess_forum_submitted</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_preprocess_forum_submitted(${1:variables})]]></content>
+</snippet>

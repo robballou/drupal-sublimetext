@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.stream_wrappers_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_stream_wrappers_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_stream_wrappers_alter(&\$wrappers) {
+	$0
+}]]></content>
+</snippet>

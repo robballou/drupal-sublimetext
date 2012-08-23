@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_node_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_node_submit(${1:node}, ${2:form}, ${3:form_state})]]></content>
+</snippet>

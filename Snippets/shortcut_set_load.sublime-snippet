@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_set_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_set_load(${1:set_name})]]></content>
+</snippet>

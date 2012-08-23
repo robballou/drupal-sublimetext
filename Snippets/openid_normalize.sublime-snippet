@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_normalize</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_normalize(${1:identifier})]]></content>
+</snippet>

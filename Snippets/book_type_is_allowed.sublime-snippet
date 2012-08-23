@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_type_is_allowed</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_type_is_allowed(${1:type})]]></content>
+</snippet>

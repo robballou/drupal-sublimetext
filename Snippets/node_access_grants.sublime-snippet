@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_access_grants</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_access_grants(${1:op}${2:, ${3:account}})]]></content>
+</snippet>

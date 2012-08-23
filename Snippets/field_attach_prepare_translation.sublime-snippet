@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_attach_prepare_translation</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_attach_prepare_translation(${1:entity_type}, ${2:entity}, ${3:langcode}, ${4:source_entity}, ${5:source_langcode})]]></content>
+</snippet>

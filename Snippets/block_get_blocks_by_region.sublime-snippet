@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_get_blocks_by_region</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_get_blocks_by_region(${1:region})]]></content>
+</snippet>

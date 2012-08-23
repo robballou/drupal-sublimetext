@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.node_search_result</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_node_search_result().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_node_search_result(\$node) {
+	$0
+}]]></content>
+</snippet>

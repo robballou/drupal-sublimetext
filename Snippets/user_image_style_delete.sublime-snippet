@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_image_style_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_image_style_delete(${1:style})]]></content>
+</snippet>

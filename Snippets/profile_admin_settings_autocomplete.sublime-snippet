@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_admin_settings_autocomplete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_admin_settings_autocomplete(${1:string})]]></content>
+</snippet>

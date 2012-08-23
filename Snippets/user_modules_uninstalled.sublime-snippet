@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_modules_uninstalled</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_modules_uninstalled(${1:modules})]]></content>
+</snippet>

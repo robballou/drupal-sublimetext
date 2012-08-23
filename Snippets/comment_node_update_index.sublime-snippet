@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_node_update_index</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_node_update_index(${1:node})]]></content>
+</snippet>

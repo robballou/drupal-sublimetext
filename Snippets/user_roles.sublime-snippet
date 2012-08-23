@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_roles</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_roles(${1:, ${2:membersonly}${3:, ${4:permission}}})]]></content>
+</snippet>

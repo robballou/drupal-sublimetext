@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_get_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_get_info(${1:, ${2:all}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_get_term_by_name</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_get_term_by_name(${1:name}${2:, ${3:vocabulary}})]]></content>
+</snippet>

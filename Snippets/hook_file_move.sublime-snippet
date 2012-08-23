@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.file_move</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_file_move().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_file_move(\$file, \$source) {
+	$0
+}]]></content>
+</snippet>

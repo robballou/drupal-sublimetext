@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>list_boolean_allowed_values_callback</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[list_boolean_allowed_values_callback(${1:element}, ${2:input}, ${3:form_state})]]></content>
+</snippet>

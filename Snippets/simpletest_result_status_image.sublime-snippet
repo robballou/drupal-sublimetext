@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>simpletest_result_status_image</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[simpletest_result_status_image(${1:status})]]></content>
+</snippet>

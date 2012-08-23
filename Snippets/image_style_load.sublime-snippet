@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_style_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_style_load(${1:, ${2:name}${3:, ${4:isid}${5:, ${6:include}}}})]]></content>
+</snippet>

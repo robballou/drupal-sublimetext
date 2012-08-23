@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_effect_integer_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_effect_integer_validate(${1:element}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_is_translatable</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_is_translatable(${1:entity_type}, ${2:field})]]></content>
+</snippet>

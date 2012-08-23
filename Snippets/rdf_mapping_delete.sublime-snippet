@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_mapping_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_mapping_delete(${1:type}, ${2:bundle})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_form_get_state</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_form_get_state(${1:parents}, ${2:field_name}, ${3:langcode}, ${4:form_state})]]></content>
+</snippet>

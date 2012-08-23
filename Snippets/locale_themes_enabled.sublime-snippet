@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_themes_enabled</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_themes_enabled(${1:themes})]]></content>
+</snippet>

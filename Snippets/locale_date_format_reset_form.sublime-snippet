@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_date_format_reset_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_date_format_reset_form(${1:form}, ${2:form_state}, ${3:langcode})]]></content>
+</snippet>

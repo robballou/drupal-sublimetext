@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>path_admin_delete_confirm</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[path_admin_delete_confirm(${1:form}, ${2:form_state}, ${3:path})]]></content>
+</snippet>

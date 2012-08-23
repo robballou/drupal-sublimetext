@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_update_version</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_update_version(${1:variables})]]></content>
+</snippet>

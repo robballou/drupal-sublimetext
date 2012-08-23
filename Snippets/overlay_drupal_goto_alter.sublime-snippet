@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_drupal_goto_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_drupal_goto_alter(${1:path}, ${2:options}, ${3:http_response_code})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_autocomplete_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_autocomplete_validate(${1:element}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_content_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_content_form(${1:node}, ${2:form_state})]]></content>
+</snippet>

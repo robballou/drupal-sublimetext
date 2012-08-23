@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_style_revert_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_style_revert_form(${1:form}, ${2:form_state}, ${3:style})]]></content>
+</snippet>

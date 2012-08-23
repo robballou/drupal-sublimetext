@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_reply</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_reply(${1:node}${2:, ${3:pid}})]]></content>
+</snippet>

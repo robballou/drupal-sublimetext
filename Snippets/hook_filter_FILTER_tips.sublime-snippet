@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.filter_FILTER_tips</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_filter_FILTER_tips().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_filter_FILTER_tips(\$filter, \$format, \$long) {
+	$0
+}]]></content>
+</snippet>

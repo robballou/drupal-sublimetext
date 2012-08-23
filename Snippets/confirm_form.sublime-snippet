@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>confirm_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[confirm_form(${1:form}, ${2:question}, ${3:path}${4:, ${5:description}${6:, ${7:yes}${8:, ${9:no}${10:, ${11:name}}}}})]]></content>
+</snippet>

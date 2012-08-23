@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_edit_menu_name_exists</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_edit_menu_name_exists(${1:value})]]></content>
+</snippet>

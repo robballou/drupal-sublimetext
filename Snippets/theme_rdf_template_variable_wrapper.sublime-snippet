@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_rdf_template_variable_wrapper</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_rdf_template_variable_wrapper(${1:variables})]]></content>
+</snippet>

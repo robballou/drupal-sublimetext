@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_manager_update_form_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_manager_update_form_validate(${1:form}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_preprocess_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_preprocess_page(${1:variables})]]></content>
+</snippet>

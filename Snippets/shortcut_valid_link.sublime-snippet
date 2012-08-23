@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_valid_link</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_valid_link(${1:path})]]></content>
+</snippet>

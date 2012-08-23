@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_request_refresh</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_request_refresh(${1:region})]]></content>
+</snippet>

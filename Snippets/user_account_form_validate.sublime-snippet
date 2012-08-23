@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_account_form_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_account_form_validate(${1:form}, ${2:form_state})]]></content>
+</snippet>

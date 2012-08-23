@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_verify_assertion_return_url</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_verify_assertion_return_url(${1:service}, ${2:response})]]></content>
+</snippet>

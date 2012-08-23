@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_info_field</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_info_field(${1:field_name})]]></content>
+</snippet>

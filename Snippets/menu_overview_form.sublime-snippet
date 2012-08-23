@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_overview_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_overview_form(${1:form}, ${2:form_state}, ${3:menu})]]></content>
+</snippet>

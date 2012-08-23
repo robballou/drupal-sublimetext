@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_approve</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_approve(${1:cid})]]></content>
+</snippet>

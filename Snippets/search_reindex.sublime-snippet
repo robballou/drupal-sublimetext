@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_reindex</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_reindex(${1:, ${2:sid}${3:, ${4:module}${5:, ${6:reindex}}}})]]></content>
+</snippet>

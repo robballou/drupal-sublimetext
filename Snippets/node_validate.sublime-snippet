@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_validate(${1:node}, ${2:form}, ${3:form_state})]]></content>
+</snippet>

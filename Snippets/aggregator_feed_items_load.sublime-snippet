@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_feed_items_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_feed_items_load(${1:type}${2:, ${3:data}})]]></content>
+</snippet>

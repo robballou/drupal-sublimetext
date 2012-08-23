@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_field_widget_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_field_widget_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

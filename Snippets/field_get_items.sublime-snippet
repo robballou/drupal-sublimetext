@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_get_items</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_get_items(${1:entity_type}, ${2:entity}, ${3:field_name}${4:, ${5:langcode}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_admin</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_admin(${1:, ${2:callback_arg}})]]></content>
+</snippet>

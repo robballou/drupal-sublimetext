@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_update_files_database</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_update_files_database(${1:files}, ${2:type})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_managed_file_pre_render</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_managed_file_pre_render(${1:element})]]></content>
+</snippet>

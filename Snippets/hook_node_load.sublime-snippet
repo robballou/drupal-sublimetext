@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.node_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_node_load().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_node_load(\$nodes, \$types) {
+	$0
+}]]></content>
+</snippet>

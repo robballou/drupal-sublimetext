@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_uid_optional_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_uid_optional_load(${1:, ${2:uid}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_field_displayed</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_field_displayed(${1:item}, ${2:field})]]></content>
+</snippet>

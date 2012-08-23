@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_gd_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_gd_load(${1:tdClass $image})]]></content>
+</snippet>

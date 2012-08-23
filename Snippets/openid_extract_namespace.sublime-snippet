@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_extract_namespace</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_extract_namespace(${1:response}, ${2:extension_namespace}${3:, ${4:fallback_prefix}${5:, ${6:only_signed}}})]]></content>
+</snippet>

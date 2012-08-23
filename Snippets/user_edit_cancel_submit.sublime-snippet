@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_edit_cancel_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_edit_cancel_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

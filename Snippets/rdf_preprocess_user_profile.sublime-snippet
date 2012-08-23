@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_preprocess_user_profile</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_preprocess_user_profile(${1:variables})]]></content>
+</snippet>

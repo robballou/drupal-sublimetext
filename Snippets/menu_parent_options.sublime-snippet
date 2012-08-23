@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_parent_options</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_parent_options(${1:menus}, ${2:item}${3:, ${4:type}})]]></content>
+</snippet>

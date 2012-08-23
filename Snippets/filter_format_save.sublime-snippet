@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_format_save</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_format_save(${1:format})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_default_prepare_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_default_prepare_view(${1:entity_type}, ${2:entities}, ${3:field}, ${4:instances}, ${5:langcode}, ${6:items}, ${7:display})]]></content>
+</snippet>

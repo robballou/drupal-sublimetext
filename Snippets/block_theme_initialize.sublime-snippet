@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_theme_initialize</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_theme_initialize(${1:theme})]]></content>
+</snippet>

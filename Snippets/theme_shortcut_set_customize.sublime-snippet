@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_shortcut_set_customize</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_shortcut_set_customize(${1:variables})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_themes_enabled</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_themes_enabled(${1:theme_list})]]></content>
+</snippet>

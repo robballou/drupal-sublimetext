@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_page_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_page_alter(${1:page})]]></content>
+</snippet>

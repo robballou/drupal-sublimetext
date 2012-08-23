@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_rotate_effect</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_rotate_effect(${1:image}, ${2:data})]]></content>
+</snippet>

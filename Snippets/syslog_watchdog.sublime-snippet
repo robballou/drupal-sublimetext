@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>syslog_watchdog</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[syslog_watchdog(${1:rray $log_entry})]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.taxonomy_term_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_taxonomy_term_delete().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_taxonomy_term_delete(\$term) {
+	$0
+}]]></content>
+</snippet>

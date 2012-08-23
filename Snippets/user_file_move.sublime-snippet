@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_file_move</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_file_move(${1:file}, ${2:source})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_info_storage_types</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_info_storage_types(${1:, ${2:storage_type}})]]></content>
+</snippet>

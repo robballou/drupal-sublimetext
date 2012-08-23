@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_add</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_add(${1:type})]]></content>
+</snippet>

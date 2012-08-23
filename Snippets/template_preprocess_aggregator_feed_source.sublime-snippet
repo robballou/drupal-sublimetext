@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_preprocess_aggregator_feed_source</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_preprocess_aggregator_feed_source(${1:variables})]]></content>
+</snippet>

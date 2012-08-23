@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.drupal_goto_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_drupal_goto_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_drupal_goto_alter(&\$path, &\$options, &\$http_response_code) {
+	$0
+}]]></content>
+</snippet>

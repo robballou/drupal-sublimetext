@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_build_filter_query</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_build_filter_query(${1:electQuery $query})]]></content>
+</snippet>

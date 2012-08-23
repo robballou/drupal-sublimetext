@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_page_opml</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_page_opml(${1:, ${2:cid}})]]></content>
+</snippet>

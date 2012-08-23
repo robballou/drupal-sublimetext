@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_authentication_request</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_authentication_request(${1:claimed_id}, ${2:identity}, ${3:service}${4:, ${5:return_to}${6:, ${7:assoc_handle}}})]]></content>
+</snippet>

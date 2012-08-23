@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_access(${1:op}, ${2:comment})]]></content>
+</snippet>

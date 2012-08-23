@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_date_format_locale</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_date_format_locale(${1:, ${2:langcode}${3:, ${4:type}}})]]></content>
+</snippet>

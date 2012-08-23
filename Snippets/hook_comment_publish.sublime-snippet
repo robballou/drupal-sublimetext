@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.comment_publish</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_comment_publish().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_comment_publish(\$comment) {
+	$0
+}]]></content>
+</snippet>

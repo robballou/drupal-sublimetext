@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_field_language_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_field_language_alter(${1:display_language}, ${2:context})]]></content>
+</snippet>

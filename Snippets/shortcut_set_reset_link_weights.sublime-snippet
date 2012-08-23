@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_set_reset_link_weights</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_set_reset_link_weights(${1:shortcut_set})]]></content>
+</snippet>

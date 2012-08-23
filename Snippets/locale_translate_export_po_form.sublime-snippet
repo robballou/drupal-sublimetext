@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_translate_export_po_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_translate_export_po_form(${1:form}, ${2:form_state}, ${3:names})]]></content>
+</snippet>

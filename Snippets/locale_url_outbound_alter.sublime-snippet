@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_url_outbound_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_url_outbound_alter(${1:path}, ${2:options}, ${3:original_path})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>tracker_node_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[tracker_node_delete(${1:node}${2:, ${3:arg}})]]></content>
+</snippet>

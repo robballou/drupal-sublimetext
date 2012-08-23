@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>path_admin_overview</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[path_admin_overview(${1:, ${2:keys}})]]></content>
+</snippet>

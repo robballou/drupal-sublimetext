@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.menu_site_status_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_menu_site_status_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_menu_site_status_alter(&\$menu_site_status, \$path) {
+	$0
+}]]></content>
+</snippet>

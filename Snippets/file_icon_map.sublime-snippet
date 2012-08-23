@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_icon_map</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_icon_map(${1:file})]]></content>
+</snippet>

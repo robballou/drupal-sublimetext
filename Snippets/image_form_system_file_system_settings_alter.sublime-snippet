@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_form_system_file_system_settings_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_form_system_file_system_settings_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>simpletest_verbose</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[simpletest_verbose(${1:message}${2:, ${3:original_file_directory}${4:, ${5:test_class}}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_info_max_weight</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_info_max_weight(${1:entity_type}, ${2:bundle}, ${3:context})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_authorize_run_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_authorize_run_update(${1:filetransfer}, ${2:projects})]]></content>
+</snippet>

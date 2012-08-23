@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_ui_default_value_widget</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_ui_default_value_widget(${1:field}, ${2:instance}, ${3:form}, ${4:form_state})]]></content>
+</snippet>

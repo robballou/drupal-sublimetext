@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_user_admin_roles</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_user_admin_roles(${1:variables})]]></content>
+</snippet>

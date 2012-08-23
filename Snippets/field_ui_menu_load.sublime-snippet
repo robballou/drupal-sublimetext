@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_ui_menu_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_ui_menu_load(${1:field_name}, ${2:entity_type}, ${3:bundle_name}, ${4:bundle_pos}, ${5:map})]]></content>
+</snippet>

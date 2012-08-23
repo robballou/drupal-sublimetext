@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_default_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_default_form(${1:entity_type}, ${2:entity}, ${3:field}, ${4:instance}, ${5:langcode}, ${6:items}, ${7:form}, ${8:form_state}${9:, ${10:get_delta}})]]></content>
+</snippet>

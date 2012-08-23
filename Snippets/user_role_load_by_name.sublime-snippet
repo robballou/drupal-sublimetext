@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_role_load_by_name</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_role_load_by_name(${1:role_name})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_admin_vocabulary_title_callback</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_admin_vocabulary_title_callback(${1:vocabulary})]]></content>
+</snippet>

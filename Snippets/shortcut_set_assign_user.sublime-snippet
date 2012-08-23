@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_set_assign_user</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_set_assign_user(${1:shortcut_set}, ${2:account})]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.username_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_username_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_username_alter(&\$name, \$account) {
+	$0
+}]]></content>
+</snippet>

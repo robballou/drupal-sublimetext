@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.exit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_exit().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_exit(\$destination = NULL) {
+	$0
+}]]></content>
+</snippet>

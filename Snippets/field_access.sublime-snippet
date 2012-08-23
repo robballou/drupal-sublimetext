@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_access(${1:op}, ${2:field}, ${3:entity_type}${4:, ${5:entity}${6:, ${7:account}}})]]></content>
+</snippet>

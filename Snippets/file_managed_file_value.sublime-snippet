@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_managed_file_value</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_managed_file_value(${1:element}${2:, ${3:input}${4:, ${5:form_state}}})]]></content>
+</snippet>

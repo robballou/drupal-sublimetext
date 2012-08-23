@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_attach_prepare_translation_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_attach_prepare_translation_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_attach_prepare_translation_alter(&\$entity, \$context) {
+	$0
+}]]></content>
+</snippet>

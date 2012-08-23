@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>text_summary</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[text_summary(${1:text}${2:, ${3:format}${4:, ${5:size}}})]]></content>
+</snippet>

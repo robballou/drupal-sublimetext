@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_preferred_language</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_preferred_language(${1:account}${2:, ${3:default}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_type_delete_confirm</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_type_delete_confirm(${1:form}, ${2:form_state}, ${3:type})]]></content>
+</snippet>

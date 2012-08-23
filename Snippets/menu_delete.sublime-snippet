@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_delete(${1:menu})]]></content>
+</snippet>

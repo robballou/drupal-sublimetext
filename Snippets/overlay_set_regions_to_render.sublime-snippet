@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_set_regions_to_render</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_set_regions_to_render(${1:, ${2:regions}})]]></content>
+</snippet>

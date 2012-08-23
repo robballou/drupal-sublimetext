@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>trigger_assign_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[trigger_assign_form(${1:form}, ${2:form_state}, ${3:module}, ${4:hook}, ${5:label})]]></content>
+</snippet>

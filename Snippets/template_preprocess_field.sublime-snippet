@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_preprocess_field</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_preprocess_field(${1:variables}, ${2:hook})]]></content>
+</snippet>

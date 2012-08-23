@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_save_item</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_save_item(${1:edit})]]></content>
+</snippet>

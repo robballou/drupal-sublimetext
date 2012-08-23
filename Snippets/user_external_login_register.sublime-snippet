@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_external_login_register</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_external_login_register(${1:name}, ${2:module})]]></content>
+</snippet>

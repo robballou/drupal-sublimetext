@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_resize_effect</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_resize_effect(${1:image}, ${2:data})]]></content>
+</snippet>

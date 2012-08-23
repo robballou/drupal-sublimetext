@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_node_presave</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_node_presave(${1:node})]]></content>
+</snippet>

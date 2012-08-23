@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_site_information_settings_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_site_information_settings_validate(${1:form}, ${2:form_state})]]></content>
+</snippet>

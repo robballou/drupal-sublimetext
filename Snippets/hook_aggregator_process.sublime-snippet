@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.aggregator_process</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_aggregator_process().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_aggregator_process(\$feed) {
+	$0
+}]]></content>
+</snippet>

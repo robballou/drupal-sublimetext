@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_form_vocabulary_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_form_vocabulary_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

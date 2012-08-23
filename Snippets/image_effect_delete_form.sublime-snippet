@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_effect_delete_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_effect_delete_form(${1:form}, ${2:form_state}, ${3:style}, ${4:effect})]]></content>
+</snippet>

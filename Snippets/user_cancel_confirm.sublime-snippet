@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_cancel_confirm</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_cancel_confirm(${1:account}${2:, ${3:timestamp}${4:, ${5:hashed_pass}}})]]></content>
+</snippet>

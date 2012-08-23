@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_field_storage_pre_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_field_storage_pre_update(${1:entity_type}, ${2:entity}, ${3:skip_fields})]]></content>
+</snippet>

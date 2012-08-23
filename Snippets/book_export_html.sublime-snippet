@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_export_html</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_export_html(${1:nid})]]></content>
+</snippet>

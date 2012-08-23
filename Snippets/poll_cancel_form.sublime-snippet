@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>poll_cancel_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[poll_cancel_form(${1:form}, ${2:form_state}, ${3:nid})]]></content>
+</snippet>

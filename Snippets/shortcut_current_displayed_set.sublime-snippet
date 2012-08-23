@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_current_displayed_set</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_current_displayed_set(${1:, ${2:account}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_field_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_field_delete(${1:form}, ${2:form_state}, ${3:fid})]]></content>
+</snippet>

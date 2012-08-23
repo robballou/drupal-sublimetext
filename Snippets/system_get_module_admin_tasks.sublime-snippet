@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_get_module_admin_tasks</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_get_module_admin_tasks(${1:module}, ${2:info})]]></content>
+</snippet>

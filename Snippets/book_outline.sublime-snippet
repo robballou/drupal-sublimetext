@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_outline</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_outline(${1:node})]]></content>
+</snippet>

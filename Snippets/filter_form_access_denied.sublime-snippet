@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_form_access_denied</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_form_access_denied(${1:element})]]></content>
+</snippet>

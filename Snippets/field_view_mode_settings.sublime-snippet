@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_view_mode_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_view_mode_settings(${1:entity_type}, ${2:bundle})]]></content>
+</snippet>

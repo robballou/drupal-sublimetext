@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.field_insert</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_field_insert().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_field_insert(\$entity_type, \$entity, \$field, \$instance, \$langcode, &\$items) {
+	$0
+}]]></content>
+</snippet>

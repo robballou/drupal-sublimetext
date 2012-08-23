@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_ip_blocking</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_ip_blocking(${1:, ${2:default_ip}})]]></content>
+</snippet>

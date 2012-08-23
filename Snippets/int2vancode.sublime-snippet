@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>int2vancode</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[int2vancode(${1:, ${2:i}})]]></content>
+</snippet>

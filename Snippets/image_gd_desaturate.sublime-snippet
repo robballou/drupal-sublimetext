@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_gd_desaturate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_gd_desaturate(${1:tdClass $image})]]></content>
+</snippet>

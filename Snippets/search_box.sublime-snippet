@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_box</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_box(${1:form}, ${2:form_state}, ${3:form_id})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>rdf_comment_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[rdf_comment_load(${1:comments})]]></content>
+</snippet>

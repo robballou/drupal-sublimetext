@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>sample_search_conditions_callback</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[sample_search_conditions_callback(${1:keys})]]></content>
+</snippet>

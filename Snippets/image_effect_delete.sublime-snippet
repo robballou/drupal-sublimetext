@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_effect_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_effect_delete(${1:effect})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>trigger_user_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[trigger_user_update(${1:edit}, ${2:account}, ${3:category})]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.filter_format_insert</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_filter_format_insert().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_filter_format_insert(\$format) {
+	$0
+}]]></content>
+</snippet>

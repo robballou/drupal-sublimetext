@@ -1,14 +1,10 @@
 <snippet>
-	<content><![CDATA[
-/**
+	<tabTrigger>h.node_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
  * Implements hook_node_view().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_${1:node_view}(\$node, \$view_mode, \$langcode) {
+function ${TM_FILENAME/(.*)\..*/$1/}_node_view(\$node, \$view_mode, \$langcode) {
 	$0
-}
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>h.node_view</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.php</scope>
+}]]></content>
 </snippet>

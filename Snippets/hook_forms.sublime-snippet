@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.forms</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_forms().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_forms(\$form_id, \$args) {
+	$0
+}]]></content>
+</snippet>

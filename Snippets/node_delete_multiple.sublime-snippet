@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_delete_multiple</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_delete_multiple(${1:nids})]]></content>
+</snippet>

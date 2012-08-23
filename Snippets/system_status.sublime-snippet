@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_status</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_status(${1:, ${2:check}})]]></content>
+</snippet>

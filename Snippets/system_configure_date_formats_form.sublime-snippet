@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_configure_date_formats_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_configure_date_formats_form(${1:form}, ${2:form_state}${3:, ${4:dfid}})]]></content>
+</snippet>

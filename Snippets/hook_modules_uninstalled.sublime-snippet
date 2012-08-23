@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.modules_uninstalled</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_modules_uninstalled().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_modules_uninstalled(\$modules) {
+	$0
+}]]></content>
+</snippet>

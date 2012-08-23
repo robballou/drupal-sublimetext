@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_dashboard_region</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_dashboard_region(${1:variables})]]></content>
+</snippet>

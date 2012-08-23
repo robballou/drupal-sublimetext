@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_info_widget_types</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_info_widget_types(${1:, ${2:widget_type}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_add_body_field</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_add_body_field(${1:type}${2:, ${3:label}})]]></content>
+</snippet>

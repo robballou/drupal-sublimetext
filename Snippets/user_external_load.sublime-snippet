@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_external_load</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_external_load(${1:authname})]]></content>
+</snippet>

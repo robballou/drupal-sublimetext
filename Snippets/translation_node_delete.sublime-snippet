@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>translation_node_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[translation_node_delete(${1:node})]]></content>
+</snippet>

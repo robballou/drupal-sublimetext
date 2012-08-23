@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_num_new</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_num_new(${1:nid}${2:, ${3:timestamp}})]]></content>
+</snippet>

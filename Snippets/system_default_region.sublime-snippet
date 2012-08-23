@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_default_region</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_default_region(${1:theme})]]></content>
+</snippet>

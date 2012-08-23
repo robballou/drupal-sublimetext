@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_clear_cache_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_clear_cache_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

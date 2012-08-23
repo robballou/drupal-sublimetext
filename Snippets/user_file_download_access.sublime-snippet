@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_file_download_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_file_download_access(${1:field}, ${2:entity_type}, ${3:entity})]]></content>
+</snippet>

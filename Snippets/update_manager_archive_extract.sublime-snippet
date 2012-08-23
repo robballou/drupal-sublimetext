@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_manager_archive_extract</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_manager_archive_extract(${1:file}, ${2:directory})]]></content>
+</snippet>

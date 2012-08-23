@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>simpletest_mail_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[simpletest_mail_alter(${1:message})]]></content>
+</snippet>

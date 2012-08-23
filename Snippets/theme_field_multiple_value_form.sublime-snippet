@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_field_multiple_value_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_field_multiple_value_form(${1:variables})]]></content>
+</snippet>

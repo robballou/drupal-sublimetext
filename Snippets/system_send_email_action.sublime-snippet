@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_send_email_action</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_send_email_action(${1:entity}, ${2:context})]]></content>
+</snippet>

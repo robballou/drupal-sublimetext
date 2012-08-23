@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_simplify_excerpt_match</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_simplify_excerpt_match(${1:key}, ${2:text}, ${3:offset}, ${4:boundary})]]></content>
+</snippet>

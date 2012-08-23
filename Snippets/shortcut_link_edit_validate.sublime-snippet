@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_link_edit_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_link_edit_validate(${1:form}, ${2:form_state})]]></content>
+</snippet>

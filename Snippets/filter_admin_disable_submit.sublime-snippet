@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_admin_disable_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_admin_disable_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

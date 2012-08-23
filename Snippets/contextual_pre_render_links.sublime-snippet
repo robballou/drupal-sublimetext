@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>contextual_pre_render_links</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[contextual_pre_render_links(${1:element})]]></content>
+</snippet>

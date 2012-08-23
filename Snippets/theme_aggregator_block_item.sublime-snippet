@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_aggregator_block_item</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_aggregator_block_item(${1:variables})]]></content>
+</snippet>

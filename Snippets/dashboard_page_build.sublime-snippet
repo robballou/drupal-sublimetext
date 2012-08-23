@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dashboard_page_build</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dashboard_page_build(${1:page})]]></content>
+</snippet>

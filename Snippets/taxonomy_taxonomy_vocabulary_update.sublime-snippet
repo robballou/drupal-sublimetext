@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_taxonomy_vocabulary_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_taxonomy_vocabulary_update(${1:vocabulary})]]></content>
+</snippet>

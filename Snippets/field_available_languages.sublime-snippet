@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_available_languages</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_available_languages(${1:entity_type}, ${2:field})]]></content>
+</snippet>

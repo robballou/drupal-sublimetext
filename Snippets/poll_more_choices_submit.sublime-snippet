@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>poll_more_choices_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[poll_more_choices_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

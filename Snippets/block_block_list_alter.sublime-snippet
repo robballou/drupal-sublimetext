@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_block_list_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_block_list_alter(${1:blocks})]]></content>
+</snippet>

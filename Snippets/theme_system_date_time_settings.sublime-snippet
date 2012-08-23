@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_system_date_time_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_system_date_time_settings(${1:variables})]]></content>
+</snippet>

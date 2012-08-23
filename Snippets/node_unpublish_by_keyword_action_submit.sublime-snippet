@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_unpublish_by_keyword_action_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_unpublish_by_keyword_action_submit(${1:form}, ${2:form_state})]]></content>
+</snippet>

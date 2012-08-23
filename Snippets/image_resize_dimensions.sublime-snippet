@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_resize_dimensions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_resize_dimensions(${1:rray &$dimensions}, ${2:rray $data})]]></content>
+</snippet>
