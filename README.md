@@ -1,12 +1,8 @@
-================
-Drupal
-================
+# Drupal Sublime Text
 
 Add Drupal snippets/functionality
 
-================
-Install
-================
+## Install
 
 Mac OS X:
 
