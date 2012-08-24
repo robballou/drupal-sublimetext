@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>color_theme</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[color_theme()]]></content>
+</snippet>

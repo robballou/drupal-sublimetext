@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_languages_add_screen</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_languages_add_screen()]]></content>
+</snippet>

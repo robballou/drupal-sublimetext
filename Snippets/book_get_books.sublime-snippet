@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_get_books</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_get_books()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dashboard_is_visible</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dashboard_is_visible()]]></content>
+</snippet>

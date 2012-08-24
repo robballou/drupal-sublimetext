@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_page_sources</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_page_sources()]]></content>
+</snippet>

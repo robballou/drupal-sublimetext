@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_date_format_types</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_date_format_types()]]></content>
+</snippet>

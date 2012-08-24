@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_rss_feeds_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_rss_feeds_settings()]]></content>
+</snippet>

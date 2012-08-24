@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_count_unpublished</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_count_unpublished()]]></content>
+</snippet>

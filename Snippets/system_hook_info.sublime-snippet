@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_hook_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_hook_info()]]></content>
+</snippet>

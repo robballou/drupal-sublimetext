@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_progress_implementation</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_progress_implementation()]]></content>
+</snippet>

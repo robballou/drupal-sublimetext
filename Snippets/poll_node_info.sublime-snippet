@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>poll_node_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[poll_node_info()]]></content>
+</snippet>

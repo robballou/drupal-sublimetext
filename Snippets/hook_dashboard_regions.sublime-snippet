@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.dashboard_regions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_dashboard_regions().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_dashboard_regions() {
+	$0
+}]]></content>
+</snippet>

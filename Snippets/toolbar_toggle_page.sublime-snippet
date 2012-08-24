@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>toolbar_toggle_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[toolbar_toggle_page()]]></content>
+</snippet>

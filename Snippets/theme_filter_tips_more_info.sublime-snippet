@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_filter_tips_more_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_filter_tips_more_info()]]></content>
+</snippet>

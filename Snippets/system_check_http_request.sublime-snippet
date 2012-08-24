@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_check_http_request</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_check_http_request()]]></content>
+</snippet>

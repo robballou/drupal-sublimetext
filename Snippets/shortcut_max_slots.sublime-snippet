@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_max_slots</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_max_slots()]]></content>
+</snippet>

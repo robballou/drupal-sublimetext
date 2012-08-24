@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_add_module_assets</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_add_module_assets()]]></content>
+</snippet>

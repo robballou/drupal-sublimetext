@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_menu</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_menu()]]></content>
+</snippet>

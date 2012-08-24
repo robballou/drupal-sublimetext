@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_performance_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_performance_settings()]]></content>
+</snippet>

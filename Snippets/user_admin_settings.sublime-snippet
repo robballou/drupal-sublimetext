@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_admin_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_admin_settings()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_flush_caches</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_flush_caches()]]></content>
+</snippet>

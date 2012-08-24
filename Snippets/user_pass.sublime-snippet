@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_pass</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_pass()]]></content>
+</snippet>

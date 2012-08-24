@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_comment_block</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_comment_block()]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.search_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_search_access().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_search_access() {
+	$0
+}]]></content>
+</snippet>

@@ -18,11 +18,13 @@ def create_snippets(functions):
         full_function = "%s(%s)" % (function_name, snippet_args)
         if function_name.startswith('hook_'):
             function_name = "h.%s" % (function_name.replace("hook_", ""))
-            print function[1]
+            function_args = function[1]
+            if not function_args:
+                function_args = ""
             full_function = "/**\n * Implements %s().\n */\nfunction %s(%s) {\n\t$0\n}" % (
                 function[0],
                 function[0].replace("hook_", "${TM_FILENAME/(.*)\..*/$1/}_"),
-                function[1].replace("$", "\$")
+                function_args.replace("$", "\$")
             )
 
         snippet_filename = "%s.sublime-snippet" % function[0]
@@ -51,7 +53,7 @@ def get_functions(path, files):
     filenames = f.readlines()
     f.close()
 
-    function = re.compile(r'^\s*function\s*([A-Za-z0-9\-_]+)\s*\(([^\)]+)\)\s*{')
+    function = re.compile(r'^\s*function\s*([A-Za-z0-9\-_]+)\s*\(([^\)]+)?\)\s*{')
 
     for filename in filenames:
         filename = filename.strip()
@@ -89,6 +91,8 @@ def get_optional_arguments(args, count):
 
 
 def parse_function_arguments(args):
+    if not args:
+        return ''
     args = args.split(',')
     new_args = {'args': [], 'optional': []}
     for arg in args:
@@ -135,24 +139,34 @@ if __name__ == '__main__':
         default=None,
         nargs="?",
         help="The location where the snippets will be created")
+    parser.add_argument('-s', '--no-snippets',
+        dest="no_snippets",
+        action="store_true",
+        default=False)
     args = parser.parse_args()
 
     functions = get_functions(args.path, args.files)
-    snippets = create_snippets(functions)
 
-    if not args.destination:
-        for snippet in snippets:
-            print snippet
-            print "====================="
-            print snippets[snippet]
-            print ""
+    if not args.no_snippets:
+        snippets = create_snippets(functions)
+
+        if not args.destination:
+            for snippet in snippets:
+                print snippet
+                print "====================="
+                print snippets[snippet]
+                print ""
+        else:
+            if not os.path.exists(args.destination):
+                os.mkdir(args.destination)
+
+            for snippet in snippets:
+                filename = "%s/%s" % (args.destination, snippet)
+                print "[ ] Creating %s" % filename
+                f = open(filename, 'w')
+                f.write(snippets[snippet])
+                f.close()
     else:
-        if not os.path.exists(args.destination):
-            os.mkdir(args.destination)
-
-        for snippet in snippets:
-            filename = "%s/%s" % (args.destination, snippet)
-            print "[ ] Creating %s" % filename
-            f = open(filename, 'w')
-            f.write(snippets[snippet])
-            f.close()
+        functions.sort()
+        for function in functions:
+            print function

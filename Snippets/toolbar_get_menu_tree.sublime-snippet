@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>toolbar_get_menu_tree</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[toolbar_get_menu_tree()]]></content>
+</snippet>

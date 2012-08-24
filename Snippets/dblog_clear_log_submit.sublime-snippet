@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dblog_clear_log_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dblog_clear_log_submit()]]></content>
+</snippet>

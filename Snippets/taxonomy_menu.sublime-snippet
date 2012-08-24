@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_menu</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_menu()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_openid_normalization_method_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_openid_normalization_method_info()]]></content>
+</snippet>

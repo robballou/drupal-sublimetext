@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_user_add</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_user_add()]]></content>
+</snippet>

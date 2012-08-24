@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>simpletest_clean_database</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[simpletest_clean_database()]]></content>
+</snippet>

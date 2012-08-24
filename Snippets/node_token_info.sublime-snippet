@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_token_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_token_info()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>tracker_menu</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[tracker_menu()]]></content>
+</snippet>

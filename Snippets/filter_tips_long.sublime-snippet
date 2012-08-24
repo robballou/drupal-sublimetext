@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_tips_long</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_tips_long()]]></content>
+</snippet>

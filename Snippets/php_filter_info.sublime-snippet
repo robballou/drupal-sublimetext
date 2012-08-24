@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>php_filter_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[php_filter_info()]]></content>
+</snippet>

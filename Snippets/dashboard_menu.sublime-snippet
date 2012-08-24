@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dashboard_menu</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dashboard_menu()]]></content>
+</snippet>

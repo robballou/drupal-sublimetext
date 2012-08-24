@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_reset</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_reset()]]></content>
+</snippet>

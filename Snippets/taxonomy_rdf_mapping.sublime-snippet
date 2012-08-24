@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_rdf_mapping</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_rdf_mapping()]]></content>
+</snippet>

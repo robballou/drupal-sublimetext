@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.init</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_init().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_init() {
+	$0
+}]]></content>
+</snippet>

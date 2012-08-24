@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_effect_definitions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_effect_definitions()]]></content>
+</snippet>

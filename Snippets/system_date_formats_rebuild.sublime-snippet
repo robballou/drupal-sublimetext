@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_date_formats_rebuild</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_date_formats_rebuild()]]></content>
+</snippet>

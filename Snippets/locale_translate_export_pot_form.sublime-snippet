@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_translate_export_pot_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_translate_export_pot_form()]]></content>
+</snippet>

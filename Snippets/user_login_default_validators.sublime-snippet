@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_login_default_validators</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_login_default_validators()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_permission</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_permission()]]></content>
+</snippet>

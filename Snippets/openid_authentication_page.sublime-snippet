@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_authentication_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_authentication_page()]]></content>
+</snippet>

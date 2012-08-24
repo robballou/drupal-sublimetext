@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_fallback_format</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_fallback_format()]]></content>
+</snippet>

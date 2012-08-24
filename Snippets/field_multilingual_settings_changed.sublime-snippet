@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_multilingual_settings_changed</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_multilingual_settings_changed()]]></content>
+</snippet>

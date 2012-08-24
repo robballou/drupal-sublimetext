@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.node_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_node_info().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_node_info() {
+	$0
+}]]></content>
+</snippet>

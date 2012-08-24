@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_block_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_block_info()]]></content>
+</snippet>

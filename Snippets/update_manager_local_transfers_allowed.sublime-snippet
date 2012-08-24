@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_manager_local_transfers_allowed</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_manager_local_transfers_allowed()]]></content>
+</snippet>

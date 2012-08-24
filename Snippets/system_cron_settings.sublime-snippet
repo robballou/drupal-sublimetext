@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_cron_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_cron_settings()]]></content>
+</snippet>

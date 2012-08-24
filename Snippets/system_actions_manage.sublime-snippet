@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_actions_manage</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_actions_manage()]]></content>
+</snippet>

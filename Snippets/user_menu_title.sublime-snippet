@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_menu_title</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_menu_title()]]></content>
+</snippet>

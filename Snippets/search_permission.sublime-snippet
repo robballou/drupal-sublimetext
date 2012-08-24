@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_permission</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_permission()]]></content>
+</snippet>

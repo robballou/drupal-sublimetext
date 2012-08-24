@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_library</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_library()]]></content>
+</snippet>

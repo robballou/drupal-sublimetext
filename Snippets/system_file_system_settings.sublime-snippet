@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_file_system_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_file_system_settings()]]></content>
+</snippet>

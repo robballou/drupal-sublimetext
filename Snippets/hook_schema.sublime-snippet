@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.schema</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_schema().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_schema() {
+	$0
+}]]></content>
+</snippet>

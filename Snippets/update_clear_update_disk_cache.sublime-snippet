@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_clear_update_disk_cache</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_clear_update_disk_cache()]]></content>
+</snippet>

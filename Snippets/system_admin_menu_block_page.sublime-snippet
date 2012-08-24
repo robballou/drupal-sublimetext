@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_admin_menu_block_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_admin_menu_block_page()]]></content>
+</snippet>

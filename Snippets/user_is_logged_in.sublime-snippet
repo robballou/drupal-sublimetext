@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_is_logged_in</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_is_logged_in()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_field_widget_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_field_widget_info()]]></content>
+</snippet>

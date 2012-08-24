@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_search_status</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_search_status()]]></content>
+</snippet>

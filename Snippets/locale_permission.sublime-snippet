@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_permission</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_permission()]]></content>
+</snippet>

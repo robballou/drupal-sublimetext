@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.boot</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_boot().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_boot() {
+	$0
+}]]></content>
+</snippet>

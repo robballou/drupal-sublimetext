@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_date_format_language_overview_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_date_format_language_overview_page()]]></content>
+</snippet>

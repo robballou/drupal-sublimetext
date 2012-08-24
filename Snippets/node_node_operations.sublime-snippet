@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_node_operations</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_node_operations()]]></content>
+</snippet>

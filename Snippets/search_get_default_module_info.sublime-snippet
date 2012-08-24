@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_get_default_module_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_get_default_module_info()]]></content>
+</snippet>

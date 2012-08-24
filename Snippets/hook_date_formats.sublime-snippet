@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.date_formats</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_date_formats().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_date_formats() {
+	$0
+}]]></content>
+</snippet>

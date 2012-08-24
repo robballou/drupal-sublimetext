@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>statistics_recent_hits</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[statistics_recent_hits()]]></content>
+</snippet>

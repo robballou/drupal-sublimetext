@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_permission</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_permission()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_rdf_mapping</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_rdf_mapping()]]></content>
+</snippet>

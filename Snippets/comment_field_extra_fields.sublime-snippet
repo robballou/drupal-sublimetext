@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_field_extra_fields</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_field_extra_fields()]]></content>
+</snippet>

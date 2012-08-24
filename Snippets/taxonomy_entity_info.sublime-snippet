@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_entity_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_entity_info()]]></content>
+</snippet>

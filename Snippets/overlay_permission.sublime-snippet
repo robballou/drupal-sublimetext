@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_permission</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_permission()]]></content>
+</snippet>

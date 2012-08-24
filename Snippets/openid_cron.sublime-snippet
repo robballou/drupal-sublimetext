@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>openid_cron</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[openid_cron()]]></content>
+</snippet>

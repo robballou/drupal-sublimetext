@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>statistics_node_tracker</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[statistics_node_tracker()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_search_reset</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_search_reset()]]></content>
+</snippet>

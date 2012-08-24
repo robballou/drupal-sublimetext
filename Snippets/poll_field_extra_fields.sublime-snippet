@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>poll_field_extra_fields</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[poll_field_extra_fields()]]></content>
+</snippet>

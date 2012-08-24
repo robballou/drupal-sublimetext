@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dashboard_show_disabled</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dashboard_show_disabled()]]></content>
+</snippet>

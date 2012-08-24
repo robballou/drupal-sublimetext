@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>statistics_top_visitors</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[statistics_top_visitors()]]></content>
+</snippet>

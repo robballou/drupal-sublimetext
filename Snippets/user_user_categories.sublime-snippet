@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_user_categories</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_user_categories()]]></content>
+</snippet>

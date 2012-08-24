@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_filter_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_filter_form()]]></content>
+</snippet>

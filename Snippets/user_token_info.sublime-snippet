@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_token_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_token_info()]]></content>
+</snippet>

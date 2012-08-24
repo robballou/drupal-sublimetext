@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_block_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_block_info()]]></content>
+</snippet>

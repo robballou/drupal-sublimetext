@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>simpletest_clean_temporary_directories</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[simpletest_clean_temporary_directories()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_ajax_upload</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_ajax_upload()]]></content>
+</snippet>

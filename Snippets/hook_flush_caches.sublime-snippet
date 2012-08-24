@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.flush_caches</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_flush_caches().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_flush_caches() {
+	$0
+}]]></content>
+</snippet>

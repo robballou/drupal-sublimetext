@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_cron</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_cron()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_set_get_unique_name</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_set_get_unique_name()]]></content>
+</snippet>

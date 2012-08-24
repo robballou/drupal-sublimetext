@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_admin_config_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_admin_config_page()]]></content>
+</snippet>

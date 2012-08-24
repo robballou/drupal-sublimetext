@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.uninstall</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_uninstall().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_uninstall() {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_regional_settings</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_regional_settings()]]></content>
+</snippet>

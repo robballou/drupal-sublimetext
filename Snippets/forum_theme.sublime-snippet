@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_theme</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_theme()]]></content>
+</snippet>

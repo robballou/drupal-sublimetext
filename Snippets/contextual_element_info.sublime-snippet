@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>contextual_element_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[contextual_element_info()]]></content>
+</snippet>

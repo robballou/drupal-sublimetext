@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_overlay_child_initialize</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_overlay_child_initialize()]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.update_index</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_update_index().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_update_index() {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_theme</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_theme()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_set_admin</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_set_admin()]]></content>
+</snippet>

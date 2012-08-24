@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_menu</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_menu()]]></content>
+</snippet>

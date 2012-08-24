@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_search_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_search_access()]]></content>
+</snippet>

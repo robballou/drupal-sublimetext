@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>poll_cron</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[poll_cron()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_stream_wrappers</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_stream_wrappers()]]></content>
+</snippet>

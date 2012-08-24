@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>block_admin_paths</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[block_admin_paths()]]></content>
+</snippet>

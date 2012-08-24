@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_user_categories</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_user_categories()]]></content>
+</snippet>

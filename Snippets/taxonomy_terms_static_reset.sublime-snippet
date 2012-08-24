@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>taxonomy_terms_static_reset</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[taxonomy_terms_static_reset()]]></content>
+</snippet>

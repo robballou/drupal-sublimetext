@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_image_toolkits</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_image_toolkits()]]></content>
+</snippet>

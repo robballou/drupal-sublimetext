@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_archiver_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_archiver_info()]]></content>
+</snippet>

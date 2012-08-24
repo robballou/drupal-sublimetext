@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.enable</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_enable().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_enable() {
+	$0
+}]]></content>
+</snippet>

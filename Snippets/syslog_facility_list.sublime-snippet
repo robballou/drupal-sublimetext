@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>syslog_facility_list</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[syslog_facility_list()]]></content>
+</snippet>

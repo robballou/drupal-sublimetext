@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_site_maintenance_mode</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_site_maintenance_mode()]]></content>
+</snippet>

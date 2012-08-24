@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_languages_overview_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_languages_overview_form()]]></content>
+</snippet>

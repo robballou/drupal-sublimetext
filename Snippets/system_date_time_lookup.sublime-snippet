@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_date_time_lookup</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_date_time_lookup()]]></content>
+</snippet>

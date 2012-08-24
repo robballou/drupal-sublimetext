@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>overlay_get_rendered_content</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[overlay_get_rendered_content()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>forum_rdf_mapping</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[forum_rdf_mapping()]]></content>
+</snippet>

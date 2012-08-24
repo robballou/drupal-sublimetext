@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_admin_overview</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_admin_overview()]]></content>
+</snippet>

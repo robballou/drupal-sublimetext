@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dblog_cron</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dblog_cron()]]></content>
+</snippet>

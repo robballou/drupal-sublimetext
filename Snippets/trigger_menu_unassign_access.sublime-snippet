@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>trigger_menu_unassign_access</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[trigger_menu_unassign_access()]]></content>
+</snippet>

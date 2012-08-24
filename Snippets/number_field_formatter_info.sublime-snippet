@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>number_field_formatter_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[number_field_formatter_info()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>translation_permission</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[translation_permission()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_reindex_confirm</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_reindex_confirm()]]></content>
+</snippet>

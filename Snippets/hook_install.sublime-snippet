@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.install</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_install().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_install() {
+	$0
+}]]></content>
+</snippet>

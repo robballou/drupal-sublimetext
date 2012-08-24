@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_language_negotiation_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_language_negotiation_info()]]></content>
+</snippet>

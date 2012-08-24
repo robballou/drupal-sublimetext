@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_permissions_get_configured_types</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_permissions_get_configured_types()]]></content>
+</snippet>

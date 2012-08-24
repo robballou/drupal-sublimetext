@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>menu_load_all</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[menu_load_all()]]></content>
+</snippet>

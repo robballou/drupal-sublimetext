@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_styles</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_styles()]]></content>
+</snippet>

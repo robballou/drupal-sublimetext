@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_cancel_methods</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_cancel_methods()]]></content>
+</snippet>

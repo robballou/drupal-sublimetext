@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_batch_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_batch_page()]]></content>
+</snippet>

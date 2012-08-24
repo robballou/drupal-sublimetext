@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dashboard_permission</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dashboard_permission()]]></content>
+</snippet>

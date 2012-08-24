@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_menu</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_menu()]]></content>
+</snippet>

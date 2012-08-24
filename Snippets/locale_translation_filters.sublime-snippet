@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>locale_translation_filters</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[locale_translation_filters()]]></content>
+</snippet>

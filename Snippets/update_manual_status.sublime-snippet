@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>update_manual_status</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[update_manual_status()]]></content>
+</snippet>

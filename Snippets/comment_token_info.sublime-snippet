@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>comment_token_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[comment_token_info()]]></content>
+</snippet>

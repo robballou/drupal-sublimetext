@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>statistics_settings_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[statistics_settings_form()]]></content>
+</snippet>

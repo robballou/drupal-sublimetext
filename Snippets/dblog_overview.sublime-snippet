@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>dblog_overview</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[dblog_overview()]]></content>
+</snippet>

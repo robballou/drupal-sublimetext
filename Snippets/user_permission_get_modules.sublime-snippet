@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_permission_get_modules</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_permission_get_modules()]]></content>
+</snippet>

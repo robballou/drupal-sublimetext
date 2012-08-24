@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>toolbar_permission</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[toolbar_permission()]]></content>
+</snippet>

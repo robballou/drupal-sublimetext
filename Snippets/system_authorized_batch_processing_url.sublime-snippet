@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_authorized_batch_processing_url</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_authorized_batch_processing_url()]]></content>
+</snippet>

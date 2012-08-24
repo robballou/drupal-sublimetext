@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.custom_theme</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_custom_theme().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_custom_theme() {
+	$0
+}]]></content>
+</snippet>

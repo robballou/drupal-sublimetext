@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_filetransfer_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_filetransfer_info()]]></content>
+</snippet>

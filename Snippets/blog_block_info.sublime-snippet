@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>blog_block_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[blog_block_info()]]></content>
+</snippet>

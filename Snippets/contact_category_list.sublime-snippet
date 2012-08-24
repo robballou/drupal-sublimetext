@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>contact_category_list</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[contact_category_list()]]></content>
+</snippet>

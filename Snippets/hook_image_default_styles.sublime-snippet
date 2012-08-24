@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.image_default_styles</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_image_default_styles().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_image_default_styles() {
+	$0
+}]]></content>
+</snippet>

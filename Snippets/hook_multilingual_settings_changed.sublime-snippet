@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.multilingual_settings_changed</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_multilingual_settings_changed().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_multilingual_settings_changed() {
+	$0
+}]]></content>
+</snippet>

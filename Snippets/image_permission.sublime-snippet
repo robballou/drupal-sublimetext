@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>image_permission</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[image_permission()]]></content>
+</snippet>

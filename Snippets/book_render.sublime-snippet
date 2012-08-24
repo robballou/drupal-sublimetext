@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_render</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_render()]]></content>
+</snippet>

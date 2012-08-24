@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_sets</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_sets()]]></content>
+</snippet>

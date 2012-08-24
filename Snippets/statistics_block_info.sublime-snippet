@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>statistics_block_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[statistics_block_info()]]></content>
+</snippet>

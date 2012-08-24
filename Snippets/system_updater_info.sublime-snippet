@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>system_updater_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[system_updater_info()]]></content>
+</snippet>

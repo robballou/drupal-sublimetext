@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>shortcut_theme</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[shortcut_theme()]]></content>
+</snippet>

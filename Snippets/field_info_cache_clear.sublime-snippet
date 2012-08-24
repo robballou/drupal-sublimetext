@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_info_cache_clear</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_info_cache_clear()]]></content>
+</snippet>

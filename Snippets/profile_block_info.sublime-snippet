@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_block_info</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_block_info()]]></content>
+</snippet>

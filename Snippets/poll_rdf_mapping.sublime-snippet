@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>poll_rdf_mapping</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[poll_rdf_mapping()]]></content>
+</snippet>

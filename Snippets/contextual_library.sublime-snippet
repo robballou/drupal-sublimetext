@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>contextual_library</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[contextual_library()]]></content>
+</snippet>

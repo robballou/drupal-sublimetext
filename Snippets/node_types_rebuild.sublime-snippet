@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_types_rebuild</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_types_rebuild()]]></content>
+</snippet>

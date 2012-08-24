@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>search_is_active</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[search_is_active()]]></content>
+</snippet>

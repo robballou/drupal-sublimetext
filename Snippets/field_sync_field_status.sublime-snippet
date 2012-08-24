@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_sync_field_status</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[field_sync_field_status()]]></content>
+</snippet>

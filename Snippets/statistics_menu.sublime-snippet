@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>statistics_menu</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[statistics_menu()]]></content>
+</snippet>

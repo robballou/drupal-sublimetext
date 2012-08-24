@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>book_permission</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[book_permission()]]></content>
+</snippet>

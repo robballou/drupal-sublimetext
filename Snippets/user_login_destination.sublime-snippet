@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>user_login_destination</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[user_login_destination()]]></content>
+</snippet>

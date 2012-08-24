@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>aggregator_sanitize_configuration</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[aggregator_sanitize_configuration()]]></content>
+</snippet>
