@@ -3,6 +3,7 @@
 	"completions": [
 		"EntityFieldQuery",
 
+		"DRUPAL_NO_CACHE",
 		"DRUPAL_CACHE_CUSTOM",
 		"DRUPAL_CACHE_GLOBAL",
 		"DRUPAL_CACHE_PER_PAGE",

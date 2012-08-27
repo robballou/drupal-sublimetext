@@ -1,0 +1,73 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Implements hook_block_info().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_block_info() {
+	\$blocks = array();
+
+	\$blocks['${1:${TM_FILENAME/(.*)\..*/$1/}_block_delta}'] = array(
+		'info' => t('${2:Title}'),
+		'cache' => DRUPAL_NO_CACHE,
+	);
+
+	return \$blocks;
+}
+
+/**
+ * Implements hook_block_view().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_block_view(\$delta = '') {
+	if (function_exists(\$delta . '_view')) {
+		return call_user_func(\$delta . '_view');
+	}
+}
+
+/**
+ * Implements hook_block_configure().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_block_configure(\$delta = '') {
+	if (function_exists(\$delta . '_configure')) {
+		return call_user_func(\$delta . '_configure');
+	}
+}
+
+/**
+ * Implements hook_block_save().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_block_save(\$delta = '', \$edit = array()) {
+	if (function_exists(\$delta . '_save')) {
+		return call_user_func(\$delta . '_save');
+	}
+}
+
+/**
+ * Block code to view $1
+ */
+function $1_view() {
+	\$block = array('subject' => '', 'content' => '');
+
+	$0
+
+	return \$block;
+}
+
+/**
+ * Block code to configure $1
+ */
+function $1_configure() {
+	\$form = array();
+	return $form;
+}
+
+/**
+ * Block code to save $1
+ */
+function $1_save(\$edit = array()) {
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>block</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
