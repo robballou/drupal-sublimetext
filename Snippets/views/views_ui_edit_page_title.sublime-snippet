@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_edit_page_title</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_edit_page_title(${1:view})]]></content>
+</snippet>

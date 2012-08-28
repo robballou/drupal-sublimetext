@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_query_views_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_query_views_alter(${1:ueryAlterableInterface $query})]]></content>
+</snippet>

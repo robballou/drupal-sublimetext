@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_var_export</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_var_export(${1:var}${2:, ${3:prefix}${4:, ${5:init}}})]]></content>
+</snippet>

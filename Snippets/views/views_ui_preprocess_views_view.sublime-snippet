@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_preprocess_views_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_preprocess_views_view(${1:vars})]]></content>
+</snippet>

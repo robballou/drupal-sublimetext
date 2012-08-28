@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.views_form_submit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_views_form_submit().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_views_form_submit(\$form, &\$form_state) {
+	$0
+}]]></content>
+</snippet>

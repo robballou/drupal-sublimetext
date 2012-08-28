@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_exposed_form_cache</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_exposed_form_cache(${1:views_name}, ${2:display_name}${3:, ${4:form_output}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+sites/all/modules/contrib/views/docs/views.api.php
+sites/all/modules/contrib/views/views.module
+sites/all/modules/contrib/views/views_export/views_export.module
+sites/all/modules/contrib/views/views_ui.module
+sites/all/modules/contrib/views/docs/views.api.php

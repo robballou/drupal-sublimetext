@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_fetch_data</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_fetch_data(${1:, ${2:table}${3:, ${4:move}${5:, ${6:reset}}}})]]></content>
+</snippet>

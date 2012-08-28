@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_get_handler</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_get_handler(${1:table}, ${2:field}, ${3:key}${4:, ${5:override}})]]></content>
+</snippet>

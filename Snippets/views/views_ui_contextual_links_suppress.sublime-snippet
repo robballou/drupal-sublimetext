@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_contextual_links_suppress</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_contextual_links_suppress(${1:, ${2:set}})]]></content>
+</snippet>

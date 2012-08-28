@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_include_handlers</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_include_handlers(${1:, ${2:reset}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_menu_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_menu_alter(${1:callbacks})]]></content>
+</snippet>

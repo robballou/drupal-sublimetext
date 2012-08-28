@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_load_display_records</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_load_display_records(${1:views})]]></content>
+</snippet>

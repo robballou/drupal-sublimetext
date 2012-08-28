@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.views_pre_render</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_views_pre_render().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_views_pre_render(&\$view) {
+	$0
+}]]></content>
+</snippet>

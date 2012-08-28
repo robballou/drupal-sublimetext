@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_get_module_apis</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_get_module_apis(${1:, ${2:api}${3:, ${4:reset}}})]]></content>
+</snippet>

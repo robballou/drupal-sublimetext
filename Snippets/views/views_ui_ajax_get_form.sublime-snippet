@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_ajax_get_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_ajax_get_form(${1:form_id})]]></content>
+</snippet>

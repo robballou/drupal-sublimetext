@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_form_views_exposed_form_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_form_views_exposed_form_alter(${1:form}, ${2:form_state})]]></content>
+</snippet>

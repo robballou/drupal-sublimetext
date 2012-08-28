@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_views_wizard_defaults</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_views_wizard_defaults()]]></content>
+</snippet>

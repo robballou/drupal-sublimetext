@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_api_minimum_version</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_api_minimum_version()]]></content>
+</snippet>

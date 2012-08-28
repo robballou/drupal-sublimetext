@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_fetch_plugin_data</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_fetch_plugin_data(${1:, ${2:type}${3:, ${4:plugin}${5:, ${6:reset}}}})]]></content>
+</snippet>

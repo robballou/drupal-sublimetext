@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_add_js</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_add_js(${1:file})]]></content>
+</snippet>

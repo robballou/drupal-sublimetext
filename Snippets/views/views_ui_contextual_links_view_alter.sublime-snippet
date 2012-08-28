@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_contextual_links_view_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_contextual_links_view_alter(${1:element}, ${2:items})]]></content>
+</snippet>

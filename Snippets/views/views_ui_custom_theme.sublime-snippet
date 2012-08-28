@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_custom_theme</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_custom_theme()]]></content>
+</snippet>

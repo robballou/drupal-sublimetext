@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>vsm_trace</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[vsm_trace()]]></content>
+</snippet>

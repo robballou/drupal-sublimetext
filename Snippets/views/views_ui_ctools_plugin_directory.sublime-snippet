@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_ctools_plugin_directory</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_ctools_plugin_directory(${1:module}, ${2:plugin})]]></content>
+</snippet>

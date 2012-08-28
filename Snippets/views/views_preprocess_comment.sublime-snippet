@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_preprocess_comment</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_preprocess_comment(${1:vars})]]></content>
+</snippet>

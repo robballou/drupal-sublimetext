@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.views_ui_display_top_links_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_views_ui_display_top_links_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_views_ui_display_top_links_alter(&\$links, \$view, \$display_id) {
+	$0
+}]]></content>
+</snippet>

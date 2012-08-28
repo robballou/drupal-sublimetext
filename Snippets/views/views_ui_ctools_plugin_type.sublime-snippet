@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_ctools_plugin_type</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_ctools_plugin_type()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_get_form_wizard_instance</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_get_form_wizard_instance(${1:wizard})]]></content>
+</snippet>

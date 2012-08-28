@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_view_preview_section_rows_links</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_view_preview_section_rows_links(${1:view})]]></content>
+</snippet>

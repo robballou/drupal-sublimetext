@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.views_pre_build</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_views_pre_build().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_views_pre_build(&\$view) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_get_applicable_views</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_get_applicable_views(${1:type})]]></content>
+</snippet>

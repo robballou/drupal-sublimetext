@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_check_perm</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_check_perm(${1:perm}${2:, ${3:account}})]]></content>
+</snippet>

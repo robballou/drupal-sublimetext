@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_flush_caches</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_flush_caches()]]></content>
+</snippet>

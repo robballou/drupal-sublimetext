@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_field_delete_instance</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_field_delete_instance(${1:instance})]]></content>
+</snippet>

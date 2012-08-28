@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>profile_views_api</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[profile_views_api()]]></content>
+</snippet>

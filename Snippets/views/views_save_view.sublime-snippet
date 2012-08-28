@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_save_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_save_view(${1:view})]]></content>
+</snippet>

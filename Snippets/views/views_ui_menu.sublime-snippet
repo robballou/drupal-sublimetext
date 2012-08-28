@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_menu</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_menu()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_include</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_include(${1:file})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ctools_plugin_api_hook_name</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ctools_plugin_api_hook_name()]]></content>
+</snippet>

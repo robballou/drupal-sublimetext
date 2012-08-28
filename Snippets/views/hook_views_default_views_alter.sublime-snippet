@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.views_default_views_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_views_default_views_alter().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_views_default_views_alter(&\$views) {
+	$0
+}]]></content>
+</snippet>

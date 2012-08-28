@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_add_css</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_add_css(${1:file})]]></content>
+</snippet>

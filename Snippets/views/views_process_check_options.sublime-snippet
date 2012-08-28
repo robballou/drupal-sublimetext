@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_process_check_options</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_process_check_options(${1:element}, ${2:form_state})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_theme_functions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_theme_functions(${1:hook}, ${2:view}${3:, ${4:display}})]]></content>
+</snippet>

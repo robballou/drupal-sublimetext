@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_view_preview_section_handler_links</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_view_preview_section_handler_links(${1:view}, ${2:type}${3:, ${4:title}})]]></content>
+</snippet>

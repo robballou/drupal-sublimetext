@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>vsm</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[vsm(${1:message})]]></content>
+</snippet>

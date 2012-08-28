@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_preprocess_views_ui_view_preview_section</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_preprocess_views_ui_view_preview_section(${1:vars})]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.views_form_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_views_form_validate().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_views_form_validate(\$form, &\$form_state) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_check_roles</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_check_roles(${1:rids}${2:, ${3:account}})]]></content>
+</snippet>

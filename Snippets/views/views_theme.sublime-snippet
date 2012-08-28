@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_theme</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_theme(${1:existing}, ${2:type}, ${3:theme}, ${4:path})]]></content>
+</snippet>

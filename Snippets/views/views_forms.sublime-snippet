@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_forms</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_forms(${1:form_id}, ${2:args})]]></content>
+</snippet>

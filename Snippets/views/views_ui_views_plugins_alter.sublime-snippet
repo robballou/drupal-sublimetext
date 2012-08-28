@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_ui_views_plugins_alter</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_ui_views_plugins_alter(${1:plugins})]]></content>
+</snippet>

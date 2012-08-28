@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_trim_text</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_trim_text(${1:alter}, ${2:value})]]></content>
+</snippet>

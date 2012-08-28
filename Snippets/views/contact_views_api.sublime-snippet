@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>contact_views_api</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[contact_views_api()]]></content>
+</snippet>

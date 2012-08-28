@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_views_query_substitutions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_views_query_substitutions(${1:view})]]></content>
+</snippet>

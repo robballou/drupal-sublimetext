@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_trace</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_trace()]]></content>
+</snippet>

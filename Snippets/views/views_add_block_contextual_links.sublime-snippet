@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_add_block_contextual_links</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_add_block_contextual_links(${1:block}, ${2:view}, ${3:display_id}${4:, ${5:block_type}})]]></content>
+</snippet>

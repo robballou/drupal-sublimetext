@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>views_view_is_enabled</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[views_view_is_enabled(${1:view})]]></content>
+</snippet>
