@@ -57,7 +57,7 @@ function $1_view() {
  */
 function $1_configure() {
 	\$form = array();
-	return $form;
+	return \$form;
 }
 
 /**
