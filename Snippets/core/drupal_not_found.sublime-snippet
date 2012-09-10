@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_not_found</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[drupal_not_found()]]></content>
+</snippet>

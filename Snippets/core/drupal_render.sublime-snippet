@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_render</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[drupal_render(${1:elements})]]></content>
+</snippet>

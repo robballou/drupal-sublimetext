@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_json_decode</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[drupal_json_decode(\$${1:variable})]]></content>
+</snippet>

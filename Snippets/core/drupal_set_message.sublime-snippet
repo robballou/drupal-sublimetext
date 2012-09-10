@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_set_message</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[drupal_set_message(t(${1:message})${2:, '${3:status}'${4:, FALSE}})]]></content>
+</snippet>
