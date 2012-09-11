@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\$${1:query} = new EntityFieldQuery();
+${2:\$$1->entityCondition('${3:entity_type}', '${4:node}')
+	->entityCondition('${5:bundle}', '${6:bundle}');}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>efq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
