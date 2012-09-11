@@ -5,6 +5,11 @@
  * Implements hook_menu().
  */
 function ${TM_FILENAME/(.*)\..*/$1/}_menu() {
-	$0
+	\$items = array();
+	\$items['${2:path}'] = array(
+		'title' => '$3',
+		'page callback' => '$4',$0
+	);
+	return \$items;
 }]]></content>
 </snippet>
