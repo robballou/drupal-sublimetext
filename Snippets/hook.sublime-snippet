@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>hook</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_$1().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_${1:function}(${2:args}) {
+	$0
+}]]></content>
+</snippet>

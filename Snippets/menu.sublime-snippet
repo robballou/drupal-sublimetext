@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\$${1:items}['${2:menu}'] = array(
+	'title' => '${3:title}',
+	'page callback' => '${4:callback}',
+	'type' => MENU_NORMAL_ITEM,$0
+);
+]]></content>
+	<tabTrigger>menu</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
