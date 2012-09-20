@@ -23,3 +23,5 @@ Most of this package adds snippets for Drupal core functions. I am still working
 Snippets can also be accessed via the command palette.
 
 There also are some other completions for constants. There still needs to be a big import for some constants here but for now this should help if you use these in your site development.
+
+[package_control]: http://wbond.net/sublime_packages/package_control
