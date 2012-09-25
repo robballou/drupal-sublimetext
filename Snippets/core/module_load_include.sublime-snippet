@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+module_load_include(${1:type}, ${2:module}${3:, ${4:name}})
+]]></content>
+	<tabTrigger>module_load_include</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+'#prefix' => '${1:<${2:div}$3>}',
+'#suffix' => '${4:</$2>}',
+]]></content>
+	<tabTrigger>prefix</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
