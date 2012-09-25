@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_common_theme</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_common_theme()]]></content>
+</snippet>

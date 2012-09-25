@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>format_interval</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[format_interval(${1:interval}${2:, ${3:granularity}${4:, ${5:langcode}}})]]></content>
+</snippet>

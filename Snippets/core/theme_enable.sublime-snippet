@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_enable</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_enable(${1:theme_list})]]></content>
+</snippet>

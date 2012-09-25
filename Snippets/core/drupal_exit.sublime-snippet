@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_exit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_exit(${1:, ${2:destination}})]]></content>
+</snippet>

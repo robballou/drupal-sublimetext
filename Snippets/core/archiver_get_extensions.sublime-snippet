@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>archiver_get_extensions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[archiver_get_extensions()]]></content>
+</snippet>

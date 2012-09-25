@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_page_set_cache</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_page_set_cache()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_find_theme_functions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_find_theme_functions(${1:cache}, ${2:prefixes})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_set_time_limit</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_set_time_limit(${1:time_limit})]]></content>
+</snippet>

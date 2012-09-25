@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>watchdog_severity_levels</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[watchdog_severity_levels()]]></content>
+</snippet>

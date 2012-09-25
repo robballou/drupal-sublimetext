@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_delete_file_if_stale</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_delete_file_if_stale(${1:uri})]]></content>
+</snippet>

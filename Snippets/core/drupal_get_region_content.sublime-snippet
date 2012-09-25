@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_get_region_content</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_get_region_content(${1:, ${2:region}${3:, ${4:delimiter}}})]]></content>
+</snippet>

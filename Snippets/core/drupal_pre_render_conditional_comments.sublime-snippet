@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_pre_render_conditional_comments</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_pre_render_conditional_comments(${1:elements})]]></content>
+</snippet>

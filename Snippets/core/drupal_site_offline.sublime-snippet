@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_site_offline</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_site_offline()]]></content>
+</snippet>

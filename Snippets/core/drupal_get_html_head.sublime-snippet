@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_get_html_head</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_get_html_head()]]></content>
+</snippet>

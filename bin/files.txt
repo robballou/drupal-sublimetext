@@ -1,3 +1,5 @@
+includes/common.inc
+includes/theme.inc
 modules/aggregator/aggregator.admin.inc
 modules/aggregator/aggregator.api.php
 modules/aggregator/aggregator.fetcher.inc

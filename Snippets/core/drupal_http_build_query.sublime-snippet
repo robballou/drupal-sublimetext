@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_http_build_query</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_http_build_query(${1:rray $query}${2:, ${3:parent}})]]></content>
+</snippet>

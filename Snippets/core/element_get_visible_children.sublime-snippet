@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>element_get_visible_children</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[element_get_visible_children(${1:rray $elements})]]></content>
+</snippet>

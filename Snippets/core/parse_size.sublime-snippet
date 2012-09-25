@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>parse_size</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[parse_size(${1:size})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>entity_prepare_view</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[entity_prepare_view(${1:entity_type}, ${2:entities}${3:, ${4:langcode}})]]></content>
+</snippet>

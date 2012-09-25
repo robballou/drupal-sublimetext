@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>element_info_property</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[element_info_property(${1:type}, ${2:property_name}${3:, ${4:default}})]]></content>
+</snippet>

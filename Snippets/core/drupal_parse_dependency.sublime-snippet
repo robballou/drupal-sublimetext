@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_parse_dependency</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_parse_dependency(${1:dependency})]]></content>
+</snippet>

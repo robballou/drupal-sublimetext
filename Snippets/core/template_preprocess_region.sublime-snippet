@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_preprocess_region</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_preprocess_region(${1:variables})]]></content>
+</snippet>

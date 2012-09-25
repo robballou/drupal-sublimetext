@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_progress_bar</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_progress_bar(${1:variables})]]></content>
+</snippet>

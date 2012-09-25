@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>element_sort_by_title</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[element_sort_by_title(${1:a}, ${2:b})]]></content>
+</snippet>

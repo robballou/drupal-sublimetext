@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>valid_email_address</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[valid_email_address(${1:mail})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_get_registry</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_get_registry(${1:, ${2:complete}})]]></content>
+</snippet>

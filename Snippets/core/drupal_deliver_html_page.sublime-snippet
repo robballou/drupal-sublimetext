@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_deliver_html_page</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_deliver_html_page(${1:page_callback_result})]]></content>
+</snippet>

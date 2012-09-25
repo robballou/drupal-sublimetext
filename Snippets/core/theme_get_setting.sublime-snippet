@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_get_setting</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_get_setting(${1:setting_name}${2:, ${3:theme}})]]></content>
+</snippet>

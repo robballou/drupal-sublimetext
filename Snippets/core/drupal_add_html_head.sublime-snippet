@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_add_html_head</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_add_html_head(${1:, ${2:data}${3:, ${4:key}}})]]></content>
+</snippet>

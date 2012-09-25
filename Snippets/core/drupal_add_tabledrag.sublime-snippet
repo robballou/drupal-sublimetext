@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_add_tabledrag</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_add_tabledrag(${1:table_id}, ${2:action}, ${3:relationship}, ${4:group}${5:, ${6:subgroup}${7:, ${8:source}${9:, ${10:hidden}${11:, ${12:limit}}}}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_array_set_nested_value</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_array_set_nested_value(${1:rray &$array}, ${2:rray $parents}, ${3:value}${4:, ${5:force}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_links</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_links(${1:variables})]]></content>
+</snippet>

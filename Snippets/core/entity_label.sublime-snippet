@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>entity_label</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[entity_label(${1:entity_type}, ${2:entity})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_breadcrumb</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_breadcrumb(${1:variables})]]></content>
+</snippet>

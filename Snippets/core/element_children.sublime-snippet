@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>element_children</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[element_children(${1:elements}${2:, ${3:sort}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>entity_get_controller</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[entity_get_controller(${1:entity_type})]]></content>
+</snippet>

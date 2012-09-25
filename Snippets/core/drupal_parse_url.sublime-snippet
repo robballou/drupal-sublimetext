@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_parse_url</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_parse_url(${1:url})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_access_denied</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_access_denied()]]></content>
+</snippet>

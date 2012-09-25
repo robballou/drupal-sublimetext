@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_js_defaults</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_js_defaults(${1:, ${2:data}})]]></content>
+</snippet>

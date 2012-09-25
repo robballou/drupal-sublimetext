@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>render</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[render(${1:element})]]></content>
+</snippet>

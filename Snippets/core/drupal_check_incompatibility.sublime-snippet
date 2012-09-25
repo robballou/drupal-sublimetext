@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_check_incompatibility</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_check_incompatibility(${1:v}, ${2:current_version})]]></content>
+</snippet>

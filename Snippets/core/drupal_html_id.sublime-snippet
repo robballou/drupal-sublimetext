@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_html_id</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_html_id(${1:id})]]></content>
+</snippet>

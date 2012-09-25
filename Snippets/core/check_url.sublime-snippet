@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>check_url</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[check_url(${1:uri})]]></content>
+</snippet>

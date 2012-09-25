@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_flush_all_caches</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_flush_all_caches()]]></content>
+</snippet>

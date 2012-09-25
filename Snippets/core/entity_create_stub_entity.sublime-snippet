@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>entity_create_stub_entity</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[entity_create_stub_entity(${1:entity_type}, ${2:ids})]]></content>
+</snippet>

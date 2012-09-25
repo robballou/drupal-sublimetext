@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_process_attached</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_process_attached(${1:elements}${2:, ${3:group}${4:, ${5:dependency_check}${6:, ${7:every_page}}}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>hide</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[hide(${1:element})]]></content>
+</snippet>

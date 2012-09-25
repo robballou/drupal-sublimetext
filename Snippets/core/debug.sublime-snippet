@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>debug</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[debug(${1:data}${2:, ${3:label}${4:, ${5:print_r}}})]]></content>
+</snippet>

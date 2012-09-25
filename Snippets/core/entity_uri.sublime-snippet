@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>entity_uri</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[entity_uri(${1:entity_type}, ${2:entity})]]></content>
+</snippet>

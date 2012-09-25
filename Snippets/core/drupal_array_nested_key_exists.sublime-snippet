@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_array_nested_key_exists</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_array_nested_key_exists(${1:rray $array}, ${2:rray $parents})]]></content>
+</snippet>

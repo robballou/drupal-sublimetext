@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_get_library</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_get_library(${1:module}${2:, ${3:name}})]]></content>
+</snippet>

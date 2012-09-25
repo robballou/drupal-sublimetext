@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>element_set_attributes</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[element_set_attributes(${1:rray &$element}, ${2:rray $map})]]></content>
+</snippet>

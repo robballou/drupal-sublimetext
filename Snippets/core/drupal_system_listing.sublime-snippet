@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_system_listing</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_system_listing(${1:mask}, ${2:directory}${3:, ${4:key}${5:, ${6:min_depth}}})]]></content>
+</snippet>

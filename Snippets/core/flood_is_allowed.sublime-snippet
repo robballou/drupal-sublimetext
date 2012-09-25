@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>flood_is_allowed</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[flood_is_allowed(${1:name}, ${2:threshold}${3:, ${4:window}${5:, ${6:identifier}}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_page_footer</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_page_footer()]]></content>
+</snippet>

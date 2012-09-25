@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_parse_info_file</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_parse_info_file(${1:filename})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>base_path</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[base_path()]]></content>
+</snippet>

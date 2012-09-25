@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>entity_form_field_validate</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[entity_form_field_validate(${1:entity_type}, ${2:form}, ${3:form_state})]]></content>
+</snippet>

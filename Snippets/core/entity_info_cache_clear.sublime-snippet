@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>entity_info_cache_clear</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[entity_info_cache_clear()]]></content>
+</snippet>

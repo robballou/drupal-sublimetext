@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_build_js_cache</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_build_js_cache(${1:files})]]></content>
+</snippet>

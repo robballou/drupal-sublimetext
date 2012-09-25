@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_get_suggestions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_get_suggestions(${1:args}, ${2:base}${3:, ${4:delimiter}})]]></content>
+</snippet>

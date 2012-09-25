@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>show</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[show(${1:element})]]></content>
+</snippet>

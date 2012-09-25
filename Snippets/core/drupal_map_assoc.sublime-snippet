@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_map_assoc</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_map_assoc(${1:array}${2:, ${3:function}})]]></content>
+</snippet>

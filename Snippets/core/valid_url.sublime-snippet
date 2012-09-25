@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>valid_url</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[valid_url(${1:url}${2:, ${3:absolute}})]]></content>
+</snippet>

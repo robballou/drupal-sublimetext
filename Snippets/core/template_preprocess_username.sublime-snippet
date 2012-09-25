@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_preprocess_username</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_preprocess_username(${1:variables})]]></content>
+</snippet>

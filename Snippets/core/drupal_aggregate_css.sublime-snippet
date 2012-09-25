@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_aggregate_css</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_aggregate_css(${1:css_groups})]]></content>
+</snippet>

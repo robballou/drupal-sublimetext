@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_region_class</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_region_class(${1:region})]]></content>
+</snippet>

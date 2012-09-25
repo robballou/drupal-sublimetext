@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_schema_fields_sql</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_schema_fields_sql(${1:table}${2:, ${3:prefix}})]]></content>
+</snippet>

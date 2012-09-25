@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>theme_indentation</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[theme_indentation(${1:variables})]]></content>
+</snippet>

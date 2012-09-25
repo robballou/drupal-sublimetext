@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_get_schema_unprocessed</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_get_schema_unprocessed(${1:module}${2:, ${3:table}})]]></content>
+</snippet>

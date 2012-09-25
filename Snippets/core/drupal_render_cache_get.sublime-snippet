@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_render_cache_get</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_render_cache_get(${1:elements})]]></content>
+</snippet>

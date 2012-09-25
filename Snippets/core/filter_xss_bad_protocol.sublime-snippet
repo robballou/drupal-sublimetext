@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>filter_xss_bad_protocol</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[filter_xss_bad_protocol(${1:string}${2:, ${3:decode}})]]></content>
+</snippet>

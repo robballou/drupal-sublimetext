@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>element_properties</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[element_properties(${1:element})]]></content>
+</snippet>

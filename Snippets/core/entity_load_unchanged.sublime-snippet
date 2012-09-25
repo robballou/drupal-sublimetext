@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>entity_load_unchanged</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[entity_load_unchanged(${1:entity_type}, ${2:id})]]></content>
+</snippet>

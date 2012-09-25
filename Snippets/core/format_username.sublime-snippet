@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>format_username</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[format_username(${1:account})]]></content>
+</snippet>

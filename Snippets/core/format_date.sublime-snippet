@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>format_date</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[format_date(${1:timestamp}${2:, ${3:type}${4:, ${5:format}${6:, ${7:timezone}${8:, ${9:langcode}}}}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_render_cache_by_query</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_render_cache_by_query(${1:query}, ${2:function}${3:, ${4:expire}${5:, ${6:granularity}}})]]></content>
+</snippet>

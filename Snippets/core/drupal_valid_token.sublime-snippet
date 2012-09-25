@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_valid_token</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_valid_token(${1:token}${2:, ${3:value}${4:, ${5:skip_anonymous}}})]]></content>
+</snippet>

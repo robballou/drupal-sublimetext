@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>format_xml_elements</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[format_xml_elements(${1:array})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_get_feeds</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_get_feeds(${1:, ${2:delimiter}})]]></content>
+</snippet>

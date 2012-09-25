@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_set_page_content</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_set_page_content(${1:, ${2:content}})]]></content>
+</snippet>

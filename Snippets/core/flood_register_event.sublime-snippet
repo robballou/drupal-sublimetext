@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>flood_register_event</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[flood_register_event(${1:name}${2:, ${3:window}${4:, ${5:identifier}}})]]></content>
+</snippet>

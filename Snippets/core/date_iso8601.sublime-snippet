@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>date_iso8601</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[date_iso8601(${1:date})]]></content>
+</snippet>

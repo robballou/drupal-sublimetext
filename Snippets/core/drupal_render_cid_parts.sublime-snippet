@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_render_cid_parts</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_render_cid_parts(${1:, ${2:granularity}})]]></content>
+</snippet>

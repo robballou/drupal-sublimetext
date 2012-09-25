@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_sort_title</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_sort_title(${1:a}, ${2:b})]]></content>
+</snippet>

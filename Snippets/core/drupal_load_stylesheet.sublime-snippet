@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_load_stylesheet</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_load_stylesheet(${1:file}${2:, ${3:optimize}${4:, ${5:reset_basepath}}})]]></content>
+</snippet>

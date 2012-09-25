@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_add_html_head_link</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_add_html_head_link(${1:attributes}${2:, ${3:header}})]]></content>
+</snippet>

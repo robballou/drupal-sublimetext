@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_render_children</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_render_children(${1:element}${2:, ${3:children_keys}})]]></content>
+</snippet>

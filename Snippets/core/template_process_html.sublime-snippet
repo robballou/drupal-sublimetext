@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>template_process_html</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[template_process_html(${1:variables})]]></content>
+</snippet>

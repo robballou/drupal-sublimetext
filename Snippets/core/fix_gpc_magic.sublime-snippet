@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>fix_gpc_magic</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[fix_gpc_magic()]]></content>
+</snippet>
