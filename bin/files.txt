@@ -1,5 +1,6 @@
 includes/common.inc
 includes/theme.inc
+includes/bootstrap.inc
 modules/aggregator/aggregator.admin.inc
 modules/aggregator/aggregator.api.php
 modules/aggregator/aggregator.fetcher.inc
