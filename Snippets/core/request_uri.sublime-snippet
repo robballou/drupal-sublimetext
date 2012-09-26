@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>request_uri</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[request_uri()]]></content>
+</snippet>

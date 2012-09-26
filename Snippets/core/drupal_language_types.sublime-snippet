@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_language_types</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_language_types()]]></content>
+</snippet>

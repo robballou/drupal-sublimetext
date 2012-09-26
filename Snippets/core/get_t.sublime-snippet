@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>get_t</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[get_t()]]></content>
+</snippet>

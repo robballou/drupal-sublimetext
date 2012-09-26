@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>language_types</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[language_types()]]></content>
+</snippet>

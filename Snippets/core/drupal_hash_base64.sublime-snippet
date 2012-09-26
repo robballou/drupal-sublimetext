@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_hash_base64</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_hash_base64(${1:data})]]></content>
+</snippet>

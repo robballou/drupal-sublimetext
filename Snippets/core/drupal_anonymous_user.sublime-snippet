@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_anonymous_user</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_anonymous_user()]]></content>
+</snippet>

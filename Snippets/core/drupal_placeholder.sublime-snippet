@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_placeholder</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_placeholder(${1:text})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_is_cli</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_is_cli()]]></content>
+</snippet>

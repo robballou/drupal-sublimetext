@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_validate_utf8</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_validate_utf8(${1:text})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_page_is_cacheable</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_page_is_cacheable(${1:, ${2:allow_caching}})]]></content>
+</snippet>

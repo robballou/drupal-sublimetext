@@ -24,14 +24,14 @@
 		"WATCHDOG_INFO",
 		"WATCHDOG_DEBUG",
 
-		{"trigger": "base_path", "contents": "$base_path"},
-		{"trigger": "base_root", "contents": "$base_root"},
-		{"trigger": "base_theme_info", "contents": "$base_theme_info"},
-		{"trigger": "base_url", "contents": "$base_url"},
-		{"trigger": "conf", "contents": "$conf"},
-		{"trigger": "databases", "contents": "$databases"},
-		{"trigger": "is_https", "contents": "$is_https"},
-		{"trigger": "language", "contents": "$language"},
-		{"trigger": "user", "contents": "$user"}
+		{"trigger": "base_path", "contents": "\\$base_path"},
+		{"trigger": "base_root", "contents": "\\$base_root"},
+		{"trigger": "base_theme_info", "contents": "\\$base_theme_info"},
+		{"trigger": "base_url", "contents": "\\$base_url"},
+		{"trigger": "conf", "contents": "\\$conf"},
+		{"trigger": "databases", "contents": "\\$databases"},
+		{"trigger": "is_https", "contents": "\\$is_https"},
+		{"trigger": "language", "contents": "\\$language"},
+		{"trigger": "user", "contents": "\\$user"}
 	]
 }

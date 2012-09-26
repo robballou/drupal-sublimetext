@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_random_bytes</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_random_bytes(${1:count})]]></content>
+</snippet>

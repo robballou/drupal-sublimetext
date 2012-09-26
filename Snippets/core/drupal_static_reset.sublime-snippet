@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_static_reset</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_static_reset(${1:, ${2:name}})]]></content>
+</snippet>

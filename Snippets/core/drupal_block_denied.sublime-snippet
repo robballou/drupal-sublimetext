@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_block_denied</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_block_denied(${1:ip})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_valid_test_ua</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_valid_test_ua()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_bootstrap</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_bootstrap(${1:, ${2:phase}${3:, ${4:new_phase}}})]]></content>
+</snippet>

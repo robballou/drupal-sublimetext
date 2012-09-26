@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_valid_http_host</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_valid_http_host(${1:host})]]></content>
+</snippet>

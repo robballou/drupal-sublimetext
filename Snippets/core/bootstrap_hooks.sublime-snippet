@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>bootstrap_hooks</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[bootstrap_hooks()]]></content>
+</snippet>

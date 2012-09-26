@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_get_complete_schema</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_get_complete_schema(${1:, ${2:rebuild}})]]></content>
+</snippet>

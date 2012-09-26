@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_autoload_class</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_autoload_class(${1:class})]]></content>
+</snippet>

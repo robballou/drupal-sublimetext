@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>timer_stop</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[timer_stop(${1:name})]]></content>
+</snippet>

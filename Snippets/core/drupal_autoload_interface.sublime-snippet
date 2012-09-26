@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_autoload_interface</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_autoload_interface(${1:interface})]]></content>
+</snippet>

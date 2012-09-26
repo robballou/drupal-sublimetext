@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_generate_test_ua</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_generate_test_ua(${1:prefix})]]></content>
+</snippet>

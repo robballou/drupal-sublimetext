@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_installation_attempted</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_installation_attempted()]]></content>
+</snippet>

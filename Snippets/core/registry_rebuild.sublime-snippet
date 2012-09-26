@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>registry_rebuild</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[registry_rebuild()]]></content>
+</snippet>

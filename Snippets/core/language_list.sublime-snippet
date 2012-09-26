@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>language_list</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[language_list(${1:, ${2:field}})]]></content>
+</snippet>

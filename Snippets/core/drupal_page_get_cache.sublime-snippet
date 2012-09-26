@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_page_get_cache</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_page_get_cache(${1:, ${2:check_only}})]]></content>
+</snippet>

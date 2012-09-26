@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_get_title</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_get_title()]]></content>
+</snippet>

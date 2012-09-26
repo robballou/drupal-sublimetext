@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_get_filename</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_get_filename(${1:type}, ${2:name}${3:, ${4:filename}})]]></content>
+</snippet>

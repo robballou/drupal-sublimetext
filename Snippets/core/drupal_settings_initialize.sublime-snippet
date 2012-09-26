@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_settings_initialize</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_settings_initialize()]]></content>
+</snippet>

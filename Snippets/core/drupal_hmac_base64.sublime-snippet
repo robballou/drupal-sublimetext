@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_hmac_base64</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_hmac_base64(${1:data}, ${2:key})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>conf_path</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[conf_path(${1:, ${2:require_settings}${3:, ${4:reset}}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>check_plain</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[check_plain(${1:text})]]></content>
+</snippet>

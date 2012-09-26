@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>registry_update</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[registry_update()]]></content>
+</snippet>

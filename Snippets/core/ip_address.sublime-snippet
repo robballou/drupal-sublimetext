@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>ip_address</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[ip_address()]]></content>
+</snippet>
