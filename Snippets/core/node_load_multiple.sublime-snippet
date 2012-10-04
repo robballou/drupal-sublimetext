@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>node_load_multiple</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[node_load_multiple(${1:${2:nids}${3:, ${4:conditions}${5:, ${6:reset}}}})]]></content>
+</snippet>

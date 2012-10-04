@@ -1,5 +1,5 @@
 <snippet>
 	<tabTrigger>drupal_get_js</tabTrigger>
 	<scope>source.php</scope>
-<content><![CDATA[drupal_get_js(${1:, ${2:scope}${3:, ${4:javascript}${5:, ${6:skip_alter}}}})]]></content>
+<content><![CDATA[drupal_get_js(${1:${2:scope}${3:, ${4:javascript}${5:, ${6:skip_alter}}}})]]></content>
 </snippet>
