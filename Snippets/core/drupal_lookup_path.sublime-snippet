@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[drupal_lookup_path(${1:action}${2:, ${3:path}${4:, ${5:language}}})]]></content>
+	<tabTrigger>drupal_lookup_path</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
