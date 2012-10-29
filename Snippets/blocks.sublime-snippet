@@ -37,7 +37,7 @@ function ${TM_FILENAME/(.*)\..*/$1/}_block_configure(\$delta = '') {
  */
 function ${TM_FILENAME/(.*)\..*/$1/}_block_save(\$delta = '', \$edit = array()) {
 	if (function_exists(\$delta . '_save')) {
-		return call_user_func(\$delta . '_save');
+		return call_user_func(\$delta . '_save', \$edit);
 	}
 }
 

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[drupal_get_query_parameters(${1:query${2:, ${3:exclude{$4:, ${5:parent}}}}}});]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>drupal_get_query_parameters</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
