@@ -1,5 +1,5 @@
 <snippet>
 	<tabTrigger>node_load</tabTrigger>
 	<scope>source.php</scope>
-<content><![CDATA[node_load(${1:, ${2:nid}${3:, ${4:vid}${5:, ${6:reset}}}})]]></content>
+<content><![CDATA[node_load(${1:${2:nid}${3:, ${4:vid}${5:, ${6:reset}}}})]]></content>
 </snippet>
