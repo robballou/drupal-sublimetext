@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+menu_get_object(${1:node${2:, ${3:position${4:, ${5:path}}}}});
+]]></content>
+	<tabTrigger>menu_get_object</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
