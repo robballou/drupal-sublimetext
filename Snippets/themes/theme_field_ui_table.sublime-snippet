@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_field_ui_table</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_field_ui_table().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_field_ui_table(&\$vars) {
+	$0
+}]]></content>
+</snippet>

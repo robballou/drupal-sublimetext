@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_user_admin_roles</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_user_admin_roles().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_user_admin_roles(&\$vars) {
+	$0
+}]]></content>
+</snippet>

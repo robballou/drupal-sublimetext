@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_rdf_metadata</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_rdf_metadata().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_rdf_metadata(&\$vars) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_update_last_check</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_update_last_check().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_update_last_check(&\$vars) {
+	$0
+}]]></content>
+</snippet>

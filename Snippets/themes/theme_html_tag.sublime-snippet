@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_html_tag</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_html_tag().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_html_tag(&\$vars) {
+	$0
+}]]></content>
+</snippet>

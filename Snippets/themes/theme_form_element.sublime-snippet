@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_form_element</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_form_element().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_form_element(&\$vars) {
+	$0
+}]]></content>
+</snippet>

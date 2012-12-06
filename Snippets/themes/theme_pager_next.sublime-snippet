@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_pager_next</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_pager_next().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_pager_next(&\$vars) {
+	$0
+}]]></content>
+</snippet>

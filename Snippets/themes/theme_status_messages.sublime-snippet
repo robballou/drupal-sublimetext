@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_status_messages</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_status_messages().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_status_messages(&\$vars) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_progress_bar</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_progress_bar().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_progress_bar(&\$vars) {
+	$0
+}]]></content>
+</snippet>

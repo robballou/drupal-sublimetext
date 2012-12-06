@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_dashboard_region</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_dashboard_region().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_dashboard_region(&\$vars) {
+	$0
+}]]></content>
+</snippet>

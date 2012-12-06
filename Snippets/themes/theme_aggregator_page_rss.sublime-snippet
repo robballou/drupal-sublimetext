@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_aggregator_page_rss</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_aggregator_page_rss().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_aggregator_page_rss(&\$vars) {
+	$0
+}]]></content>
+</snippet>

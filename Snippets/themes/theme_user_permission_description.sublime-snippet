@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_user_permission_description</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_user_permission_description().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_user_permission_description(&\$vars) {
+	$0
+}]]></content>
+</snippet>

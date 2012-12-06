@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_breadcrumb</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_breadcrumb().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_breadcrumb(&\$vars) {
+	$0
+}]]></content>
+</snippet>

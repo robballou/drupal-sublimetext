@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_field_multiple_value_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_field_multiple_value_form().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_field_multiple_value_form(&\$vars) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_menu_local_action</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_menu_local_action().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_menu_local_action(&\$vars) {
+	$0
+}]]></content>
+</snippet>

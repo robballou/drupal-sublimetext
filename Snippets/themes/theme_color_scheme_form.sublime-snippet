@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_color_scheme_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_color_scheme_form().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_color_scheme_form(&\$vars) {
+	$0
+}]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_confirm_form</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_confirm_form().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_confirm_form(&\$vars) {
+	$0
+}]]></content>
+</snippet>

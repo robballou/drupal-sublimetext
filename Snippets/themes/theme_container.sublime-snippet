@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_container</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_container().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_container(&\$vars) {
+	$0
+}]]></content>
+</snippet>

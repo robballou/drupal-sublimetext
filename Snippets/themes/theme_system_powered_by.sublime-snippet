@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_system_powered_by</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_system_powered_by().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_system_powered_by(&\$vars) {
+	$0
+}]]></content>
+</snippet>

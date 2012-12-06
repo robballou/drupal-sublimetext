@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_button</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_button().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_button(&\$vars) {
+	$0
+}]]></content>
+</snippet>

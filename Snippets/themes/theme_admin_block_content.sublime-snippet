@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_theme_admin_block_content</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_admin_block_content().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_admin_block_content(&\$vars) {
+	$0
+}]]></content>
+</snippet>
