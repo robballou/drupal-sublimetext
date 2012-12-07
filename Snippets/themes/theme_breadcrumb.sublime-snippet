@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_breadcrumb</tabTrigger>
+	<tabTrigger>pre_breadcrumb</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_breadcrumb().

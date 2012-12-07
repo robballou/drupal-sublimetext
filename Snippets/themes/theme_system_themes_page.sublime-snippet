@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_system_themes_page</tabTrigger>
+	<tabTrigger>pre_system_themes_page</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_system_themes_page().

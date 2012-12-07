@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_user_permission_description</tabTrigger>
+	<tabTrigger>pre_user_permission_description</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_user_permission_description().

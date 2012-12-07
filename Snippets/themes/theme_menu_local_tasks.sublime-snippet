@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_menu_local_tasks</tabTrigger>
+	<tabTrigger>pre_menu_local_tasks</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_menu_local_tasks().

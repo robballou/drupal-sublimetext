@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_locale_languages_configure_form</tabTrigger>
+	<tabTrigger>pre_locale_languages_configure_form</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_locale_languages_configure_form().

@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_filter_guidelines</tabTrigger>
+	<tabTrigger>pre_filter_guidelines</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_filter_guidelines().

@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_book_title_link</tabTrigger>
+	<tabTrigger>pre_book_title_link</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_book_title_link().

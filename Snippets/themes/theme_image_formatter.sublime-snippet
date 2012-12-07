@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_image_formatter</tabTrigger>
+	<tabTrigger>pre_image_formatter</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_image_formatter().

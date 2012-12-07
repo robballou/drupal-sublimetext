@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_aggregator_categorize_items</tabTrigger>
+	<tabTrigger>pre_aggregator_categorize_items</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_aggregator_categorize_items().

@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_menu_tree</tabTrigger>
+	<tabTrigger>pre_menu_tree</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_menu_tree().

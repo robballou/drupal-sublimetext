@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_field_multiple_value_form</tabTrigger>
+	<tabTrigger>pre_field_multiple_value_form</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_field_multiple_value_form().

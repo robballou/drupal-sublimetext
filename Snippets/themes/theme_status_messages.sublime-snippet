@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_status_messages</tabTrigger>
+	<tabTrigger>pre_status_messages</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_status_messages().

@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_feed_icon</tabTrigger>
+	<tabTrigger>pre_feed_icon</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_feed_icon().

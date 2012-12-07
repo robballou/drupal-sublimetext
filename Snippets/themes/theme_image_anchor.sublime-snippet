@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_image_anchor</tabTrigger>
+	<tabTrigger>pre_image_anchor</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_image_anchor().

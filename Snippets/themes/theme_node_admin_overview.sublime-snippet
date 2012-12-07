@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_node_admin_overview</tabTrigger>
+	<tabTrigger>pre_node_admin_overview</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_node_admin_overview().

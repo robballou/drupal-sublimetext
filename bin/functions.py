@@ -23,7 +23,7 @@ def create_snippets(functions):
         )
         snippet_filename = "%s.sublime-snippet" % function
         snippet = """<snippet>\n\t<tabTrigger>pre_%(function)s</tabTrigger>\n\t<scope>source.php</scope>\n<content><![CDATA[%(full_function)s]]></content>\n</snippet>""" % (
-            {"function": function, "full_function": full_function, "raw_function_name": function}
+            {"function": function.replace('theme_', ''), "full_function": full_function, "raw_function_name": function}
         )
         snippets[snippet_filename] = snippet
     return snippets
@@ -66,7 +66,10 @@ if __name__ == '__main__':
             os.mkdir(args.destination)
         for snippet in snippets:
             filename = "%s/%s" % (args.destination, snippet)
-            print "[ ] Creating %s" % filename
-            f = open(filename, 'w')
-            f.write(snippets[snippet])
-            f.close()
+            if not os.path.exists(filename):
+                print "[ ] Creating %s" % filename
+                f = open(filename, 'w')
+                f.write(snippets[snippet])
+                f.close()
+            else:
+                print "[ ] Skipping %s" % filename

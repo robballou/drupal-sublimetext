@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_update_last_check</tabTrigger>
+	<tabTrigger>pre_update_last_check</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_update_last_check().

@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_comment_post_forbidden</tabTrigger>
+	<tabTrigger>pre_comment_post_forbidden</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_comment_post_forbidden().

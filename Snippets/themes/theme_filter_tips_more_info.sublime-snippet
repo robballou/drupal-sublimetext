@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_filter_tips_more_info</tabTrigger>
+	<tabTrigger>pre_filter_tips_more_info</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_filter_tips_more_info().

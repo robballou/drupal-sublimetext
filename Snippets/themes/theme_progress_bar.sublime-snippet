@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_progress_bar</tabTrigger>
+	<tabTrigger>pre_progress_bar</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_progress_bar().

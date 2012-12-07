@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_simpletest_result_summary</tabTrigger>
+	<tabTrigger>pre_simpletest_result_summary</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_simpletest_result_summary().

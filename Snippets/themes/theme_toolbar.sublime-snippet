@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_toolbar</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_toolbar().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_toolbar(&\$vars) {
+	$0
+}]]></content>
+</snippet>

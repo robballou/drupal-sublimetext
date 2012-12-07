@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_system_modules_uninstall</tabTrigger>
+	<tabTrigger>pre_system_modules_uninstall</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_system_modules_uninstall().

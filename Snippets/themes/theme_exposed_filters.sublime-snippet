@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_exposed_filters</tabTrigger>
+	<tabTrigger>pre_exposed_filters</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_exposed_filters().

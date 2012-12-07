@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_submit</tabTrigger>
+	<tabTrigger>pre_submit</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_submit().

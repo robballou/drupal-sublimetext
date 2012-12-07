@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_html_tag</tabTrigger>
+	<tabTrigger>pre_html_tag</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_html_tag().

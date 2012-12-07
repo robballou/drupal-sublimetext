@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_pager</tabTrigger>
+	<tabTrigger>pre_pager</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_pager().

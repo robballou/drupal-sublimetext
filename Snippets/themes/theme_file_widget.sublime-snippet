@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_file_widget</tabTrigger>
+	<tabTrigger>pre_file_widget</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_file_widget().

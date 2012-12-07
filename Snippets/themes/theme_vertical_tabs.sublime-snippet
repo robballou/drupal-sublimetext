@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_vertical_tabs</tabTrigger>
+	<tabTrigger>pre_vertical_tabs</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_vertical_tabs().

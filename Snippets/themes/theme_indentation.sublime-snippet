@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_indentation</tabTrigger>
+	<tabTrigger>pre_indentation</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_indentation().

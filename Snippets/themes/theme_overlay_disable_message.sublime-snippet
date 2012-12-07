@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_overlay_disable_message</tabTrigger>
+	<tabTrigger>pre_overlay_disable_message</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_overlay_disable_message().

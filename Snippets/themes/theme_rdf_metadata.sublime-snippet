@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_rdf_metadata</tabTrigger>
+	<tabTrigger>pre_rdf_metadata</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_rdf_metadata().

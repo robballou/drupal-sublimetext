@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_poll_vote</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_poll_vote().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_poll_vote(&\$vars) {
+	$0
+}]]></content>
+</snippet>

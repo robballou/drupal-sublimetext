@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_more_help_link</tabTrigger>
+	<tabTrigger>pre_more_help_link</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_more_help_link().

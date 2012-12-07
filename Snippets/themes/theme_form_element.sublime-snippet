@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_form_element</tabTrigger>
+	<tabTrigger>pre_form_element</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_form_element().

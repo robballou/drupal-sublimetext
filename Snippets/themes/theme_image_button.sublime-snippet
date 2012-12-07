@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_image_button</tabTrigger>
+	<tabTrigger>pre_image_button</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_image_button().

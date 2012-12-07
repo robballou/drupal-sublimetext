@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_task_list</tabTrigger>
+	<tabTrigger>pre_task_list</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_task_list().

@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_shortcut_set_customize</tabTrigger>
+	<tabTrigger>pre_shortcut_set_customize</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_shortcut_set_customize().

@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_trigger_display</tabTrigger>
+	<tabTrigger>pre_trigger_display</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_trigger_display().

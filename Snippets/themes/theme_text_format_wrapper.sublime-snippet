@@ -1,5 +1,5 @@
 <snippet>
-	<tabTrigger>pre_theme_text_format_wrapper</tabTrigger>
+	<tabTrigger>pre_text_format_wrapper</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
  * Implements theme_preprocess_text_format_wrapper().

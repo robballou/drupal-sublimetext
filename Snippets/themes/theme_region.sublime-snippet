@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>pre_region</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements theme_preprocess_region().
+ */
+function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_region(&\$vars) {
+	$0
+}]]></content>
+</snippet>
