@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+db_insert(${1:table}${2:, ${3:array($4)}})
+]]></content>
+	<tabTrigger>db_insert</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

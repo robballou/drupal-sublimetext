@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_update_N().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_update_N(&\$sandbox) {
+function ${TM_FILENAME/(.*)\..*/$1/}_update_${2:N}(&\$sandbox) {
 	$0
 }]]></content>
 </snippet>
