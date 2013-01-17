@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+array(
+	'#type' => 'textfield',
+	'#title' => t('${1:title}'),
+	${2:'#default_value' => ${3:'${4:value}'},}
+);
+]]></content>
+	<tabTrigger>fapi.tf</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
