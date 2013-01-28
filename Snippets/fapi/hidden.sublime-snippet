@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+array(
+	'#type' => 'hidden',
+	'#title' => t('${1:title}'),
+);
+]]></content>
+	<tabTrigger>fapi.hidden</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

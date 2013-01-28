@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+array(
+	'#type' => 'fieldset',
+	'#title' => t('${1:title}'),
+);
+]]></content>
+	<tabTrigger>fapi.fieldset</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
