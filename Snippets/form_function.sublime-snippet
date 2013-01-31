@@ -1,0 +1,21 @@
+<snippet>
+	<tabTrigger>form_function</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * $2
+ */
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_${1:function}(\$form, &\$form_state) {
+	if (!is_array(\$form)) {
+		\$form = array();
+	}
+	$0
+	return \$form;
+}${3:
+
+/**
+ * Summit handler for ${TM_FILENAME/([^\.]+)\..*/$1/}_$1
+ */
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_$1_submit(\$form, &$form_state) {
+
+}}]]></content>
+</snippet>
