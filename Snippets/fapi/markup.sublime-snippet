@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+array(
+	'#type' => 'markup',
+	'#markup' => ${1:content},
+);
+]]></content>
+	<tabTrigger>fapi.markup</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
