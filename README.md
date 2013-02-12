@@ -16,6 +16,11 @@ If you have the [Package Control][package_control] package installed, you can in
     git clone git://github.com/robballou/drupal-sublimetext.git Drupal
     popd
 
+#### Windows 7:
+	
+	cd "C:\Users\[your username]\AppData\Roaming\Sublime Text 2\Packages"
+	git clone git://github.com/robballou/drupal-sublimetext.git Drupal
+	
 ## Usage
 
 Most of this package adds snippets for Drupal core functions. I am still working on adding/checking that these functions are created correctly, but most of the functions should be there. There is also some information about [snippets in the Sublime documentation](http://docs.sublimetext.info/en/latest/extensibility/snippets.html).
