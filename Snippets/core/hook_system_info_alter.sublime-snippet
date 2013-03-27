@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_system_info_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_system_info_alter(&\$info, \$file, \$type) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_system_info_alter(&\$info, \$file, \$type) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_search_execute().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_search_execute(\$keys = NULL, \$conditions = NULL) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_search_execute(\$keys = NULL, \$conditions = NULL) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_action_info_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_action_info_alter(&\$actions) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_action_info_alter(&\$actions) {
 	$0
 }]]></content>
 </snippet>

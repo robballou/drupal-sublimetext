@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_attach_presave().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_attach_presave(\$entity_type, \$entity) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_attach_presave(\$entity_type, \$entity) {
 	$0
 }]]></content>
 </snippet>

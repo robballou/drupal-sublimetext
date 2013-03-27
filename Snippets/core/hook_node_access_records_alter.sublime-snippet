@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_node_access_records_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_node_access_records_alter(&\$grants, \$node) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_node_access_records_alter(&\$grants, \$node) {
 	$0
 }]]></content>
 </snippet>

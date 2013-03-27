@@ -3,7 +3,7 @@
 /**
  * Implements hook_block_info().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_${1:block_info}() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_${1:block_info}() {
 	$0
 }
 ]]></content>

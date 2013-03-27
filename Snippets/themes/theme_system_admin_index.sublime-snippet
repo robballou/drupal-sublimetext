@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_system_admin_index().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_system_admin_index(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_system_admin_index(&\$vars) {
 	$0
 }]]></content>
 </snippet>

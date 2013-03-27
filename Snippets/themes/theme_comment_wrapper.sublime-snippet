@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_comment_wrapper().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_comment_wrapper(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_comment_wrapper(&\$vars) {
 	$0
 }]]></content>
 </snippet>

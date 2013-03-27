@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_access().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_access(\$op, \$field, \$entity_type, \$entity, \$account) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_access(\$op, \$field, \$entity_type, \$entity, \$account) {
 	$0
 }]]></content>
 </snippet>

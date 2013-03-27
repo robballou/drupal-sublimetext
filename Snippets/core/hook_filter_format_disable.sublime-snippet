@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_filter_format_disable().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_filter_format_disable(\$format) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_filter_format_disable(\$format) {
 	$0
 }]]></content>
 </snippet>

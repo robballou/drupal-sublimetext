@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_image_crop_summary().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_image_crop_summary(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_image_crop_summary(&\$vars) {
 	$0
 }]]></content>
 </snippet>

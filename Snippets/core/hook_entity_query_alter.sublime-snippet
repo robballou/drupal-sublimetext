@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_entity_query_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_entity_query_alter(\$query) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_entity_query_alter(\$query) {
 	$0
 }]]></content>
 </snippet>

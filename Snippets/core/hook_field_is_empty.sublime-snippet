@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_is_empty().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_is_empty(\$item, \$field) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_is_empty(\$item, \$field) {
 	$0
 }]]></content>
 </snippet>

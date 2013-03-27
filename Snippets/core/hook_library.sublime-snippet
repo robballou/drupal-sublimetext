@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_library().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_library() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_library() {
 	$0
 }]]></content>
 </snippet>

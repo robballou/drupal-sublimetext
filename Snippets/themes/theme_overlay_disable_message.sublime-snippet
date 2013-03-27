@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_overlay_disable_message().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_overlay_disable_message(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_overlay_disable_message(&\$vars) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_attach_insert().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_attach_insert(\$entity_type, \$entity) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_attach_insert(\$entity_type, \$entity) {
 	$0
 }]]></content>
 </snippet>

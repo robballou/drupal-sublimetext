@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_menu_local_tasks_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_menu_local_tasks_alter(&\$data, \$router_item, \$root_path) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_menu_local_tasks_alter(&\$data, \$router_item, \$root_path) {
 	$0
 }]]></content>
 </snippet>

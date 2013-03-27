@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_prepare_translation().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_prepare_translation(\$entity_type, \$entity, \$field, \$instance, \$langcode, &\$items, \$source_entity, \$source_langcode) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_prepare_translation(\$entity_type, \$entity, \$field, \$instance, \$langcode, &\$items, \$source_entity, \$source_langcode) {
 	$0
 }]]></content>
 </snippet>

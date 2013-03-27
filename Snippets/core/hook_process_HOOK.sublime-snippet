@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_process_HOOK().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_process_HOOK(&\$variables) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_process_HOOK(&\$variables) {
 	$0
 }]]></content>
 </snippet>

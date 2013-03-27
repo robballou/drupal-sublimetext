@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_admin_paths_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_admin_paths_alter(&\$paths) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_admin_paths_alter(&\$paths) {
 	$0
 }]]></content>
 </snippet>

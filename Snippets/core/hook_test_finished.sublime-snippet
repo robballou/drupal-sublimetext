@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_test_finished().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_test_finished(\$results) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_test_finished(\$results) {
 	$0
 }]]></content>
 </snippet>

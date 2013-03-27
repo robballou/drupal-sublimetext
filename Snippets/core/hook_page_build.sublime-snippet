@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_page_build().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_page_build(&\$page) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_page_build(&\$page) {
 	$0
 }]]></content>
 </snippet>

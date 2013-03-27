@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_update_report().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_update_report(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_update_report(&\$vars) {
 	$0
 }]]></content>
 </snippet>

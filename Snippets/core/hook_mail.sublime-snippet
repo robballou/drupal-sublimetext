@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_mail().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_mail(\$key, &\$message, \$params) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_mail(\$key, &\$message, \$params) {
 	$0
 }]]></content>
 </snippet>

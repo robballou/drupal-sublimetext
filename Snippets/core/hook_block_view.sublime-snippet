@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_block_view().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_block_view(\$delta = '') {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_block_view(\$delta = '') {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_menu_link_delete().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_menu_link_delete(\$link) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_menu_link_delete(\$link) {
 	$0
 }]]></content>
 </snippet>

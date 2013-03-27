@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_locale_languages_configure_form().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_locale_languages_configure_form(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_locale_languages_configure_form(&\$vars) {
 	$0
 }]]></content>
 </snippet>

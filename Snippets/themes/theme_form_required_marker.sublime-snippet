@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_form_required_marker().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_form_required_marker(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_form_required_marker(&\$vars) {
 	$0
 }]]></content>
 </snippet>

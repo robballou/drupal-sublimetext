@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_vertical_tabs().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_vertical_tabs(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_vertical_tabs(&\$vars) {
 	$0
 }]]></content>
 </snippet>

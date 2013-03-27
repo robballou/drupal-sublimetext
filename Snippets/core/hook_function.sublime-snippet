@@ -3,7 +3,7 @@
 /**
  * Implements hook_$1().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_${1:function_name}(${2:args}) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_${1:function_name}(${2:args}) {
 	$0
 }
 ]]></content>

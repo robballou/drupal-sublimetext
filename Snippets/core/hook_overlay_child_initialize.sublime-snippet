@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_overlay_child_initialize().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_overlay_child_initialize() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_overlay_child_initialize() {
 	$0
 }]]></content>
 </snippet>

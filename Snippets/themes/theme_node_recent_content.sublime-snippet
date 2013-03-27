@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_node_recent_content().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_node_recent_content(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_node_recent_content(&\$vars) {
 	$0
 }]]></content>
 </snippet>

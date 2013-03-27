@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_xmlrpc().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_xmlrpc() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_xmlrpc() {
 	$0
 }]]></content>
 </snippet>

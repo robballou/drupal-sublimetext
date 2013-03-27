@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_url_inbound_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_url_inbound_alter(&\$path, \$original_path, \$path_language) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_url_inbound_alter(&\$path, \$original_path, \$path_language) {
 	$0
 }]]></content>
 </snippet>

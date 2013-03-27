@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_schema_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_schema_alter(&\$schema) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_schema_alter(&\$schema) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_taxonomy_term_view_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_taxonomy_term_view_alter(&\$build) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_taxonomy_term_view_alter(&\$build) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_image_toolkits().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_image_toolkits() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_image_toolkits() {
 	$0
 }]]></content>
 </snippet>

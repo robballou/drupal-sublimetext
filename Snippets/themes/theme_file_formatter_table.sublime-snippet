@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_file_formatter_table().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_file_formatter_table(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_file_formatter_table(&\$vars) {
 	$0
 }]]></content>
 </snippet>

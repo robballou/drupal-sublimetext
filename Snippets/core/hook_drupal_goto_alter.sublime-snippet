@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_drupal_goto_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_drupal_goto_alter(&\$path, &\$options, &\$http_response_code) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_drupal_goto_alter(&\$path, &\$options, &\$http_response_code) {
 	$0
 }]]></content>
 </snippet>

@@ -3,10 +3,10 @@
 /**
  * Implements hook_block_info().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_block_info() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_block_info() {
 	\$blocks = array();
 
-	\$blocks['${1:${TM_FILENAME/(.*)\..*/$1/}_block_delta}'] = array(
+	\$blocks['${1:${TM_FILENAME/([^\.]+)\..*/$1/}_block_delta}'] = array(
 		'info' => t('${2:Title}'),
 		'cache' => DRUPAL_NO_CACHE,
 	);
@@ -17,7 +17,7 @@ function ${TM_FILENAME/(.*)\..*/$1/}_block_info() {
 /**
  * Implements hook_block_view().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_block_view(\$delta = '') {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_block_view(\$delta = '') {
 	if (function_exists(\$delta . '_view')) {
 		return call_user_func(\$delta . '_view');
 	}
@@ -26,7 +26,7 @@ function ${TM_FILENAME/(.*)\..*/$1/}_block_view(\$delta = '') {
 /**
  * Implements hook_block_configure().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_block_configure(\$delta = '') {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_block_configure(\$delta = '') {
 	if (function_exists(\$delta . '_configure')) {
 		return call_user_func(\$delta . '_configure');
 	}
@@ -35,7 +35,7 @@ function ${TM_FILENAME/(.*)\..*/$1/}_block_configure(\$delta = '') {
 /**
  * Implements hook_block_save().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_block_save(\$delta = '', \$edit = array()) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_block_save(\$delta = '', \$edit = array()) {
 	if (function_exists(\$delta . '_save')) {
 		return call_user_func(\$delta . '_save', \$edit);
 	}

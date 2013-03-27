@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_html_head_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_html_head_alter(&\$head_elements) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_html_head_alter(&\$head_elements) {
 	$0
 }]]></content>
 </snippet>

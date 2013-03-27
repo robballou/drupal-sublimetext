@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_taxonomy_term_insert().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_taxonomy_term_insert(\$term) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_taxonomy_term_insert(\$term) {
 	$0
 }]]></content>
 </snippet>

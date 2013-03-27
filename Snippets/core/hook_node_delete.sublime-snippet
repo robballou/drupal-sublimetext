@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_node_delete().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_node_delete(\$node) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_node_delete(\$node) {
 	$0
 }]]></content>
 </snippet>

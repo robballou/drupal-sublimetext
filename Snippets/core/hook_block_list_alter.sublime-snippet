@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_block_list_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_block_list_alter(&\$blocks) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_block_list_alter(&\$blocks) {
 	$0
 }]]></content>
 </snippet>

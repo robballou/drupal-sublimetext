@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_file_load().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_file_load(\$files) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_file_load(\$files) {
 	$0
 }]]></content>
 </snippet>

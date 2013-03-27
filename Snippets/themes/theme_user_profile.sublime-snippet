@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_user_profile().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_user_profile(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_user_profile(&\$vars) {
 	$0
 }]]></content>
 </snippet>

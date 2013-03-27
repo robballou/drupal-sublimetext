@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_file_presave().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_file_presave(\$file) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_file_presave(\$file) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_rdf_template_variable_wrapper().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_rdf_template_variable_wrapper(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_rdf_template_variable_wrapper(&\$vars) {
 	$0
 }]]></content>
 </snippet>

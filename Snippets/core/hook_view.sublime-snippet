@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_view().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_view(\$node, \$view_mode) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_view(\$node, \$view_mode) {
 	$0
 }]]></content>
 </snippet>

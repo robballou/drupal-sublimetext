@@ -3,7 +3,7 @@
 /**
  * Implements hook_cron().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_${1:cron}() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_${1:cron}() {
 	$0
 }
 ]]></content>

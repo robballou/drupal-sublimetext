@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_simpletest_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_simpletest_alter(&\$groups) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_simpletest_alter(&\$groups) {
 	$0
 }]]></content>
 </snippet>

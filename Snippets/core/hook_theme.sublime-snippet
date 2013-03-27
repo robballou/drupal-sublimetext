@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_theme().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_theme(\$existing, \$type, \$theme, \$path) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_theme(\$existing, \$type, \$theme, \$path) {
 	$0
 }]]></content>
 </snippet>

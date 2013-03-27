@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_disable().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_disable() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_disable() {
 	$0
 }]]></content>
 </snippet>

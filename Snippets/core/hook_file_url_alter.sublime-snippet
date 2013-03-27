@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_file_url_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_file_url_alter(&\$uri) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_file_url_alter(&\$uri) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_path_insert().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_path_insert(\$path) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_path_insert(\$path) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_file_widget_multiple().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_file_widget_multiple(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_file_widget_multiple(&\$vars) {
 	$0
 }]]></content>
 </snippet>

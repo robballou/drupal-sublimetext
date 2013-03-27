@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_openid_normalization_method_info_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_openid_normalization_method_info_alter(&\$methods) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_openid_normalization_method_info_alter(&\$methods) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_views_data_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_views_data_alter(&\$data) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_views_data_alter(&\$data) {
 	$0
 }]]></content>
 </snippet>

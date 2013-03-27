@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_comment_publish().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_comment_publish(\$comment) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_comment_publish(\$comment) {
 	$0
 }]]></content>
 </snippet>

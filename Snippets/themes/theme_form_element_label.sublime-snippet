@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_form_element_label().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_form_element_label(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_form_element_label(&\$vars) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_views_form_substitutions().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_views_form_substitutions() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_views_form_substitutions() {
 	$0
 }]]></content>
 </snippet>

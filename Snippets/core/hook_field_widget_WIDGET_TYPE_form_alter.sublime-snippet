@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_widget_WIDGET_TYPE_form_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_widget_WIDGET_TYPE_form_alter(&\$element, &\$form_state, \$context) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_widget_WIDGET_TYPE_form_alter(&\$element, &\$form_state, \$context) {
 	$0
 }]]></content>
 </snippet>

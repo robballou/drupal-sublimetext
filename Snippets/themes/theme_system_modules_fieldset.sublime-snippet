@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_system_modules_fieldset().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_system_modules_fieldset(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_system_modules_fieldset(&\$vars) {
 	$0
 }]]></content>
 </snippet>

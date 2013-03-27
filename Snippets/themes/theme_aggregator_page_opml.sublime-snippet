@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_aggregator_page_opml().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_aggregator_page_opml(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_aggregator_page_opml(&\$vars) {
 	$0
 }]]></content>
 </snippet>

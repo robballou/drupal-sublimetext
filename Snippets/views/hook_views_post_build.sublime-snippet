@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_views_post_build().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_views_post_build(&\$view) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_views_post_build(&\$view) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_js_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_js_alter(&\$javascript) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_js_alter(&\$javascript) {
 	$0
 }]]></content>
 </snippet>

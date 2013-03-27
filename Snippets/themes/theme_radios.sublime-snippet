@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_radios().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_radios(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_radios(&\$vars) {
 	$0
 }]]></content>
 </snippet>

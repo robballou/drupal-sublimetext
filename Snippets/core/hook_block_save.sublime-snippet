@@ -3,7 +3,7 @@
 /**
  * Implements hook_block_save().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_${1:block_save}(\$delta = '', \$edit = array()) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_${1:block_save}(\$delta = '', \$edit = array()) {
 	$0
 }
 ]]></content>

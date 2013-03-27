@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_storage_delete().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_storage_delete(\$entity_type, \$entity, \$fields) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_storage_delete(\$entity_type, \$entity, \$fields) {
 	$0
 }]]></content>
 </snippet>

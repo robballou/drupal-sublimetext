@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_prepare().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_prepare(\$node) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_prepare(\$node) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_dashboard_disabled_block().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_dashboard_disabled_block(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_dashboard_disabled_block(&\$vars) {
 	$0
 }]]></content>
 </snippet>

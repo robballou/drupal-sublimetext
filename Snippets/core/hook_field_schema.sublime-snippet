@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_schema().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_schema(\$field) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_schema(\$field) {
 	$0
 }]]></content>
 </snippet>

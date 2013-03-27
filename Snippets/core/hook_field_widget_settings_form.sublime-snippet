@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_widget_settings_form().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_widget_settings_form(\$field, \$instance) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_widget_settings_form(\$field, \$instance) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_menu_breadcrumb_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_menu_breadcrumb_alter(&\$active_trail, \$item) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_menu_breadcrumb_alter(&\$active_trail, \$item) {
 	$0
 }]]></content>
 </snippet>

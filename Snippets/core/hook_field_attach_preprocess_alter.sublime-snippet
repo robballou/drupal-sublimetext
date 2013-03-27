@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_attach_preprocess_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_attach_preprocess_alter(&\$variables, \$context) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_attach_preprocess_alter(&\$variables, \$context) {
 	$0
 }]]></content>
 </snippet>

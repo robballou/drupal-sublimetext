@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_language_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_language_alter(&\$display_language, \$context) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_language_alter(&\$display_language, \$context) {
 	$0
 }]]></content>
 </snippet>

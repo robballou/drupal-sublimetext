@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_aggregator_fetch().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_aggregator_fetch(\$feed) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_aggregator_fetch(\$feed) {
 	$0
 }]]></content>
 </snippet>

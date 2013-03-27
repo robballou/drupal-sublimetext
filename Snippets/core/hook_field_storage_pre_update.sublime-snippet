@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_storage_pre_update().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_storage_pre_update(\$entity_type, \$entity, &\$skip_fields) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_storage_pre_update(\$entity_type, \$entity, &\$skip_fields) {
 	$0
 }]]></content>
 </snippet>

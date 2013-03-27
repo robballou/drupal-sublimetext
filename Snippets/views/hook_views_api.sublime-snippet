@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_views_api().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_views_api() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_views_api() {
 	$0
 }]]></content>
 </snippet>

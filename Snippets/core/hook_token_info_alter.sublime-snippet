@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_token_info_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_token_info_alter(&\$data) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_token_info_alter(&\$data) {
 	$0
 }]]></content>
 </snippet>

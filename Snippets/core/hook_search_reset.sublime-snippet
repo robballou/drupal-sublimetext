@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_search_reset().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_search_reset() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_search_reset() {
 	$0
 }]]></content>
 </snippet>

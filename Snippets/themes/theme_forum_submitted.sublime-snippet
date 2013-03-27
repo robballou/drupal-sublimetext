@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_forum_submitted().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_forum_submitted(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_forum_submitted(&\$vars) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_attach_rename_bundle().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_attach_rename_bundle(\$entity_type, \$bundle_old, \$bundle_new) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_attach_rename_bundle(\$entity_type, \$bundle_old, \$bundle_new) {
 	$0
 }]]></content>
 </snippet>

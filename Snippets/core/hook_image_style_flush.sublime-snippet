@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_image_style_flush().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_image_style_flush(\$style) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_image_style_flush(\$style) {
 	$0
 }]]></content>
 </snippet>

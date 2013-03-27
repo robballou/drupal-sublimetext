@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_actions_delete().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_actions_delete(\$aid) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_actions_delete(\$aid) {
 	$0
 }]]></content>
 </snippet>

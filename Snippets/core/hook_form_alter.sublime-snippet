@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_form_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_form_alter(&\$form, &\$form_state, \$form_id) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_form_alter(&\$form, &\$form_state, \$form_id) {
 	$0
 }]]></content>
 </snippet>

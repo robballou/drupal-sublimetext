@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_display_ENTITY_TYPE_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_display_ENTITY_TYPE_alter(&\$display, \$context) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_display_ENTITY_TYPE_alter(&\$display, \$context) {
 	$0
 }]]></content>
 </snippet>

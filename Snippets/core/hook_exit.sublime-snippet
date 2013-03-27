@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_exit().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_exit(\$destination = NULL) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_exit(\$destination = NULL) {
 	$0
 }]]></content>
 </snippet>

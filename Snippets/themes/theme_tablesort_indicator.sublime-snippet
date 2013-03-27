@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements theme_preprocess_tablesort_indicator().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_preprocess_tablesort_indicator(&\$vars) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_preprocess_tablesort_indicator(&\$vars) {
 	$0
 }]]></content>
 </snippet>

@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_extra_fields_display_alter().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_extra_fields_display_alter(&\$displays, \$context) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_extra_fields_display_alter(&\$displays, \$context) {
 	$0
 }]]></content>
 </snippet>

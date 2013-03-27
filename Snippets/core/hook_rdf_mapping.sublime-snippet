@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_rdf_mapping().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_rdf_mapping() {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_rdf_mapping() {
 	$0
 }]]></content>
 </snippet>

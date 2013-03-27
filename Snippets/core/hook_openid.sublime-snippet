@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_openid().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_openid(\$op, \$request) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_openid(\$op, \$request) {
 	$0
 }]]></content>
 </snippet>

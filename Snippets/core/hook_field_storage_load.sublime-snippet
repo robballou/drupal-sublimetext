@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_storage_load().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_storage_load(\$entity_type, \$entities, \$age, \$fields, \$options) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_storage_load(\$entity_type, \$entities, \$age, \$fields, \$options) {
 	$0
 }]]></content>
 </snippet>

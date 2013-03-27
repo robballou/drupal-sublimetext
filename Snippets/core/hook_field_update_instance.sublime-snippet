@@ -4,7 +4,7 @@
 <content><![CDATA[/**
  * Implements hook_field_update_instance().
  */
-function ${TM_FILENAME/(.*)\..*/$1/}_field_update_instance(\$instance, \$prior_instance) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_field_update_instance(\$instance, \$prior_instance) {
 	$0
 }]]></content>
 </snippet>
