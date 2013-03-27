@@ -1,6 +1,6 @@
 # Drupal Sublime Text
 
-Add Drupal snippets/functionality
+Adds Drupal 7 snippets/functionality
 
 ## Installation
 
@@ -23,7 +23,7 @@ If you have the [Package Control][package_control] package installed, you can in
 	
 ## Usage
 
-Most of this package adds snippets for Drupal core functions. I am still working on adding/checking that these functions are created correctly, but most of the functions should be there. There is also some information about [snippets in the Sublime documentation](http://docs.sublimetext.info/en/latest/extensibility/snippets.html).
+Most of this package adds snippets for Drupal 7 core functions. I am still working on adding/checking that these functions are created correctly, but most of the functions should be there. There is also some information about [snippets in the Sublime documentation](http://docs.sublimetext.info/en/latest/extensibility/snippets.html).
 
 Snippets can also be accessed via the command palette.
 
