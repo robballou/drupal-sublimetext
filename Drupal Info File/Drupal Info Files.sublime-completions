@@ -1,0 +1,13 @@
+{
+	"scope": "source.drupal.info",
+	"completions": [
+		{"trigger": "name", "contents": "name = "},
+		{"trigger": "description", "contents": "description = "},
+		{"trigger": "dependencies", "contents": "dependencies[] = "},
+		{"trigger": "package", "contents": "package = "},
+		{"trigger": "core", "contents": "core = "},
+		{"trigger": "php", "contents": "php = "},
+		{"trigger": "version", "contents": "version = "},
+		{"trigger": "files", "contents": "files[] = "}
+	]
+}

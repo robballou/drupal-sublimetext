@@ -1,0 +1,17 @@
+{ "name": "Drupal Info File",
+  "scopeName": "source.drupal.info",
+  "fileTypes": ["info"],
+  "patterns": [
+  	{ "match": "^([a-zA-Z0-9_\\]\\[]+)\\s*=\\s*(.+)$",
+      "captures": {
+          "1": { "name": "keyword.name" },
+          "2": { "name": "string" }
+      }
+  	},
+    {
+      "match": "^;.+",
+      "name": "comment"
+    }
+  ],
+  "uuid": "67da56ca-6afb-4130-b717-d339d4a854b6"
+}
