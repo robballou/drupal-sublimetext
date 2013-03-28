@@ -1,0 +1,11 @@
+{
+	"scope": "source.php",
+	"completions": [
+		"DynamicMigration",
+		"MigrateDestinationNode",
+		"MigrateDestinationTerm",
+		"MigrateSourceSQL",
+		"MigrateSQLMap",
+		"Migration"
+	]
+}

@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * $3
+ */
+class ${1:MigrationName} extends ${2:Migration} {
+	/**
+	 * ${4:Migration}
+	 */
+	public function __construct() {
+		parent::__construct();
+
+		\$this->description(t('$3'));
+
+		${0:// code}
+	}
+}
+]]></content>
+	<tabTrigger>migration</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
