@@ -2,6 +2,7 @@
 	"scope": "source.php",
 	"completions": [
 		"DynamicMigration",
+		"MigrateDestinationFile",
 		"MigrateDestinationNode",
 		"MigrateDestinationTerm",
 		"MigrateSourceSQL",
