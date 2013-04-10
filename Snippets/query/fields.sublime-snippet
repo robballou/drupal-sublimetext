@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>qfields</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[\$${1:query}->fields('${2:table}'${3:, array(${4:items})})${5:;}]]></content>
+</snippet>

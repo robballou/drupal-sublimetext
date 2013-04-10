@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>qjoin</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[\$${1:query}->join('${2:table}', '${3:${2/(\w).*/$1/}}', '${4:on}')${5:;}]]></content>
+</snippet>
