@@ -10,8 +10,20 @@ class ${1:MigrationName} extends ${2:Migration} {
 	public function __construct() {
 		parent::__construct();
 
-		\$this->description(t('$3'));
+		\$this->description = t('$3');
 
+		\$this->map = new MigrateSQLMap(
+			\$this->machineName,
+			array(
+				// map definition
+			),
+			${4:MigrateDestinationNode}::getKeySchema()
+		);
+
+		\$query = db_select('${5:table}', '${5/(\w)(.*)/$1/}');
+
+		\$this->source = new MigrateSQLSource(\$query);
+		\$this->destination = new $4();
 		${0:// code}
 	}
 }
