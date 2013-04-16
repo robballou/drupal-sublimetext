@@ -22,7 +22,7 @@ class ${1:MigrationName} extends ${2:Migration} {
 
 		\$query = db_select('${5:table}', '${5/(\w)(.*)/$1/}');
 
-		\$this->source = new MigrateSQLSource(\$query);
+		\$this->source = new MigrateSourceSQL(\$query);
 		\$this->destination = new $4();
 		${0:// code}
 	}
