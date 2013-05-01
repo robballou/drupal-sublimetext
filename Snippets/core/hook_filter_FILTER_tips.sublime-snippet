@@ -2,9 +2,9 @@
 	<tabTrigger>h.filter_FILTER_tips</tabTrigger>
 	<scope>source.php</scope>
 <content><![CDATA[/**
- * Implements hook_filter_FILTER_tips().
+ * Implements hook_filter_FILTER_tips() for ${1:FILTER}.
  */
-function ${TM_FILENAME/([^\.]+)\..*/$1/}_filter_FILTER_tips(\$filter, \$format, \$long) {
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_filter_${1}_tips(\$filter, \$format, \$long) {
 	$0
 }]]></content>
 </snippet>
