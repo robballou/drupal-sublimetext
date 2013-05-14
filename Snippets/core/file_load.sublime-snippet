@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_load</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[file_load(${1:fid})]]></content>
+</snippet>
