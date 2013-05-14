@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_load_multiple</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[file_load_multiple(${1:fids})]]></content>
+</snippet>
