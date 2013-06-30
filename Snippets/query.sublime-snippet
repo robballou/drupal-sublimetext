@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$${1:query} = db_select(${2:'${3:table}'}${4:, ${5:'${6:alias}'}});
+]]></content>
+	<tabTrigger>query</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
