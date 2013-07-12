@@ -29,6 +29,7 @@
 		"WATCHDOG_NOTICE",
 		"WATCHDOG_INFO",
 		"WATCHDOG_DEBUG",
+		"LANGUAGE_NONE",
 
 		{"trigger": "base_path", "contents": "\\$base_path"},
 		{"trigger": "base_root", "contents": "\\$base_root"},
