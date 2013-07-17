@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[drupal_get_path('module', '${TM_FILENAME/([^\.]+)\..*/$1/}')]]></content>
+	<tabTrigger>module_path</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
