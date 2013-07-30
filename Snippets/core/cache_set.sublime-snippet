@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>cache_set</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[cache_set(${1:cid}${2:, ${3:bin}${4:, ${5:expire}}})]]></content>
+</snippet>

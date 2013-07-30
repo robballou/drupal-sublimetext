@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>cache_get</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[cache_get(${1:cid}, ${2:data}${3:, ${4:bin}})]]></content>
+</snippet>
