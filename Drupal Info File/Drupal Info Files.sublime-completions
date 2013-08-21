@@ -14,6 +14,7 @@
 		{"trigger": "regions", "contents": "regions[] = "},
 		{"trigger": "features", "contents": "features[] = "},
 		{"trigger": "scripts", "contents": "scripts[] = "},
+		{"trigger": "settings", "contents": "settings[] = "},
 		{"trigger": "stylesheets", "contents": "stylesheets[] = "}
 	]
 }
