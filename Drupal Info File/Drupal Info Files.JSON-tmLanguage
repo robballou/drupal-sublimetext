@@ -2,7 +2,7 @@
   "scopeName": "source.drupal.info",
   "fileTypes": ["info"],
   "patterns": [
-  	{ "match": "^([a-zA-Z0-9_\\]\\[]+)\\s*=\\s*(.+)$",
+  	{ "match": "^([a-zA-Z0-9_\\]\\[\\s]+)\\s*=\\s*(.+)$",
       "captures": {
           "1": { "name": "keyword.name" },
           "2": { "name": "string" }
