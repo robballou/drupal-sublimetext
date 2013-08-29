@@ -8,6 +8,13 @@
 		{"trigger": "core", "contents": "core = "},
 		{"trigger": "php", "contents": "php = "},
 		{"trigger": "version", "contents": "version = "},
-		{"trigger": "files", "contents": "files[] = "}
+		{"trigger": "files", "contents": "files[] = "},
+		{"trigger": "screenshot", "contents": "screenshot = "},
+		{"trigger": "engine", "contents": "engine = "},
+		{"trigger": "regions", "contents": "regions[] = "},
+		{"trigger": "features", "contents": "features[] = "},
+		{"trigger": "scripts", "contents": "scripts[] = "},
+		{"trigger": "settings", "contents": "settings[] = "},
+		{"trigger": "stylesheets", "contents": "stylesheets[] = "}
 	]
 }
