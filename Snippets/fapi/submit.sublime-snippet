@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+array(
+	'#type' => 'submit',
+	'#title' => t('${1:title}'),
+);
+]]></content>
+	<tabTrigger>fapi.submit</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
