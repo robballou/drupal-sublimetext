@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>h.tokens</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[/**
+ * Implements hook_tokens().
+ */
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_tokens(\$type, \$tokens, \$data = array(), \$options = array()) {
+	$0
+}]]></content>
+</snippet>
