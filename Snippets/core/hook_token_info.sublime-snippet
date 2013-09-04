@@ -5,6 +5,10 @@
  * Implements hook_token_info().
  */
 function ${TM_FILENAME/([^\.]+)\..*/$1/}_token_info() {
-	$0
+	return array(
+		'tokens' => array(
+			$0
+		),
+	);
 }]]></content>
 </snippet>
