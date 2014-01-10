@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>qcon</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[\$${1:query}->condition(${2:'${3:field}'}, ${4:'${5:value}'}, '${6:=}')${7:;}]]></content>
+</snippet>

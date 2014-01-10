@@ -5,6 +5,15 @@
  * Implements hook_library().
  */
 function ${TM_FILENAME/([^\.]+)\..*/$1/}_library() {
-	$0
+	return array(
+		'${2:library}' => array(
+			'title' => '${3:Title}',
+			'website' => '${4:website}',
+			'version' => '${5:version}',
+			'js' => array(
+				libraries_get_path('${6:$2}') . '/${7:file.js}' => array(),
+			),
+		),
+	);
 }]]></content>
 </snippet>
