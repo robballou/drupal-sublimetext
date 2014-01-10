@@ -11,14 +11,17 @@ A list of included snippets:
 ### General
 
 * blocks
+* drupal_get_path
 * efq
 * form_function
 * hook
 * menu
 * prefix
+* query
 * view
 
 ### All
+* blocks
 * core/aggregator_admin_form
 * core/aggregator_admin_form_submit
 * core/aggregator_admin_overview
@@ -191,6 +194,8 @@ A list of included snippets:
 * core/book_update_bid
 * core/bootstrap_hooks
 * core/bootstrap_invoke_all
+* core/cache_get
+* core/cache_set
 * core/check_markup
 * core/check_plain
 * core/check_url
@@ -328,6 +333,7 @@ A list of included snippets:
 * core/dashboard_theme
 * core/dashboard_update
 * core/date_iso8601
+* core/db_delete
 * core/db_insert
 * core/db_query
 * core/db_select
@@ -355,6 +361,8 @@ A list of included snippets:
 * core/drupal_add_html_head
 * core/drupal_add_html_head_link
 * core/drupal_add_http_header
+* core/drupal_add_js.module_js
+* core/drupal_add_js.setting
 * core/drupal_add_js
 * core/drupal_add_library
 * core/drupal_add_region_content
@@ -423,6 +431,7 @@ A list of included snippets:
 * core/drupal_html_class
 * core/drupal_html_id
 * core/drupal_http_build_query
+* core/drupal_http_request
 * core/drupal_implode_tags
 * core/drupal_install_schema
 * core/drupal_installation_attempted
@@ -698,6 +707,8 @@ A list of included snippets:
 * core/file_icon_map
 * core/file_icon_path
 * core/file_icon_url
+* core/file_load
+* core/file_load_multiple
 * core/file_managed_file_pre_render
 * core/file_managed_file_process
 * core/file_managed_file_save_upload
@@ -1119,6 +1130,7 @@ A list of included snippets:
 * core/hook_themes_enabled
 * core/hook_token_info
 * core/hook_token_info_alter
+* core/hook_tokens
 * core/hook_tokens_alter
 * core/hook_translated_menu_link_alter
 * core/hook_trigger_info
@@ -1266,6 +1278,7 @@ A list of included snippets:
 * core/initializeRegistry
 * core/int2vancode
 * core/ip_address
+* core/l
 * core/language_default
 * core/language_list
 * core/language_types
@@ -2595,18 +2608,27 @@ A list of included snippets:
 * core/watchdog
 * core/watchdog_severity_levels
 * devel/dd
+* devel/ddebug_backtrace
 * devel/dpm
+* devel/dvm
 * devel/kpr
+* drupal_get_path
 * efq
 * fapi/fieldset
 * fapi/hidden
 * fapi/markup
+* fapi/submit
 * fapi/text
 * fapi/tf
 * form_function
 * hook
 * menu
+* migrate/migration
 * prefix
+* query
+* query/condition
+* query/fields
+* query/join
 * themes/theme_admin_block
 * themes/theme_admin_block_content
 * themes/theme_admin_page
