@@ -1,5 +1,5 @@
 <snippet>
 	<tabTrigger>cache_get</tabTrigger>
 	<scope>source.php</scope>
-	<content><![CDATA[cache_get(${1:cid}, ${2:, ${3:bin}})]]></content>
+	<content><![CDATA[cache_get(${1:cid}${2:, ${3:bin}})]]></content>
 </snippet>

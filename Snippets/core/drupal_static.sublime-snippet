@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_static</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[\$${1:variable} = &drupal_static(${2:__FUNCTION__});]]></content>
+</snippet>
