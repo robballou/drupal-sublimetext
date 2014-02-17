@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->drupalCreateUser(array(
+	$0
+));]]></content>
+	<tabTrigger>drupalCreateUser</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

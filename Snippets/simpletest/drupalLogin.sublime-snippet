@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[\$this->drupalLogin(${1:\$${2:user}});]]></content>
+	<tabTrigger>drupalLogin</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

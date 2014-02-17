@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * $1 tests
+ */
+class ${1:TestCase} extends ${2:DrupalWebTestCase} {
+	/**
+	 * Simple test info
+	 */
+	public static function getInfo() {
+		return array(
+			'name' => '${3:Test name}',
+			'description' => '${4:Test description}',
+			'group' => '${5:group}',
+    	);
+	}
+
+	$0
+}]]></content>
+	<tabTrigger>DrupalWebTestCase</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
