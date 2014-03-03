@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>field_view_field</tabTrigger>
+	<scope>source.php</scope>
+	<content><![CDATA[field_view_field(${1:entity type}, ${2:entity}, ${3:field}${4:, ${5:display}${6:, ${7:language}}})]]></content>
+</snippet>
