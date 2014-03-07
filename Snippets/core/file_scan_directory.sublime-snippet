@@ -1,0 +1,5 @@
+<snippet>
+  <tabTrigger>file_scan_directory</tabTrigger>
+  <scope>source.php</scope>
+  <content><![CDATA[file_scan_directory(${1:dir}, ${2:mask}${3:, ${4:options}${5:, ${6:depth}}})]]></content>
+</snippet>

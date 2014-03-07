@@ -1,0 +1,5 @@
+<snippet>
+  <tabTrigger>file_unmanaged_delete</tabTrigger>
+  <scope>source.php</scope>
+  <content><![CDATA[file_unmanaged_delete(${1:path})]]></content>
+</snippet>
