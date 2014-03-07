@@ -1,6 +1,6 @@
 { "name": "Drupal Info File",
   "scopeName": "source.drupal.info",
-  "fileTypes": ["info"],
+  "fileTypes": ["info", "make"],
   "patterns": [
   	{ "match": "^([a-zA-Z0-9_\\]\\[\\s]+)\\s*=\\s*(.+)$",
       "captures": {
