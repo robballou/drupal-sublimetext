@@ -39,6 +39,10 @@
 		{"trigger": "databases", "contents": "\\$databases"},
 		{"trigger": "is_https", "contents": "\\$is_https"},
 		{"trigger": "language", "contents": "\\$language"},
-		{"trigger": "user", "contents": "\\$user"}
+		{"trigger": "user", "contents": "\\$user"},
+
+		{"trigger": "perm-admin", "contents": "access administration pages"},
+		{"trigger": "perm-reports", "contents": "access site reports"},
+		{"trigger": "perm-bypass", "contents": "bypass node access"}
 	]
 }
