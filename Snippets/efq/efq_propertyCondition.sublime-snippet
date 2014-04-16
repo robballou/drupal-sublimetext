@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[propertyCondition(${1:column}, ${2:value}${3:, ${4:operator}})${5:;}]]></content>
+	<tabTrigger>propertyCondition</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

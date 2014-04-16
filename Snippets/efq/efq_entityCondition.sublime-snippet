@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[entityCondition(${1:name}, ${2:value}${3:, ${4:operator}})${5:;}]]></content>
+	<tabTrigger>entityCondition</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 array(
 	'#type' => 'submit',
-	'#title' => t('${1:title}'),
+	'#value' => t('${1:title}'),
 );
 ]]></content>
 	<tabTrigger>fapi.submit</tabTrigger>
