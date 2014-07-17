@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+array(
+  '#type' => 'select',
+  '#title' => t('${1:title}'),
+  '#options' => ${2:drupal_map_assoc(array(t('${3:value}'), t('${4:value}'))),}
+  ${5:'#default_value' => '${3:value}'}
+);
+]]></content>
+  <tabTrigger>fapi.select</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

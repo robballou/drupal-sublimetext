@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+array(
+  '#type' => 'checkboxes',
+  '#title' => t('${1:title}'),
+  '#options' => ${2:drupal_map_assoc(array(t('${3:value}'), t('${4:value}')))}
+);
+]]></content>
+  <tabTrigger>fapi.checkboxes</tabTrigger>
+  <scope>source.php</scope>
+</snippet>
