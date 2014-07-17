@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+array(
+  '#type' => 'checkbox',
+  '#title' => t('${1:title}'),
+  ${2:'#default_value' => ${3:${4:true}}}
+);
+]]></content>
+  <tabTrigger>fapi.checkbox</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

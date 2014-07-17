@@ -2,7 +2,7 @@
 	<content><![CDATA[
 array(
 	'#type' => 'hidden',
-	'#title' => t('${1:title}'),
+	'#value' => t('${1:value}')
 );
 ]]></content>
 	<tabTrigger>fapi.hidden</tabTrigger>
