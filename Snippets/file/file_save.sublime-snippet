@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_save</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_save(${1:tdClass $file})]]></content>
+</snippet>

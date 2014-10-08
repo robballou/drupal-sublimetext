@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_build_uri</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_build_uri(${1:path})]]></content>
+</snippet>

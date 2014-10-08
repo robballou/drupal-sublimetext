@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_delete(${1:tdClass $file}${2:, ${3:force}})]]></content>
+</snippet>

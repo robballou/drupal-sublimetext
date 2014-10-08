@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_validate_size</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_validate_size(${1:tdClass $file}${2:, ${3:file_limit}${4:, ${5:user_limit}}})]]></content>
+</snippet>

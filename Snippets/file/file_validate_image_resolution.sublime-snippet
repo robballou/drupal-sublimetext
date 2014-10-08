@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_validate_image_resolution</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_validate_image_resolution(${1:tdClass $file}${2:, ${3:maximum_dimensions}${4:, ${5:minimum_dimensions}}})]]></content>
+</snippet>

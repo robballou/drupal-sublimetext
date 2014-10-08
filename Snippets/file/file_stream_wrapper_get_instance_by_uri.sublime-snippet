@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_stream_wrapper_get_instance_by_uri</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_stream_wrapper_get_instance_by_uri(${1:uri})]]></content>
+</snippet>

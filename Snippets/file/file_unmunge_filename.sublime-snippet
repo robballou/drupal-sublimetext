@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_unmunge_filename</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_unmunge_filename(${1:filename})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_mkdir</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_mkdir(${1:uri}${2:, ${3:mode}${4:, ${5:recursive}${6:, ${7:context}}}})]]></content>
+</snippet>

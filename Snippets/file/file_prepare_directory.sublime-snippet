@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_prepare_directory</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_prepare_directory(${1:directory}${2:, ${3:options}})]]></content>
+</snippet>

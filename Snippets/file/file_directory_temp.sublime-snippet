@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_directory_temp</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_directory_temp()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_unlink</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_unlink(${1:uri}${2:, ${3:context}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_upload_max_size</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_upload_max_size()]]></content>
+</snippet>

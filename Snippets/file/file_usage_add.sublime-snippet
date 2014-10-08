@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_usage_add</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_usage_add(${1:tdClass $file}, ${2:module}, ${3:type}, ${4:id}${5:, ${6:count}})]]></content>
+</snippet>

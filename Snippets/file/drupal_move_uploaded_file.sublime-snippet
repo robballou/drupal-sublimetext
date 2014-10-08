@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_move_uploaded_file</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_move_uploaded_file(${1:filename}, ${2:uri})]]></content>
+</snippet>

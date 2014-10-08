@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_dirname</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_dirname(${1:uri})]]></content>
+</snippet>

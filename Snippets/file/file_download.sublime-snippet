@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_download</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_download()]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_get_content_headers</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_get_content_headers(${1:file})]]></content>
+</snippet>

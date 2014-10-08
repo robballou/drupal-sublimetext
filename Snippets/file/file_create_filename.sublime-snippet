@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_create_filename</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_create_filename(${1:basename}, ${2:directory})]]></content>
+</snippet>

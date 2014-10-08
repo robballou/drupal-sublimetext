@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_destination</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_destination(${1:destination}, ${2:replace})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_default_scheme</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_default_scheme()]]></content>
+</snippet>

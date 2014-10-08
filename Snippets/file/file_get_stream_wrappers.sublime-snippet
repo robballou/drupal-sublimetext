@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_get_stream_wrappers</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_get_stream_wrappers(${1:, ${2:filter}})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_usage_delete</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_usage_delete(${1:tdClass $file}, ${2:module}${3:, ${4:type}${5:, ${6:id}${7:, ${8:count}}}})]]></content>
+</snippet>

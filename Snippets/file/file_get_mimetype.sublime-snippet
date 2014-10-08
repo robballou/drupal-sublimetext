@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_get_mimetype</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_get_mimetype(${1:uri}${2:, ${3:mapping}})]]></content>
+</snippet>

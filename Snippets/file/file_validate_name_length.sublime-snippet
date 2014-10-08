@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_validate_name_length</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_validate_name_length(${1:tdClass $file})]]></content>
+</snippet>

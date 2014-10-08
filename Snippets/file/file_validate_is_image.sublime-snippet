@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_validate_is_image</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_validate_is_image(${1:tdClass $file})]]></content>
+</snippet>

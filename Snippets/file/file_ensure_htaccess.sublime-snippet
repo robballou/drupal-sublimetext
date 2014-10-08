@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_ensure_htaccess</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_ensure_htaccess()]]></content>
+</snippet>

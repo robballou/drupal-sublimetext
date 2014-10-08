@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_htaccess_lines</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_htaccess_lines(${1:, ${2:private}})]]></content>
+</snippet>

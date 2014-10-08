@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_copy</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_copy(${1:tdClass $source}${2:, ${3:destination}${4:, ${5:replace}}})]]></content>
+</snippet>

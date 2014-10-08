@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_uri_scheme</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_uri_scheme(${1:uri})]]></content>
+</snippet>

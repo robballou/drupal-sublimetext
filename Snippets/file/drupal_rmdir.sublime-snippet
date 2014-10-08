@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>drupal_rmdir</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[drupal_rmdir(${1:uri}${2:, ${3:context}})]]></content>
+</snippet>

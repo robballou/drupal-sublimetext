@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_munge_filename</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_munge_filename(${1:filename}, ${2:extensions}${3:, ${4:alerts}})]]></content>
+</snippet>

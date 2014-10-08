@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_unmanaged_delete_recursive</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_unmanaged_delete_recursive(${1:path})]]></content>
+</snippet>

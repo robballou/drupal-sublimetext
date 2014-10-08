@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_usage_list</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_usage_list(${1:tdClass $file})]]></content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_space_used</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_space_used(${1:, ${2:uid}${3:, ${4:status}}})]]></content>
+</snippet>

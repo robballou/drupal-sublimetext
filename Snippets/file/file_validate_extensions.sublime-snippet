@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_validate_extensions</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_validate_extensions(${1:tdClass $file}, ${2:extensions})]]></content>
+</snippet>

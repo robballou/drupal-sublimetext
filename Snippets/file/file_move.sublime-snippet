@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_move</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_move(${1:tdClass $source}${2:, ${3:destination}${4:, ${5:replace}}})]]></content>
+</snippet>

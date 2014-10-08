@@ -1,0 +1,5 @@
+<snippet>
+	<tabTrigger>file_create_htaccess</tabTrigger>
+	<scope>source.php</scope>
+<content><![CDATA[file_create_htaccess(${1:directory}${2:, ${3:private}${4:, ${5:force_overwrite}}})]]></content>
+</snippet>
